@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://ref.antidot.net/store/afs#" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:afs="http://ref.antidot.net/afs#" targetNamespace="http://ref.antidot.net/store/afs#"
+  version="2.7" elementFormDefault="qualified">
+  <xs:import schemaLocation="afs_BasicTypes.xsd" namespace="http://ref.antidot.net/afs#"/>
+  <xs:include schemaLocation="afs-store_CommonTypes.xsd"/>
+  <xs:annotation>
+    <xs:documentation xml:lang="en">E-commerce product store schema. Designed for
+      AFS@Store.</xs:documentation>
+  </xs:annotation>
+
+  <xs:simpleType name="shortText">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="2"/>
+      <xs:maxLength value="150"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="storeType">
+    <xs:choice  minOccurs="1" maxOccurs="unbounded">
+      <!-- Identity -->
+      <xs:element name="name">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:minLength value="2"/>
+            <xs:maxLength value="40"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="logo" type="xs:anyURI"/>
+      <xs:element name="telephone" type="afs:faxPhoneType"/>
+      <xs:element name="fax" type="afs:faxPhoneType"/>
+      <xs:element name="email" type="afs:emailType"/>
+      <xs:element name="url" type="xs:anyURI"/>
+      <!-- Identity end -->
+      <!-- Geography -->
+      <xs:element name="address" type="afs:addressType" minOccurs="0"/>
+      <xs:group ref="location"/>
+      <xs:group ref="geopos"/>
+      <!-- Geography: end -->
+      <xs:element name="opening_hours">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="description" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="shortText">
+                    <xs:attribute name="name" type="afs:stringId" use="optional"/>
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="descriptions">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="description" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="xs:string">
+                    <xs:attribute name="name" type="afs:stringId" use="optional"/>
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="is_shipping_target" type="afs:booleanByte"/>
+      <xs:element name="misc" type="xs:anyType"/>
+    </xs:choice>
+    <xs:attributeGroup ref="afs:mandatoryDocumentAttributes"/>
+  </xs:complexType>
+
+  <xs:element name="store" type="storeType"/>
+
+</xs:schema>

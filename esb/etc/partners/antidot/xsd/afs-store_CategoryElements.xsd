@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://ref.antidot.net/store/afs#" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:afs="http://ref.antidot.net/afs#" targetNamespace="http://ref.antidot.net/store/afs#"
+  version="2.7" elementFormDefault="qualified">
+  <xs:import schemaLocation="afs_BasicTypes.xsd" namespace="http://ref.antidot.net/afs#"/>
+  <xs:annotation>
+    <xs:documentation xml:lang="en">Definitions common to brands and categories. Designed for
+      AFS@Store.</xs:documentation>
+  </xs:annotation>
+
+  <xs:complexType name="refType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="idref" type="xs:token" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:group name="websiteGroup">
+    <xs:choice>
+      <xs:element name="productsCount" type="xs:positiveInteger"/>
+      <xs:element name="url" type="xs:anyURI"/>
+    </xs:choice>
+  </xs:group>
+
+  <!-- A bit similar to product's store definition -->
+  <xs:complexType name="categoryWebsite">
+    <xs:group ref="websiteGroup" minOccurs="0"/>
+    <xs:attribute name="id" type="afs:stringId" use="required"/>
+    <xs:attribute name="name" type="afs:shortStringType" use="optional"/>
+  </xs:complexType>
+
+  <xs:group name="categoryGroup">
+    <xs:choice>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="websites">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="website" type="categoryWebsite" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="url" type="xs:anyURI"/>
+      <xs:element name="thumbnail" type="xs:anyURI"/>
+      <xs:element name="image" type="xs:anyURI"/>
+      <xs:element name="related" type="refType"/>
+      <xs:element name="keywords" type="xs:string"/>
+      <xs:element name="note" type="xs:string"/>
+      <xs:element name="productsCount" type="xs:positiveInteger"/>
+    </xs:choice>
+  </xs:group>
+
+  <xs:complexType name="categoryType">
+    <xs:choice maxOccurs="unbounded">
+      <xs:group ref="categoryGroup"/>
+    </xs:choice>
+    <xs:attributeGroup ref="afs:mandatoryDocumentAttributes"/>
+  </xs:complexType>
+
+</xs:schema>

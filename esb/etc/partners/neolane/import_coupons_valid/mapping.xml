@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+    <in>
+        <fields>
+
+            <field>
+                <from>ID_CLUB</from>
+                <to>cdm_card_number</to>
+            </field>
+
+            <field>
+                <from>ID_BON</from>
+                <to>code</to>
+            </field>
+
+            <field>
+                <from>Valeur</from>
+                <to>amount</to>
+            </field>
+            
+            <field>
+                <from>DATE_FIN_VALID</from>
+                <to>expiration_date</to>
+            </field>
+        </fields>
+    </in>
+</mapping>

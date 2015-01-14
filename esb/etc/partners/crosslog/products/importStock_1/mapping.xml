@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+  <in>
+    <fields>
+      <field>
+        <from>Reference</from>
+        <to>id</to>
+      </field>
+      <field>
+        <from>AvailableStockQuantity</from>
+        <to>qty</to>
+      </field>
+      <field>
+        <from></from>
+        <to>fromCode</to>
+        <constant>ocp_ean</constant>
+      </field>
+    </fields>
+	</in>	
+</mapping>

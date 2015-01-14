@@ -1,0 +1,5 @@
+attribute_id,attribute_code,store_code,value,label,oclio_fr,oclio_it,oclio_es,oclio_en
+,ocp_size,admin,,Isofix,Isofix,Isofix,Isofix,Isofix
+,,,,Belt,Ceinture,Cintura di sicurezza,Cinturón de seguridad,Belt
+,,,,Isofix basis,Base isofix,Base isofix,Base isofix,Isofix basis
+,,,,Belt basis,Base ceinture,Base con cintura di sicurezza,Base con cinturón,Belt basis

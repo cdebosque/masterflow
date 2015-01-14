@@ -1,0 +1,20 @@
+attribute_id,attribute_code,store_code,value,label,oclio_fr,oclio_it,oclio_es,oclio_en
+,ocp_flow,admin,,Newborn baby - 1 hole,nouveau-né - 1 trou,neonato - 1 foro,recién nacido -1 agujero,Newborn baby - 1 hole
+,,,,1 month - 2 holes,1 mois - 2 trous,1 mese - 2 fori,1 mes – 2 agujeros,1 month - 2 holes
+,,,,3 month - 3 holes,3 mois - 3 trous,3 mesi - 3 fori,3 meses – 3 agujeros,3 month - 3 holes
+,,,,6 month - 4 holes,6 mois - 4 trous,6 mesi - 4 fori,6 meses – 4 agujeros,6 month - 4 holes
+,,,,3 month - 1 slot - Variable flow,3 mois - 1 fente - Débit variable,3 mesi - 1 fessura - Flusso variabile,3 meses – 1 grieta – Flujo variable,3 month - 1 slot - Variable flow
+,,,,0 to 3 month,0 à 3mois,0-3 mesi,0 a 3 meses,0 to 3 month
+,,,,3 to 6 month,de 3 à 6 mois,3-6 mesi,3 a 6 meses,3 to 6 month
+,,,,6 month and more,de 6 mois à +,da 6 mesi+,A partir de 6 meses,6 month and more
+,,,,Milk,Lait,Latte,Leche,Milk
+,,,,Thick liquid,Liquides épais,Liquidi spessi,Líquidos espesos,Thick liquid
+,,,,Variable 1-2-3,Variable 1-2-3,Variabile 1-2-3,Variable 1-2-3,Variable 1-2-3
+,,,,T.0 Transition,T.0 Transition,Taglia 0 - Transizione,T.O Transición,T.0 Transition
+,,,,T.1 3 Speed,T.1 3 vitesses,Taglia 1 - 3 velocità,T.1 3 velocidades,T.1 3 Speed
+,,,,T.2 3 Speed,T.2 3 vitesses,Taglia 2 - 3 velocità,T.2 3 velocidades,T.2 3 Speed
+,,,,T3. Cereal,T.3 Bouillie,Taglia 3 - Pappa,T.3 Papilla,T3. Cereal
+,,,,Slow,Lent,Lento,Lento,Slow
+,,,,Variable,Variable,Variabile,Variable,Variable
+,,,,Average,Moyen,Medio,Medio,Average
+,,,,Fast,Rapide,Rapido,Rápido,Fast

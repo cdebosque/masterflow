@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import">
+    <observers>
+        <observer>EaiObserverStandard</observer>
+    </observers>
+    <in>
+        <connection type="file">
+            <workflow>1</workflow>
+            <filePattern>^cdmcard.*\.csv</filePattern>
+        </connection>
+        <format type="csv">
+            <headline >0</headline>
+        </format>
+        <mapping active="1"/>
+    </in>
+    <out>
+        <connection type="mage">
+            <path>{dpam_preprod/mage/path}</path>
+            <apiclass>Dpam_Cdm_Model_Customer_Api</apiclass>
+            <apimethod>import</apimethod>
+        </connection>
+        <!--<connection type="soap">-->
+            <!--<debug>0</debug>-->
+            <!--<url >{ecpm/soap/api_url}</url>-->
+            <!--<user>{ecpm/soap/user}</user>-->
+            <!--<key >{ecpm/soap/key}</key>-->
+            <!--<callparams>-->
+                <!--<session>{session}</session>-->
+                <!--<action>dpam_cdm.import</action>-->
+            <!--</callparams>-->
+        <!--</connection>-->
+
+    </out>
+</interface>

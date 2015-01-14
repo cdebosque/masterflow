@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export">
+    <observers>
+        <observer>Observer</observer>
+    </observers>
+    <in>
+        <connection type="file">
+            <file>enfants_test.csv</file>
+        </connection>
+        <format type="csv">
+        </format>
+    </in>
+    <out>
+        <!--<connection type="mage">
+            <path>/home/tbondois/www/dev_ocpm_wishlist</path>
+            <apiclass>Ocpm_Wishlist_Model_Api</apiclass>
+            <apimethod>add</apimethod>
+        </connection>-->
+        <connection type="soap">
+            <url >http://localhost/home/dev_ocpm_wishlist/index.php/api/?wsdl</url>
+            <user>soap_admin_user</user>
+            <key >soap_admin_user</key>
+            <!--<debug>1</debug>-->
+            <callparams>
+                <session>{session}</session>
+                <action> ocpm_customer.addChildren</action>
+            </callparams>
+        </connection>
+    </out>
+</interface>

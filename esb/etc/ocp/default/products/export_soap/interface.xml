@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product">
+	<fetching>10</fetching>
+	<logging/>
+    <observers>
+        <observer>Observer</observer>
+    </observers>	
+	<in>
+        <connection type="mage">
+                <path>{ecpm/mage/path}</path>
+                <apiclass>Mage_Catalog_Model_Product_Api_V2</apiclass>
+                <apimethod>create</apimethod>
+        </connection>
+        <format type="array"/>
+	</in>
+	<out>
+        <connection type="soap">
+                <url>{ocpm/soap/api2_url}</url>
+                <user>{ocpm/soap/user}</user>
+                <key>{ocpm/soap/key}</key>
+                <call>catalogProductCreate</call>
+                <callparams>
+                    <session>{session}</session>
+                </callparams>                
+        </connection>
+        <format type="array"/>
+	</out>
+</interface>

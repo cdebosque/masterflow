@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cdm:schema xmlns:cdm="http://www.w3.org/2001/XMLSchema"> 
+  <cdm:element name="category">
+    <cdm:complexType>
+      <cdm:sequence>
+        <cdm:element name="category_id"       type="cdm:integer" />
+        <cdm:element name="parent_id"         type="cdm:integer" />
+        <cdm:element name="website_id"         type="cdm:integer" />
+        <cdm:element name="name"              type="cdm:string"  />
+        <cdm:element name="full_path_name"    type="cdm:string"  />
+        <cdm:element name="full_path_id"      type="cdm:string" />
+        <cdm:element name="description"       type="cdm:string" />
+        <cdm:element name="is_active"         type="cdm:integer" />
+        <cdm:element name="position"          type="cdm:integer" />
+        <cdm:element name="level"             type="cdm:integer" />
+        <cdm:element name="include_in_menu"   type="cdm:integer" />
+        <cdm:element name="is_anchor"         type="cdm:integer" />
+        <cdm:element name="store_id"          type="cdm:integer" />
+        <cdm:element name="children_count"    type="cdm:integer" />
+        <cdm:element name="default_sort_by"   type="cdm:integer" />
+        <cdm:element name="richmenu_title"    type="cdm:string" />
+        <cdm:element name="richmenu_subtitle" type="cdm:string" />
+        <cdm:element name="richmenu_content"  type="cdm:string" />
+        <cdm:element name="richmenu_is_active" type="cdm:integer" />
+        <cdm:element name="display_mode"      type="cdm:string" />
+        <cdm:element name="richmenu_title"    type="cdm:string" />
+        <cdm:element name="show_first_page" type="cdm:integer" />
+        <cdm:element name="landing_page" type="cdm:integer" />
+        <cdm:element name="url_key"    type="cdm:string" />
+        <cdm:element name="url_rewrite"    type="cdm:string" />
+        <cdm:element name="url_id"    type="cdm:string" />
+        <cdm:element name="product_count"  type="cdm:integer" />
+      </cdm:sequence>
+    </cdm:complexType>
+  </cdm:element>
+</cdm:schema>

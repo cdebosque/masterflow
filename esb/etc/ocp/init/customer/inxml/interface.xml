@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="customer">
+	<fetching>10</fetching>
+	<logging/>
+	<observers>
+		<observer>ObserverSample</observer>
+	</observers>
+	<in>
+		<connection type="soap">
+				<url>http://dev-vpietri/dev_ecpm/</url>
+				<version>1</version>
+				<user>tbondois_ocpm</user>
+<!-- 				<key>tbondois_ocpm</key> -->
+<!-- 				<actions> -->
+<!-- 					<list name='customer.list'>name='toto'</list> -->
+<!-- 				</actions> -->
+				<action>customer.list</action>
+		</connection>
+		<format type="array"/>
+		<mapping active="0"/>
+	</in>
+	<out>
+		<connection type="soap">
+				<url>http://localhost/home/dev_ocpm/</url>
+				<version>1</version>
+				<user>tbondois</user>
+				<key>tbondois</key>
+				<action>customer.create</action>
+		</connection>
+		<format type="array"/>
+	</out>
+</interface>

@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*règles des liens textes*/
+a:link { text-decoration:none; color:#FFF; }
+a:visited { text-decoration:none; color:#FFF; }
+a:hover { text-decoration:underline; color:#CCC; }
+a:active { text-decoration:none; color:#CCC }
+
+#dbm-table { /*conteneur du tableau*/
+margin:0;
+padding: 4px;
+width: 578px;
+font: 11px Arial, Helvetica, sans-serif;
+color:black;
+}
+
+#dbm-header { /*header du tableau*/
+margin:0;
+padding: 14px 0 0 24px;
+width: 554px;
+height: 55px;
+color:#FFF;
+font-size:13px;
+background: #0c2c65; 
+}
+
+.header-text { /*titre du tableau*/
+font: bold 22px Arial, Helvetica, sans-serif;
+}
+
+#tb-top { /*ligne de titre - ligne 1 */
+margin:0;
+padding: 0;
+width: 578px;
+height: 46px;
+border-bottom: 1px solid #b3c1db;
+background:#EEE; 
+}
+
+.tb-top-cell { /*cellules de titre - ligne 1*/
+float:left;
+padding: 15px 0 0 0;
+text-align:center;
+width:105px;
+height: 31px;
+border-right: 1px solid #ced9ec;
+color:#1f3d71;
+font: 13px Arial, Helvetica, sans-serif;
+}
+
+.tb-top-cell1 { /*cellules de titre de la colonne 1 - ligne 1*/
+float:left;
+padding-left: 24px;
+padding-top: 15px;
+text-align:left;
+width:129px;
+height: 31px;
+border-right: 1px solid #ced9ec;
+color:#1f3d71;
+font: 13px Arial, Helvetica, sans-serif; 
+}
+
+#tb-corps { /*corps du tableau*/
+margin:0;
+padding: 0;
+width: 578px;
+}
+
+.tb-left-cell { /*cellules de titre - colonne 1*/
+float:left;
+margin:0;
+padding: 10px 0 0 24px;
+width: 129px;
+text-align: left;
+height: 25px;
+border-right: 1px solid #ced9ec;
+border-bottom: 1px solid #b3c1db;
+color:#1f3d71;
+font: 13px Arial, Helvetica, sans-serif;
+background:#ccc;
+}
+
+.tb-right-cell { /*cellules de données*/
+float:left;
+margin:0;
+padding: 11px 0 0 0;
+width: 105px;
+text-align:center;
+height: 24px;
+border-right: 1px solid #ced9ec;
+border-bottom: 1px solid #b3c1db;
+background:#999;
+}
+
+.tb-right-cell:hover { /*rollover des cellules de données*/
+background:#CA6500;
+}
+
+#tb-bottom { /*ligne de resultats - derniere ligne*/
+clear:both;
+margin:0;
+padding: 0;
+width: 578px;
+height: 48px;
+border-bottom:1px solid #b3c1db ;
+background:#EEE;
+}
+
+.bottom-cell { /*cellules de résultats - derniere ligne*/
+float:left;
+padding: 15px 0 0 0;
+text-align:center;
+width:105px;
+height: 33px;
+border-right: 1px solid #ced9ec;
+color:#070707;
+font: 13px Arial, Helvetica, sans-serif;
+}
+
+.bottom-cell1 { /*cellules de titre de la colonne 1 - ligne 1*/
+float:left;
+padding-left: 24px;
+padding-top: 15px;
+text-align:left;
+width:129px;
+height: 33px;
+border-right: 1px solid #ced9ec;
+color:#1f3d71;
+font: 13px Arial, Helvetica, sans-serif; 
+}
+
+#tb-footer { /* footer du tableau*/
+font-size: 10px;
+color:#8a8a8a;
+margin:0;
+padding: 8px 0 8px 12px;
+width: 566px;
+background:#EEE;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+    <in>
+        <fields>
+            <field>
+                <from>0</from>
+                <to>order_increment_id</to>
+            </field>
+            <field>
+                <from>1</from>
+                <to>cdm_card_number</to>
+            </field>
+        </fields>
+    </in>
+</mapping>

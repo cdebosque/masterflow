@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="sales_order">
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+  <in fetching="1">
+    <connection type="mage">
+      <path>{dpam/mage/path}</path>
+      <apiclass>Ecpm_Crosslog_Model_Sales_Order_Api</apiclass>
+      <apimethod>items</apimethod>
+      <methodparams>
+          <filters>
+            <status>logistic_incomplete_order</status>
+            <state>new</state>
+          </filters>
+      </methodparams>
+		</connection>
+		<format type="array"/>
+    <mapping active="0"/>
+  </in>
+  <out fetching="1">
+    <connection type="mage">
+      <path>{dpam/mage/path}</path>
+      <apiclass>Ecpm_Crosslog_Model_Sales_Order_Api</apiclass>
+      <apimethod>updateStatus</apimethod>
+      <methodparams>
+            <status>logistic_validation</status>
+            <state>processing</state>
+      </methodparams>
+		</connection>
+		<format type="array"/>
+    <mapping active="0"/>
+  </out>
+</interface>

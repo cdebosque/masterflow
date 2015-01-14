@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export" model="category">
+	<fetching>0</fetching>
+    <observers>
+        <observer>Observer</observer>
+    </observers>    
+	<in>
+        <connection type="soap">
+                <url>{dpam/soap/api_url}</url>
+                <user>{dpam/soap/user}</user>
+                <key>{dpam/soap/key}</key>
+                <call>call</call>
+                <callparams>
+                    <session>{session}</session>
+                    <action>catalog_category.tree</action>
+                    <param>
+                        <parentId></parentId>
+                        <store>1</store>
+                    </param>
+                </callparams>
+        </connection>
+		<format type="array"/>
+	</in>
+    <out>
+        <connection type="file">
+                <file>category_fr.csv</file>
+                <mode>w</mode>
+        </connection>
+        <format type="csv"/>
+    </out>
+</interface>

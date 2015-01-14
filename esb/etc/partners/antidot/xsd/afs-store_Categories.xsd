@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://ref.antidot.net/store/afs#" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://ref.antidot.net/store/afs#" elementFormDefault="qualified" version="2.7">
+  <xs:include schemaLocation="afs-store_CommonTypes.xsd"/>
+  <xs:include schemaLocation="afs-store_Category.xsd"/>
+  <xs:annotation>
+    <xs:documentation xml:lang="en">E-commerce product categories schema. Designed for
+      AFS@Store.</xs:documentation>
+  </xs:annotation>
+
+  <xs:complexType name="categoriesType">
+    <xs:sequence>
+      <xs:element ref="header"/>
+      <xs:element name="category" type="categoryType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:element name="categories" type="categoriesType">
+    <xs:unique name="uniqueCategoryURI">
+      <xs:selector xpath="category"/>
+      <xs:field xpath="url"/>
+    </xs:unique>
+    <xs:key name="categoryId">
+      <xs:selector xpath="category"/>
+      <xs:field xpath="@id"/>
+    </xs:key>
+    <xs:keyref name="broaderIdKeyRef" refer="categoryId">
+      <xs:selector xpath="category/broader">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">This xpath rather than just "category" allows for multiple
+            broader elements, i.e. add support for multiple ancestors</xs:documentation>
+        </xs:annotation>
+      </xs:selector>
+      <xs:field xpath="@idref"/>
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

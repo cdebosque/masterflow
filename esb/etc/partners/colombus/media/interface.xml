@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="">
+  <observers>
+
+    <observer>Observer</observer>
+  </observers>	
+  
+	<in fetching="1">
+    <connection type="system">
+<!--       <dir>{DIR_ROOT}var/unzip/partners/colombus/images/PHO000033.zip/</dir> pour test dans plugins -->
+      <dir>{DIR_ROOT}var/feeds/in/colombus/catalog/media/</dir>
+<!--       <file>PHO000033.zip</file> -->
+<!--       <plugins> -->
+<!--         <plugin type="ftp"> -->
+<!--           <server>95.143.69.197</server> -->
+<!--           <user>test_tbondois</user> -->
+<!--           <password>lkj258ML</password> -->
+<!--           <remoteDir>colombus</remoteDir> -->
+<!--           <remoteFile>PHO000033.zip</remoteFile> -->
+<!--           <override>1</override> -->
+<!--         </plugin> -->
+<!--         <plugin type="unzip"> -->
+<!--           <file>PHO000033.zip</file> -->
+<!--         </plugin> -->
+<!--       </plugins> -->
+		</connection>
+    <mapping active="0"/>
+	</in>
+  
+	<out fetching="0">
+        <connection type="soap">
+          <url >{dpam/soap/api_url}</url>
+          <user>{dpam/soap/user}</user>
+          <key >{dpam/soap/key}</key>
+          <callparams>
+              <session>{session}</session>
+              <action>colombus_product_attribute_media.multiCreate</action>
+          </callparams>  
+        </connection>
+    
+   <!-- connection type="mage"> 
+       <path>{dpam/mage/path}</path> 
+       <apiclass>Dpam_Colombus_Model_Product_Attribute_Media_Api</apiclass> 
+       <apimethod>multiCreate</apimethod> 
+     </connection -->
+    <mapping active="0"/>
+	</out>
+</interface>

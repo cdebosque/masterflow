@@ -1,0 +1,4 @@
+attribute_id,attribute_code,store_code,value,label,oclio_fr,oclio_it,oclio_es,oclio_en
+,ocp_function,admin,,Sound,Sonore,Sonoro,Con sonido,Sound
+,,,,Light,Lumineux,Luminoso,Luminoso,Light
+,,,,Light and sound,Sons et lumières,Suoni e luci,Sonidos y luces,Light and sound

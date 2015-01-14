@@ -1,0 +1,2 @@
+ALTER TABLE `counter` MODIFY COLUMN  id_counter INT(11) AUTO_INCREMENT;
+

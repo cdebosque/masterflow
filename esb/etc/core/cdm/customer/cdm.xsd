@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cdm:schema xmlns:cdm="http://www.w3.org/2001/XMLSchema"> 
+  <cdm:element name="customer">
+		<cdm:complexType>
+      <cdm:sequence>      
+        <cdm:element name="customer_id" type="cdm:unsignedLong" />        
+        <cdm:element name="email" type="cdm:string" />        
+        <cdm:element name="created_at" type="cdm:date" />        
+        <cdm:element name="updated_at" type="cdm:date" />        
+        <cdm:element name="store_id" type="cdm:unsignedInt" />        
+        <cdm:element name="website_id" type="cdm:unsignedInt" />        
+        <cdm:element name="created_in" type="cdm:string" />        
+        <cdm:element name="disable_auto_group_change" type="cdm:string" />        
+        <cdm:element name="num_tel" type="cdm:string" />        
+        <cdm:element name="num_tel" type="cdm:string" />        
+        <cdm:element name="firstname" type="cdm:string" />        
+        <cdm:element name="middlename" type="cdm:string" />        
+        <cdm:element name="lastname" type="cdm:string" />        
+        <cdm:element name="password_hash" type="cdm:string" />        
+        <cdm:element name="reward_update_notification" type="cdm:string" />        
+        <cdm:element name="reward_warning_notification" type="cdm:string" />        
+        <cdm:element name="suffix" type="cdm:string" />        
+      </cdm:sequence>
+    </cdm:complexType>
+	</cdm:element>
+</cdm:schema>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://ref.antidot.net/store/afs#" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:afs="http://ref.antidot.net/afs#" targetNamespace="http://ref.antidot.net/store/afs#"
+  version="2.7" elementFormDefault="qualified">
+  <xs:import schemaLocation="afs_BasicTypes.xsd" namespace="http://ref.antidot.net/afs#"/>
+  <xs:annotation>
+    <xs:documentation xml:lang="en">Common types for use in AFS@Store</xs:documentation>
+    <xs:documentation xml:lang="fr">Types communs pour les schémas AFS@Store</xs:documentation>
+  </xs:annotation>
+
+  <xs:complexType name="headerType">
+    <xs:sequence>
+      <xs:element name="owner" type="xs:token">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">Company name</xs:documentation>
+          <xs:documentation xml:lang="fr">Nom de la société</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="feed" type="xs:token">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">Feed name</xs:documentation>
+          <xs:documentation xml:lang="fr">Nom du flux</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="generated_at" type="afs:dateTime" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:group name="location">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Geolocation elements. Takes advantage of AFS geo
+        features</xs:documentation>
+      <xs:documentation xml:lang="fr">Elements de géolocalisation permettant de tirer partie des
+        fonctionnalités géo d'AFS</xs:documentation>
+    </xs:annotation>
+    <xs:choice>
+      <xs:element name="city" type="afs:cityType" minOccurs="0"/>
+      <xs:element name="postal_code" type="afs:postalCode" minOccurs="0"/>
+      <xs:element name="subregion" type="afs:administrativeLevel" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">Administrative level between region and city (e.g. French
+            Departements)</xs:documentation>
+          <xs:documentation xml:lang="fr">Niveau administratif entre la région et la commune. Ex: le
+            département</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="region" type="afs:administrativeLevel" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">State, province or region</xs:documentation>
+          <xs:documentation xml:lang="fr">Etat, province ou région</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="country" type="afs:administrativeLevel" minOccurs="0"/>
+    </xs:choice>
+  </xs:group>
+
+  <xs:group name="geopos">
+    <xs:choice>
+      <xs:element name="longitude" type="afs:longitude" minOccurs="0"/>
+      <xs:element name="latitude" type="afs:latitude" minOccurs="0"/>
+    </xs:choice>
+  </xs:group>
+
+  <xs:element name="header" type="headerType"/>
+
+</xs:schema>

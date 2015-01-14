@@ -1,0 +1,1141 @@
+famille,age,sexe,attribute_set,,categories_es,categories_it
+ACC CH_CIRAGE,CHAUSSURES,F,Default,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_CIRAGE,CHAUSSURES,G,Default,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_CIRAGE,CHAUSSURES,M,Default,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_CIRAGE,CHAUSSURES,F,Default,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_CIRAGE,CHAUSSURES,G,Default,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_CIRAGE,CHAUSSURES,M,Default,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_IMPERMEA,CHAUSSURES,F,Default,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_IMPERMEA,CHAUSSURES,G,Default,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_IMPERMEA,CHAUSSURES,M,Default,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_IMPERMEA,CHAUSSURES,F,Default,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_IMPERMEA,CHAUSSURES,G,Default,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_IMPERMEA,CHAUSSURES,M,Default,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_PEDIMETR,CHAUSSURES,F,Default,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_PEDIMETR,CHAUSSURES,G,Default,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_PEDIMETR,CHAUSSURES,M,Default,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_PEDIMETR,CHAUSSURES,F,Default,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_PEDIMETR,CHAUSSURES,G,Default,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_PEDIMETR,CHAUSSURES,M,Default,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_SEMELLE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_SEMELLE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_SEMELLE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_SEMELLE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe
+ACC CH_SEMELLE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambino/Cura delle scarpe
+ACC CH_SEMELLE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Cuidado de zapatos;;Calzado Infantil/Niño/Cuidado de zapatos,Scarpe bambini/Bambina/Cura delle scarpe;;Scarpe bambini/Bambino/Cura delle scarpe
+ACCESSOIRE,BEBE,F,Default,,,
+ACCESSOIRE,BEBE,G,Default,,,
+ACCESSOIRE,BEBE,M,Default,,,
+ACCESSOIRE,DPAM,F,Default,,Niña 3 – 14 años/Accesorios niña/Varios,Bambina 3 - 14 anni/Accessori bambina/Altro
+ACCESSOIRE,DPAM,G,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+ACCESSOIRE,DPAM,M,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+ACCESSOIRES CHA,BEBE,F,Default,,El Universo del Recién Nacido/La Puericultura/La Comida/Tronas y elevadores,"L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+ACCESSOIRES CHA,BEBE,G,Default,,El Universo del Recién Nacido/La Puericultura/La Comida/Tronas y elevadores,"L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+ACCESSOIRES CHA,BEBE,M,Default,,El Universo del Recién Nacido/La Puericultura/La Comida/Tronas y elevadores,"L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+ACCESSOIRES CHA,DPAM,F,Default,,El Universo del Recién Nacido/La Puericultura/La Comida/Tronas y elevadores,"L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+ACCESSOIRES CHA,DPAM,G,Default,,El Universo del Recién Nacido/La Puericultura/La Comida/Tronas y elevadores,"L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+ACCESSOIRES CHA,DPAM,M,Default,,El Universo del Recién Nacido/La Puericultura/La Comida/Tronas y elevadores,"L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+ACCESSOIRES DE ,BEBE,F,Default,,,
+ACCESSOIRES DE ,BEBE,G,Default,,,
+ACCESSOIRES DE ,BEBE,M,Default,,,
+ACCESSOIRES DE ,DPAM,F,Default,,Niña 3 – 14 años/Accesorios niña/Varios,Bambina 3 - 14 anni/Accessori bambina/Altro
+ACCESSOIRES DE ,DPAM,G,Default,,Niño 3 - 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+ACCESSOIRES DE ,DPAM,M,Default,,Niño 3 - 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+ACCESSOIRES POU,BEBE,F,Accessoires Poussettes,,El Universo del Recién Nacido/La Puericultura/De Paseo/accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+ACCESSOIRES POU,BEBE,G,Accessoires Poussettes,,El Universo del Recién Nacido/La Puericultura/De Paseo/accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+ACCESSOIRES POU,BEBE,M,Accessoires Poussettes,,El Universo del Recién Nacido/La Puericultura/De Paseo/accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+ACCESSOIRES POU,DPAM,F,Accessoires Poussettes,,El Universo del Recién Nacido/La Puericultura/De Paseo/accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+ACCESSOIRES POU,DPAM,G,Accessoires Poussettes,,El Universo del Recién Nacido/La Puericultura/De Paseo/accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+ACCESSOIRES POU,DPAM,M,Accessoires Poussettes,,El Universo del Recién Nacido/La Puericultura/De Paseo/accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+ACCESSOIRES REP,BEBE,F,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ACCESSOIRES REP,BEBE,G,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ACCESSOIRES REP,BEBE,M,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ACCESSOIRES REP,DPAM,F,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ACCESSOIRES REP,DPAM,G,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ACCESSOIRES REP,DPAM,M,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ASSIETTE,BEBE,F,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ASSIETTE,BEBE,G,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ASSIETTE,BEBE,M,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ASSIETTE,DPAM,F,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ASSIETTE,DPAM,G,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+ASSIETTE,DPAM,M,Vaisselle,,El Universo del Recién Nacido/La Puericultura/La Comida/Accesorios para la comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+BAIGNADE_NU PIE,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine
+BAIGNADE_NU PIE,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambino/Ciabattine
+BAIGNADE_NU PIE,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa;;Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine;;Scarpe bambini/Bambino/Ciabattine
+BAIGNADE_NU PIE,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine
+BAIGNADE_NU PIE,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambino/Ciabattine
+BAIGNADE_NU PIE,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa;;Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine;;Scarpe bambini/Bambino/Ciabattine
+BAIGNADE_SANDAL,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+BAIGNADE_SANDAL,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+BAIGNADE_SANDAL,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali
+BAIGNADE_SANDAL,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+BAIGNADE_SANDAL,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+BAIGNADE_SANDAL,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali
+BAIGNADE_TONG,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine
+BAIGNADE_TONG,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambino/Ciabattine
+BAIGNADE_TONG,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa;;Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine;;Scarpe bambini/Bambino/Ciabattine
+BAIGNADE_TONG,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine
+BAIGNADE_TONG,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambino/Ciabattine
+BAIGNADE_TONG,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Chanclas, Playa;;Calzado Infantil/Niño/Chanclas, Playa",Scarpe bambini/Bambina/Ciabattine;;Scarpe bambini/Bambino/Ciabattine
+BAIGNOIRE,BEBE,F,Hygiène et bain,,El universo del recién nacido/La Puericultura/El baño/Bañeras y hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+BAIGNOIRE,BEBE,G,Hygiène et bain,,El universo del recién nacido/La Puericultura/El baño/Bañeras y hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+BAIGNOIRE,BEBE,M,Hygiène et bain,,El universo del recién nacido/La Puericultura/El baño/Bañeras y hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+BAIGNOIRE,DPAM,F,Hygiène et bain,,El universo del recién nacido/La Puericultura/El baño/Bañeras y hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+BAIGNOIRE,DPAM,G,Hygiène et bain,,El universo del recién nacido/La Puericultura/El baño/Bañeras y hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+BAIGNOIRE,DPAM,M,Hygiène et bain,,El universo del recién nacido/La Puericultura/El baño/Bañeras y hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+BANDEAU,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios bebé niña/Cintas, pañuelos, mantitas",Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Bandana e foulard
+BANDEAU,BEBE,G,Vêtements,,,
+BANDEAU,BEBE,M,Vêtements,,,
+BANDEAU,DPAM,F,Vêtements,,Niña 3 – 14 años/Accesorios niña/Accesorios para el pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+BANDEAU,DPAM,G,Vêtements,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+BANDEAU,DPAM,M,Vêtements,,Niña 3 – 14 años/Accesorios niña/Accesorios para el pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+BARRETTE,BEBE,F,Default,,,
+BARRETTE,BEBE,G,Default,,,
+BARRETTE,BEBE,M,Default,,,
+BARRETTE,DPAM,F,Default,,Niña 3 – 14 años/Accesorios niña/Accesorios para el pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+BARRETTE,DPAM,G,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+BARRETTE,DPAM,M,Default,,Niña 3 – 14 años/Accesorios niña/Accesorios para el pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+BAVOIR,BEBE,F,Textile,,"El universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+BAVOIR,BEBE,G,Textile,,"El universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+BAVOIR,BEBE,M,Textile,,"El universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+BAVOIR,DPAM,F,Textile,,"El universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+BAVOIR,DPAM,G,Textile,,"El universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+BAVOIR,DPAM,M,Textile,,"El universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+BERMUDA,BEBE,F,Vêtements,,,
+BERMUDA,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Pantalones cortos,"Bebè bambino 3 -  23 mesi/Bermudas, pantaloncini"
+BERMUDA,BEBE,M,Vêtements,,,
+BERMUDA,DPAM,F,Vêtements,,"Niña 3 - 14 años/Faldas, Pantalones cortos","Bambina 3 - 14 anni/Gonne, pantaloncini, pantaloni"
+BERMUDA,DPAM,G,Vêtements,,Bebé Niño 3 a 14 años/Pantalones cortos,"Bambino 3 - 14 anni/Bermudas, pantaloncini"
+BERMUDA,DPAM,M,Vêtements,,Bebé Niño 3 a 14 años/Pantalones cortos,"Bambino 3 - 14 anni/Bermudas, pantaloncini"
+BIBERON,BEBE,F,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+BIBERON,BEBE,G,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+BIBERON,BEBE,M,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+BIBERON,DPAM,F,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+BIBERON,DPAM,G,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+BIBERON,DPAM,M,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+BLOOMER,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Faldas, Pantalones cortos, Bloomers","Bebè bambina 3 -  23 mesi/Gonne, pantaloncini, culotte"
+BLOOMER,BEBE,G,Vêtements,,,
+BLOOMER,BEBE,M,Vêtements,,,
+BLOOMER,DPAM,F,Vêtements,,,
+BLOOMER,DPAM,G,Vêtements,,,
+BLOOMER,DPAM,M,Vêtements,,,
+BLOUSON,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambina 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+BLOUSON,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambino 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+BLOUSON,BEBE,M,Vêtements,,,
+BLOUSON,DPAM,F,Vêtements,,"Niña 3 – 14 años/Abrigos y Cazadoras/Jersey, chaquetas","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+BLOUSON,DPAM,G,Vêtements,,"Niño 3 – 14 años/Abrigos y Cazadoras/Jersey, chaquetas","Bambino 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+BLOUSON,DPAM,M,Vêtements,,"Niña 3 – 14 años/Abrigos y Cazadoras/Jersey, chaquetas;;Niño 3 – 14 años/Abrigos y Cazadoras/Jersey, chaquetas","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+BOB,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/Accesorios bebé niña/sombreros,Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Cappellini
+BOB,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Accesorios bebé niña/sombreros,Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Cappellini con visiera
+BOB,BEBE,M,Vêtements,,,
+BOB,DPAM,F,Vêtements,,Niña 3 – 14 años/Accesorios niña/Accesorios para el pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+BOB,DPAM,G,Vêtements,,Niño 3 – 14 años/Accesorios niño/Sombreros,Bambino 3 - 14 anni/Accessori bambino/Cappellini con visiera
+BOB,DPAM,M,Vêtements,,,
+BODY,BEBE,F,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies;;Bebé Niña 3 a 23 meses/bodies,L'universo del neonato/Abbigliamento per neonato/Body;;Bebè bambina 3 -  23 mesi/Body
+BODY,BEBE,G,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies;;Bebé Niño 3 a 23 meses/bodies,L'universo del neonato/Abbigliamento per neonato/Body;;Bebè bambino 3 -  23 mesi/Body
+BODY,BEBE,M,Vêtements,,,
+BODY,DPAM,F,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies,L'universo del neonato/Abbigliamento per neonato/Body
+BODY,DPAM,G,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies,L'universo del neonato/Abbigliamento per neonato/Body
+BODY,DPAM,M,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies,L'universo del neonato/Abbigliamento per neonato/Body
+BODY SOUS VET,BEBE,F,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies;;Bebé Niña 3 a 23 meses/bodies,L'universo del neonato/Abbigliamento per neonato/Body;;Bebè bambina 3 -  23 mesi/Body
+BODY SOUS VET,BEBE,G,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies;;Bebé Niño 3 a 23 meses/bodies,L'universo del neonato/Abbigliamento per neonato/Body;;Bebè bambino 3 -  23 mesi/Body
+BODY SOUS VET,BEBE,M,Vêtements,,,
+BODY SOUS VET,DPAM,F,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies,L'universo del neonato/Abbigliamento per neonato/Body
+BODY SOUS VET,DPAM,G,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies,L'universo del neonato/Abbigliamento per neonato/Body
+BODY SOUS VET,DPAM,M,Vêtements,,El universo del recién nacido/Ropa para Recién Nacido/Bodies,L'universo del neonato/Abbigliamento per neonato/Body
+BOITE A MUSIQUE,BEBE,F,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Juguetes musicales y primera infancia,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+BOITE A MUSIQUE,BEBE,G,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Juguetes musicales y primera infancia,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+BOITE A MUSIQUE,BEBE,M,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Juguetes musicales y primera infancia,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+BOITE A MUSIQUE,DPAM,F,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Juguetes musicales y primera infancia,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+BOITE A MUSIQUE,DPAM,G,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Juguetes musicales y primera infancia,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+BOITE A MUSIQUE,DPAM,M,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Juguetes musicales y primera infancia,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+BONNET,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios bebé niña/Gorro, bufanda, guantes","Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Berrettini, sciarpe, guanti"
+BONNET,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Accesorios bebé niño/Gorro, bufanda, guantes","Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Berrettini, sciarpe, guanti"
+BONNET,BEBE,M,Vêtements,,,
+BONNET,DPAM,F,Vêtements,,"Niña 3 – 14 años/Accesorios niña/Gorros, bufandas y guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+BONNET,DPAM,G,Vêtements,,"Niño 3 – 14 años/Accesorios niño/Gorros, bufandas y guantes","Bambino 3 - 14 anni/Accessori bambino/Berrettini, sciarpe, guanti"
+BONNET,DPAM,M,Vêtements,,"Niña 3 – 14 años/Accesorios niña/Gorros, bufandas y guantes;;Niño 3 – 14 años/Accesorios niño/Gorros, bufandas y guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti;;Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+BONNET DE BAIN,BEBE,F,Vêtements,,,
+BONNET DE BAIN,BEBE,G,Vêtements,,,
+BONNET DE BAIN,BEBE,M,Vêtements,,,
+BONNET DE BAIN,DPAM,F,Vêtements,,Niña 3 – 14 años/Accesorios niña/Varios,Bambina 3 - 14 anni/Accessori bambina/Altro
+BONNET DE BAIN,DPAM,G,Vêtements,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+BONNET DE BAIN,DPAM,M,Vêtements,,Niña 3 – 14 años/Accesorios niña/Varios;;Niño 3 – 14 años/Accesorios niño/Varios,Bambina 3 - 14 anni/Accessori bambina/Altro;;Bambina 3 - 14 anni/Accessori bambina/Altro
+BOULIER,BEBE,F,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Abacos y móviles,"L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+BOULIER,BEBE,G,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Abacos y móviles,"L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+BOULIER,BEBE,M,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Abacos y móviles,"L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+BOULIER,DPAM,F,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Abacos y móviles,"L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+BOULIER,DPAM,G,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Abacos y móviles,"L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+BOULIER,DPAM,M,Jouets,,El universo del recién nacido/La Puericultura/Peluches y Juguetes/Abacos y móviles,"L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+BRACELET,BEBE,F,Default,,,
+BRACELET,BEBE,G,Default,,,
+BRACELET,BEBE,M,Default,,,
+BRACELET,DPAM,F,Default,,Niña 3 – 14 años/Accesorios niña/Joyas,Bambina 3 - 14 anni/Accessori bambina/Gioielli
+BRACELET,DPAM,G,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+BRACELET,DPAM,M,Default,,Niña 3 – 14 años/Accesorios niña/Joyas,Bambina 3 - 14 anni/Accessori bambina/Gioielli
+BRACELET+COLLIE,BEBE,F,Default,,,
+BRACELET+COLLIE,BEBE,G,Default,,,
+BRACELET+COLLIE,BEBE,M,Default,,,
+BRACELET+COLLIE,DPAM,F,Default,,Niña 3 – 14 años/Accesorios niña/Joyas,Bambina 3 - 14 anni/Accessori bambina/Gioielli
+BRACELET+COLLIE,DPAM,G,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+BRACELET+COLLIE,DPAM,M,Default,,Niña 3 – 14 años/Accesorios niña/Joyas,Bambina 3 - 14 anni/Accessori bambina/Gioielli
+CABAN,BEBE,F,Vêtements,,,
+CABAN,BEBE,G,Vêtements,,,
+CABAN,BEBE,M,Vêtements,,,
+CABAN,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta","Bambina 3 - 14 anni/Sous-pulls, Pulls, Maglioncini"
+CABAN,DPAM,G,Vêtements,,"Niño 3 – 14 años/Abrigos y Cazadoras/Jersey, chaquetas","Bambino 3 - 14 anni/Cappotti e giacche pesanti/Cappotti, giacche, giubbotti"
+CABAN,DPAM,M,Vêtements,,,
+CAGOULE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios bebé niña/Gorro, bufanda, guantes","Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Berrettini, sciarpe, guanti"
+CAGOULE,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Accesorios bebé niño/Gorro, bufanda, guantes","Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Berrettini, sciarpe, guanti"
+CAGOULE,BEBE,M,Vêtements,,,
+CAGOULE,DPAM,F,Vêtements,,"Niña 3 – 14 años/Accesorios niña/Gorros, bufandas y guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+CAGOULE,DPAM,G,Vêtements,,"Niño 3 – 14 años/Accesorios niño/Gorros, bufandas y guantes","Bambino 3 - 14 anni/Accessori bambino/Berrettini, sciarpe, guanti"
+CAGOULE,DPAM,M,Vêtements,,,
+CALECON,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Pantalones, petos, leggings","Bebè bambina 3 -  23 mesi/Pantaloni, salopette, calzoncini"
+CALECON,BEBE,G,Vêtements,,,
+CALECON,BEBE,M,Vêtements,,,
+CALECON,DPAM,F,Vêtements,,Niña 3 – 14 años/Leggings,"Bambina 3 - 14 anni/Calzoncini, leggings"
+CALECON,DPAM,G,Vêtements,,,
+CALECON,DPAM,M,Vêtements,,Niña 3 – 14 años/Leggings,"Bambina 3 - 14 anni/Calzoncini, leggings"
+CALECON SOUS-VE,BEBE,F,Vêtements,,,
+CALECON SOUS-VE,BEBE,G,Vêtements,,,
+CALECON SOUS-VE,BEBE,M,Vêtements,,,
+CALECON SOUS-VE,DPAM,F,Vêtements,,Niña 3 - 14 años/Ropa interior,Bambina 3 - 14 anni/Intimo
+CALECON SOUS-VE,DPAM,G,Vêtements,,Niño 3 – 14 años/Ropa interior,Bambino 3 - 14 anni/Intimo
+CALECON SOUS-VE,DPAM,M,Vêtements,,Niña 3 - 14 años/Ropa interior,Bambina 3 - 14 anni/Intimo
+CAPE DE BAIN,BEBE,F,Textile,,El universo del recién nacido/La Puericultura/El baño/Textil de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+CAPE DE BAIN,BEBE,G,Textile,,El universo del recién nacido/La Puericultura/El baño/Textil de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+CAPE DE BAIN,BEBE,M,Textile,,El universo del recién nacido/La Puericultura/El baño/Textil de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+CAPE DE BAIN,DPAM,F,Textile,,El universo del recién nacido/La Puericultura/El baño/Textil de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+CAPE DE BAIN,DPAM,G,Textile,,El universo del recién nacido/La Puericultura/El baño/Textil de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+CAPE DE BAIN,DPAM,M,Textile,,El universo del recién nacido/La Puericultura/El baño/Textil de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+CASQUETTE,BEBE,F,Vêtements,,,
+CASQUETTE,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Accesorios bebé niño/Sombreros, gorras",Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Cappellini con visiera
+CASQUETTE,BEBE,M,Vêtements,,,
+CASQUETTE,DPAM,F,Vêtements,,Niña 3 – 14 años/Accesorios niña/Sombreros,Bambina 3 - 14 anni/Accessori bambina/Chapeaux
+CASQUETTE,DPAM,G,Vêtements,,"Niño 3 – 14 años/Accesorios niño/Sombreros, gorras",Bambino 3 - 14 anni/Accessori bambino/Cappellini con visiera
+CASQUETTE,DPAM,M,Vêtements,,"Niño 3 – 14 años/Accesorios niño/Sombreros, gorras",Bambino 3 - 14 anni/Accessori bambino/Cappellini con visiera
+CEINTURE,BEBE,F,Vêtements,,,
+CEINTURE,BEBE,G,Vêtements,,,
+CEINTURE,BEBE,M,Vêtements,,,
+CEINTURE,DPAM,F,Vêtements,,Niña 3 – 14 años/Accesorios niña/Cinturones,Bambina 3 - 14 anni/Accessori bambina/Cinture
+CEINTURE,DPAM,G,Vêtements,,Niño 3 – 14 años/Accesorios niño/Cinturones,Bambino 3 - 14 anni/Accessori bambino/Cinture
+CEINTURE,DPAM,M,Vêtements,,Niña 3 – 14 años/Accesorios niña/Cinturones;;Niño 3 – 14 años/Accesorios niño/Cinturones,Bambina 3 - 14 anni/Accessori bambina/Cinture;;Bambina 3 - 14 anni/Accessori bambina/Cinture
+CHAISE,BEBE,F,Chaises hautes et Réducteurs,,"El universo del recién nacido/La Puericultura/La Comida/Tronas, elevadores","L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+CHAISE,BEBE,G,Chaises hautes et Réducteurs,,"El universo del recién nacido/La Puericultura/La Comida/Tronas, elevadores","L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+CHAISE,BEBE,M,Chaises hautes et Réducteurs,,"El universo del recién nacido/La Puericultura/La Comida/Tronas, elevadores","L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+CHAISE,DPAM,F,Chaises hautes et Réducteurs,,"El universo del recién nacido/La Puericultura/La Comida/Tronas, elevadores","L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+CHAISE,DPAM,G,Chaises hautes et Réducteurs,,"El universo del recién nacido/La Puericultura/La Comida/Tronas, elevadores","L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+CHAISE,DPAM,M,Chaises hautes et Réducteurs,,"El universo del recién nacido/La Puericultura/La Comida/Tronas, elevadores","L'universo del neonato/Articoli per bambini/La pappa/Seggioloni, sgabellini"
+CHANCELIERE,BEBE,F,Accessoires Poussettes,,"El universo del recién nacido/La Puericultura/De Paseo/Sacos para silla de paseo, nido de ángel","L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+CHANCELIERE,BEBE,G,Accessoires Poussettes,,"El universo del recién nacido/La Puericultura/De Paseo/Sacos para silla de paseo, nido de ángel","L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+CHANCELIERE,BEBE,M,Accessoires Poussettes,,"El universo del recién nacido/La Puericultura/De Paseo/Sacos para silla de paseo, nido de ángel","L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+CHANCELIERE,DPAM,F,Accessoires Poussettes,,"El universo del recién nacido/La Puericultura/De Paseo/Sacos para silla de paseo, nido de ángel","L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+CHANCELIERE,DPAM,G,Accessoires Poussettes,,"El universo del recién nacido/La Puericultura/De Paseo/Sacos para silla de paseo, nido de ángel","L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+CHANCELIERE,DPAM,M,Accessoires Poussettes,,"El universo del recién nacido/La Puericultura/De Paseo/Sacos para silla de paseo, nido de ángel","L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+CHAPEAU,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios bebé niña/Sombreros, gorras",Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Cappellini
+CHAPEAU,BEBE,G,Vêtements,,,
+CHAPEAU,BEBE,M,Vêtements,,,
+CHAPEAU,DPAM,F,Vêtements,,Niña 3 – 14 años/Accesorios niña/Sombreros,Bambina 3 - 14 anni/Accessori bambina/Chapeaux
+CHAPEAU,DPAM,G,Vêtements,,"Niño 3 – 14 años/Accesorios niño/Sombreros, gorras",Bambino 3 - 14 anni/Accessori bambino/Cappellini con visiera
+CHAPEAU,DPAM,M,Vêtements,,Niña 3 – 14 años/Accesorios niña/Sombreros,Bambina 3 - 14 anni/Accessori bambina/Chapeaux
+CHAPKA,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios bebé niña/Gorros,bufandas, guantes","Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Berrettini, sciarpe, guanti"
+CHAPKA,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Accesorios bebé niño/Gorros,bufandas, guantes","Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Berrettini, sciarpe, guanti"
+CHAPKA,BEBE,M,Vêtements,,,
+CHAPKA,DPAM,F,Vêtements,,"Niña 3 – 14 años/Accesorios niña/Gorros, bufandas y guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+CHAPKA,DPAM,G,Vêtements,,"Niño 3 – 14 años/Accesorios niño/Gorros, bufandas y guantes","Bambino 3 - 14 anni/Accessori bambino/Berrettini, sciarpe, guanti"
+CHAPKA,DPAM,M,Vêtements,,"Niña 3 – 14 años/Accesorios niña/Gorros, bufandas y guante;;Niñao3 – 14 años/Accesorios niñaoGorros, bufandas y guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti;;Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+CHAUFFE-BIBERON,BEBE,F,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+CHAUFFE-BIBERON,BEBE,G,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+CHAUFFE-BIBERON,BEBE,M,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+CHAUFFE-BIBERON,DPAM,F,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+CHAUFFE-BIBERON,DPAM,G,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+CHAUFFE-BIBERON,DPAM,M,Biberonnerie,,El universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+CHAUSSETTES,BEBE,F,Chaussures,,"Bebé Niña 3 a 23 meses/Calcetines, leotardos/Calcetines;;Calzado Infantil/Niña/Calcetines, leotardos","Bebè bambina 3 -  23 mesi/Calze, collants/Calze;;Scarpe bambini/Bambina/Calze, collants"
+CHAUSSETTES,BEBE,G,Chaussures,,"Bebé Niño 3 a 23 meses/Calcetines;;Calzado Infantil/Niño/Calcetines, leotardos","Bebè bambino 3 -  23 mesi/Calze;;Scarpe bambini/Bambino/Calze, collants"
+CHAUSSETTES,BEBE,M,Chaussures,,"Bebé Niña 3 a 23 meses/Calcetines, leotardos/Calcetines;;Bebé Niña 3a 23 meses/Calcetines, leotardos/Zapatos;;Calzado Infantil/Niña/Calcetines, leotardos;;Calzado Infantil/Niño/Calcetines, leotardos","Bebè bambina 3 -  23 mesi/Calze, collants/Calze;;Bebè bambina 3 -  23 mesi/Calze, collants/Calze;;Scarpe bambini/Bambina/Calze, collants;;Scarpe bambini/Bambino/Calze, collants"
+CHAUSSETTES,DPAM,F,Chaussures,,"Niña 3 – 14 años/Calcetines, Leotardos/Calcetines;;Calzado Infantil/Niña/Calcetines, leotardos","Bambina 3 - 14 anni/Calze, collants/Calze;;Scarpe bambini/Bambina/Calze, collants"
+CHAUSSETTES,DPAM,G,Chaussures,,"Niño 3 – 14 años/Calcetines;;Calzado Infantil/Niño/Calcetines, leotardos","Bambino 3 - 14 anni/Calze;;Scarpe bambini/Bambino/Calze, collants"
+CHAUSSETTES,DPAM,M,Chaussures,,"Niña 3 – 14 años/Calcetines, leotardos/Calcetines;;Niña 3 – 14 años/Calcetines, leotardos/Calcetines;;Calzado Infantil/Niña/Calcetines, leotardos;;Calzado Infantil/Niño/Calcetines, leotardos","Bambina 3 - 14 anni/Calze, collants/Calze;;Bambina 3 - 14 anni/Calze, collants/Calze;;Scarpe bambini/Bambina/Calze, collants;;Scarpe bambini/Bambino/Calze, collants"
+CHAUSSON/CHO7,BEBE,F,Chaussures,,"Bebé Niña 3 a 23 meses/Calcetines, leotardos/Calcetines;;Calzado Infantil/Niña/Zapatillas infantiles","Bebè bambina 3 -  23 mesi/Calze, collants/Calze;;Scarpe bambini/Bambina/Pantofole"
+CHAUSSON/CHO7,BEBE,G,Chaussures,,Bebé Niño 3 a 23 meses/Calcetines;;Calzado Infantil/Niño/Zapatillas infantiles,Bebè bambino 3 -  23 mesi/Calze;;Scarpe bambini/Bambino/Pantofole
+CHAUSSON/CHO7,BEBE,M,Chaussures,,"Bebé Niña 3 a 23 meses/Calcetines, leotardos/Calcetines;;Bebé Niña 3 a 23 meses/Calcetines, leotardos/Calcetines;;Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles","Bebè bambina 3 -  23 mesi/Calze, collants/Calze;;Bebè bambina 3 -  23 mesi/Calze, collants/Calze;;Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole"
+CHAUSSON/CHO7,DPAM,F,Chaussures,,"Niña 3 - 14 años/Calcetines, leotardos/Calcetines;;Calzado Infantil/Niña/Zapatillas infantiles","Bambina 3 - 14 anni/Calze, collants/Calze;;Scarpe bambini/Bambina/Pantofole"
+CHAUSSON/CHO7,DPAM,G,Chaussures,,Niño 3 - 14 años/Calcetines;;Calzado Infantil/Niño/Zapatillas infantiles,Bambino 3 - 14 anni/Calze;;Scarpe bambini/Bambino/Pantofole
+CHAUSSON/CHO7,DPAM,M,Chaussures,,"Niña 3 - 14 años/Calcetines, leotardos/Calcetines;;Niña 3 - 14 años/Calcetines, leotardos/Calcetines;;Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles","Bambina 3 - 14 anni/Calze, collants/Calze;;Bambina 3 - 14 anni/Calze, collants/Calze;;Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole"
+CHAUSSONS,BEBE,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+CHAUSSONS,BEBE,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+CHAUSSONS,BEBE,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+CHAUSSONS,DPAM,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+CHAUSSONS,DPAM,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+CHAUSSONS,DPAM,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+CHEMISE,BEBE,F,Vêtements,,,
+CHEMISE,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Camisas,Bebè bambino 3 -  23 mesi/Camicie
+CHEMISE,BEBE,M,Vêtements,,,
+CHEMISE,DPAM,F,Vêtements,,Niña 3 - 14 años/Túnicas,"Bambina 3 - 14 anni/Camicette, bluse"
+CHEMISE,DPAM,G,Vêtements,,Niño 3 - 14 años/Camisas,Bambino 3 - 14 anni/Camicie
+CHEMISE,DPAM,M,Vêtements,,Niño 3 - 14 años/Camisas,Bambino 3 - 14 anni/Camicie
+CHEMISE DE NUIT,BEBE,F,Vêtements,,,
+CHEMISE DE NUIT,BEBE,G,Vêtements,,,
+CHEMISE DE NUIT,BEBE,M,Vêtements,,,
+CHEMISE DE NUIT,DPAM,F,Vêtements,,Niña 3 - 14 años/Pijamas/Camisas de noche,Bambina 3 - 14 anni/Pigiama/Camicie da notte
+CHEMISE DE NUIT,DPAM,G,Vêtements,,"Niño 3 - 14 años/Pijamas/Albornoz, Bata de baño","Bambino 3 - 14 anni/Pigiama/Vestagliette, accappatoi"
+CHEMISE DE NUIT,DPAM,M,Vêtements,,Niña 3 - 14 años/Pijamas/Camisas de noche,Bambina 3 - 14 anni/Pigiama/Camicie da notte
+CHEMISIER,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/Túnicas,"Bebè bambina 3 -  23 mesi/Camicette, bluse"
+CHEMISIER,BEBE,G,Vêtements,,,
+CHEMISIER,BEBE,M,Vêtements,,,
+CHEMISIER,DPAM,F,Vêtements,,Niña 3 - 14 años/Túnicas,"Bambina 3 - 14 anni/Camicette, bluse"
+CHEMISIER,DPAM,G,Vêtements,,Niño 3 - 14 años/Camisas,Bambino 3 - 14 anni/Camicie
+CHEMISIER,DPAM,M,Vêtements,,Niña 3 - 14 años/Túnicas,"Bambina 3 - 14 anni/Camicette, bluse"
+CHOU-CHOU,BEBE,F,Default,,,
+CHOU-CHOU,BEBE,G,Default,,,
+CHOU-CHOU,BEBE,M,Default,,,
+CHOU-CHOU,DPAM,F,Default,,Niña 3 - 14 años/Accesorios niña/Accesorios pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+CHOU-CHOU,DPAM,G,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+CHOU-CHOU,DPAM,M,Default,,Niña 3 - 14 años/Accesorios niña/Accesorios pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+COLLANT,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Calcetines, leotardos;;Calzado Infantil/Niña/Calcetines, leotardos","Bebè bambina 3 -  23 mesi/Calze, collants;;Scarpe bambini/Bambina/Calze, collants"
+COLLANT,BEBE,G,Vêtements,,"Calzado Infantil/Niño/Calcetines, leotardos","Scarpe bambini/Bambino/Calze, collants"
+COLLANT,BEBE,M,Vêtements,,,
+COLLANT,DPAM,F,Vêtements,,"Niña 3 - 14 años/Calcetines, leotardos;;Calzado Infantil/Niña/Calcetines, leotardos","Bambina 3 - 14 anni/Calze, collants;;Scarpe bambini/Bambina/Calze, collants"
+COLLANT,DPAM,G,Vêtements,,"Calzado Infantil/Niño/Calcetines, leotardos","Scarpe bambini/Bambino/Calze, collants"
+COLLANT,DPAM,M,Vêtements,,"Niña 3 - 14 años/Calcetines, leotardos;;Calzado Infantil/Niña/Calcetines, leotardos;;Calzado Infantil/Niño/Calcetines, leotardos","Bambina 3 - 14 anni/Calze, collants;;Scarpe bambini/Bambina/Calze, collants;;Scarpe bambini/Bambino/Calze, collants"
+COLLIER,BEBE,F,Default,,,
+COLLIER,BEBE,G,Default,,,
+COLLIER,BEBE,M,Default,,,
+COLLIER,DPAM,F,Default,,Niña 3 - 14 años/Accesorios niña/Joyas,Bambina 3 - 14 anni/Accessori bambina/Gioielli
+COLLIER,DPAM,G,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+COLLIER,DPAM,M,Default,,Niña 3 - 14 años/Accesorios niña/Joyas,Bambina 3 - 14 anni/Accessori bambina/Gioielli
+COMBINAISON,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Conjuntos, Chandal","Bebè bambina 3 -  23 mesi/Completini, pagliaccetti, tutine"
+COMBINAISON,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Conjuntos, Chandal","Bebè bambino 3 -  23 mesi/Completini, pagliaccetti, tutine"
+COMBINAISON,BEBE,M,Vêtements,,,
+COMBINAISON,DPAM,F,Vêtements,,,
+COMBINAISON,DPAM,G,Vêtements,,"Bebé Niño 3 a 23 meses/Conjuntos, Chandal","Bebè bambino 3 -  23 mesi/Completini, pagliaccetti, tutine"
+COMBINAISON,DPAM,M,Vêtements,,,
+COMBINAISON DE ,BEBE,F,Vêtements,,,
+COMBINAISON DE ,BEBE,G,Vêtements,,,
+COMBINAISON DE ,BEBE,M,Vêtements,,,
+COMBINAISON DE ,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+COMBINAISON DE ,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambino 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+COMBINAISON DE ,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski;;Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+COMBINAISON PIL,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Abrigos, Cazadoras/Abrigos, Polar, combinación piloto","Bebè bambina 3 -  23 mesi/Cappottini, giacchette/Cappottini, piumini, tutoni invernali"
+COMBINAISON PIL,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Abrigos, Cazadoras/Abrigos, Polar, combinación piloto","Bebè bambino 3 -  23 mesi/Cappottini, giacchette/Cappottini, piumini, tutoni invernali"
+COMBINAISON PIL,BEBE,M,Vêtements,,,
+COMBINAISON PIL,DPAM,F,Vêtements,,,
+COMBINAISON PIL,DPAM,G,Vêtements,,,
+COMBINAISON PIL,DPAM,M,Vêtements,,,
+CORBEILLE,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+CORBEILLE,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+CORBEILLE,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+CORBEILLE,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+CORBEILLE,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+CORBEILLE,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+CORDON A LUNETT,BEBE,F,Default,,Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol,Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole
+CORDON A LUNETT,BEBE,G,Default,,Bebé Niño 3 a 23 meses/Accesorios Bebé Niño/Gafas de sol,Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Occhiali da sole
+CORDON A LUNETT,BEBE,M,Default,,Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol;;Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol,Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole;;Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole
+CORDON A LUNETT,DPAM,F,Default,,Niña 3 - 14 años/Accesorios niña/Gafas de sol,Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole
+CORDON A LUNETT,DPAM,G,Default,,Niño 3 - 14 años/Accesorios Niño/Gafas de sol,Bambino 3 - 14 anni/Accessori bambino/Occhiali da sole
+CORDON A LUNETT,DPAM,M,Default,,Niña 3 - 14 años/Accesorios niña/Gafas de sol;;Niña 3 - 14 años/Accesorios niña/Gafas de sol,Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole;;Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole
+COUPE-VENT,BEBE,F,Vêtements,,,
+COUPE-VENT,BEBE,G,Vêtements,,,
+COUPE-VENT,BEBE,M,Vêtements,,,
+COUPE-VENT,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti"
+COUPE-VENT,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas","Bambino 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti"
+COUPE-VENT,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas;;Niña 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti"
+COUVERTURE,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Biancheria per il letto
+COUVERTURE,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+COUVERTURE,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+COUVERTURE,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+COUVERTURE,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+COUVERTURE,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+CUILLERE,BEBE,F,Vaisselle,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+CUILLERE,BEBE,G,Vaisselle,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+CUILLERE,BEBE,M,Vaisselle,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+CUILLERE,DPAM,F,Vaisselle,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+CUILLERE,DPAM,G,Vaisselle,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+CUILLERE,DPAM,M,Vaisselle,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+CULOTTE DE BAIN,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/La Playa,Bebè bambina 3 -  23 mesi/In spiaggia
+CULOTTE DE BAIN,BEBE,G,Vêtements,,,
+CULOTTE DE BAIN,BEBE,M,Vêtements,,Bebé Niña 3 a 23 meses/La Playa,Bebè bambina 3 -  23 mesi/In spiaggia
+CULOTTE DE BAIN,DPAM,F,Vêtements,,Niña 3 - 14 años/La Playa,Bambina 3 - 14 anni/In spiaggia
+CULOTTE DE BAIN,DPAM,G,Vêtements,,Niño 3 - 14 años/La Playa/Bañadores,Bambino 3 - 14 anni/In spiaggia/Costumi da bagno
+CULOTTE DE BAIN,DPAM,M,Vêtements,,Niña 3 - 14 años/La Playa,Bambina 3 - 14 anni/In spiaggia
+DEBARDEUR,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Camisetas, camisetas de tirantes","Bebè bambina 3 -  23 mesi/T-shirt, canotte"
+DEBARDEUR,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Camisetas, camisetas de tirantes","Bebè bambino 3 -  23 mesi/T-shirt, canotte"
+DEBARDEUR,BEBE,M,Vêtements,,,
+DEBARDEUR,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/T-shirt, canotte"
+DEBARDEUR,DPAM,G,Vêtements,,"Niño 3 - 14 años/Camisetas, camisetas de tirantes","Bambino 3 - 14 anni/T-shirt, canotte"
+DEBARDEUR,DPAM,M,Vêtements,,"Niña 3 - 14 años/Camisetas, camisetas de tirantes;;Niña 3 - 14 años/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/T-shirt, canotte;;Bambina 3 - 14 anni/T-shirt, canotte"
+DEGUISEMENT,BEBE,F,Vêtements,,,
+DEGUISEMENT,BEBE,G,Vêtements,,,
+DEGUISEMENT,BEBE,M,Vêtements,,,
+DEGUISEMENT,DPAM,F,Vêtements,,Niña 3 - 14 años/Accesorios niña/Varios,Bambina 3 - 14 anni/Accessori bambina/Altro
+DEGUISEMENT,DPAM,G,Vêtements,,Niño 3 - 14 años/Accesorios Niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+DEGUISEMENT,DPAM,M,Vêtements,,Niña 3 - 14 años/Accesorios niña/Varios;;Niña 3 - 14 años/Accesorios niña/Varios,Bambina 3 - 14 anni/Accessori bambina/Altro;;Bambina 3 - 14 anni/Accessori bambina/Altro
+DORS-BIEN,BEBE,F,Vêtements,,"El Universo del recién nacido/Ropa Recién nacido/Pijamas;;Bebé Niña 3 a 23 meses/Pijamas, dors-bien","L'universo del neonato/Abbigliamento per neonato/Pigiama, tutine;;Bebè bambina 3 -  23 mesi/Pigiama, tutine"
+DORS-BIEN,BEBE,G,Vêtements,,"El Universo del recién nacido/Ropa Recién nacido/Pijamas;;Bebé Niño 3 a 23 meses/Pijamas, dors-bien","L'universo del neonato/Abbigliamento per neonato/Pigiama, tutine;;Bebè bambino 3 -  23 mesi/Pigiama, tutine"
+DORS-BIEN,BEBE,M,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/Pijamas,"L'universo del neonato/Abbigliamento per neonato/Pigiama, tutine"
+DORS-BIEN,DPAM,F,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/Pijamas,"L'universo del neonato/Abbigliamento per neonato/Pigiama, tutine"
+DORS-BIEN,DPAM,G,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/Pijamas,"L'universo del neonato/Abbigliamento per neonato/Pigiama, tutine"
+DORS-BIEN,DPAM,M,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/Pijamas,"L'universo del neonato/Abbigliamento per neonato/Pigiama, tutine"
+DOUDOU,BEBE,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+DOUDOU,BEBE,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+DOUDOU,BEBE,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+DOUDOU,DPAM,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+DOUDOU,DPAM,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+DOUDOU,DPAM,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+DOUDOUNE,BEBE,F,Vêtements,,,
+DOUDOUNE,BEBE,G,Vêtements,,,
+DOUDOUNE,BEBE,M,Vêtements,,,
+DOUDOUNE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+DOUDOUNE,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambino 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+DOUDOUNE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski;;Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+DRAP,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+DRAP,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+DRAP,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+DRAP,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+DRAP,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+DRAP,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+DRAP DE BAIN,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+DRAP DE BAIN,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+DRAP DE BAIN,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+DRAP DE BAIN,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+DRAP DE BAIN,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+DRAP DE BAIN,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+ECHARPE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gorros, bufandas, guantes","Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Berrettini, sciarpe, guanti"
+ECHARPE,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Accesorios Bebé Niño/Gorros, bufandas, guantes","Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Berrettini, sciarpe, guanti"
+ECHARPE,BEBE,M,Vêtements,,,
+ECHARPE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+ECHARPE,DPAM,G,Vêtements,,"Niño 3 - 14 años/Accesorios Niño/Gorros, bufandas, guantes","Bambino 3 - 14 anni/Accessori bambino/Berrettini, sciarpe, guanti"
+ECHARPE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes;;Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti;;Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+EDREDON,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+EDREDON,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+EDREDON,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+EDREDON,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+EDREDON,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+EDREDON,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+ENSEMBLE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Conjuntos, Chandal","Bebè bambina 3 -  23 mesi/Completini, pagliaccetti, tutine"
+ENSEMBLE,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Conjuntos, Chandal","Bebè bambino 3 -  23 mesi/Completini, pagliaccetti, tutine"
+ENSEMBLE,BEBE,M,Vêtements,,,
+ENSEMBLE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Conjuntos, Chandal","Bambina 3 - 14 anni/Completini, pagliaccetti, tutine"
+ENSEMBLE,DPAM,G,Vêtements,,"Niño 3 - 14 años/Conjuntos, Chandal","Bambino 3 - 14 anni/Completini, tutine"
+ENSEMBLE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Conjuntos, Chandal;;Niña 3 - 14 años/Conjuntos, Chandal","Bambina 3 - 14 anni/Completini, pagliaccetti, tutine;;Bambina 3 - 14 anni/Completini, pagliaccetti, tutine"
+ENSEMBLE DE PLA,BEBE,F,Vêtements,,,
+ENSEMBLE DE PLA,BEBE,G,Vêtements,,,
+ENSEMBLE DE PLA,BEBE,M,Vêtements,,,
+ENSEMBLE DE PLA,DPAM,F,Vêtements,,Niña 3 - 14 años/La Playa,Bambina 3 - 14 anni/In spiaggia
+ENSEMBLE DE PLA,DPAM,G,Vêtements,,Niño 3 - 14 años/La Playa/Bañadores,Bambino 3 - 14 anni/In spiaggia/Costumi da bagno
+ENSEMBLE DE PLA,DPAM,M,Vêtements,,Niña 3 - 14 años/La Playa,Bambina 3 - 14 anni/In spiaggia
+ENSEMBLE SOUS V,BEBE,F,Vêtements,,,
+ENSEMBLE SOUS V,BEBE,G,Vêtements,,,
+ENSEMBLE SOUS V,BEBE,M,Vêtements,,,
+ENSEMBLE SOUS V,DPAM,F,Vêtements,,Niña 3 - 14 años/Ropa interior,Bambina 3 - 14 anni/Intimo
+ENSEMBLE SOUS V,DPAM,G,Vêtements,,Niño 3 - 14 años/Ropa interior,Bambino 3 - 14 anni/Intimo
+ENSEMBLE SOUS V,DPAM,M,Vêtements,,Niña 3 - 14 años/Ropa interior;;Niña 3 - 14 años/Ropa interior,Bambina 3 - 14 anni/Intimo;;Bambina 3 - 14 anni/Intimo
+ENTOURAGE DE LI,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+ENTOURAGE DE LI,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+ENTOURAGE DE LI,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+ENTOURAGE DE LI,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+ENTOURAGE DE LI,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+ENTOURAGE DE LI,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Ropa de cama,L'universo del neonato/Articoli per bambini/La nanna/Lenzuola
+ETUI A LUNETTES,BEBE,F,Default,,Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol,Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole
+ETUI A LUNETTES,BEBE,G,Default,,Bebé Niño 3 a 23 meses/Accesorios Bebé Niño/Gafas de sol,Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Occhiali da sole
+ETUI A LUNETTES,BEBE,M,Default,,Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol;;Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol,Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole;;Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole
+ETUI A LUNETTES,DPAM,F,Default,,Niña 3 - 14 años/Accesorios niña/Gafas de sol,Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole
+ETUI A LUNETTES,DPAM,G,Default,,Niño 3 - 14 años/Accesorios Niño/Gafas de sol,Bambino 3 - 14 anni/Accessori bambino/Occhiali da sole
+ETUI A LUNETTES,DPAM,M,Default,,Niña 3 - 14 años/Accesorios niña/Gafas de sol;;Niña 3 - 14 años/Accesorios niña/Gafas de sol,Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole;;Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole
+FOULARD,BEBE,F,Vêtements,,,
+FOULARD,BEBE,G,Vêtements,,,
+FOULARD,BEBE,M,Vêtements,,,
+FOULARD,DPAM,F,Vêtements,,Niña 3 - 14 años/Accesorios niña/Pañuelos,Bambina 3 - 14 anni/Accessori bambina/Foulards
+FOULARD,DPAM,G,Vêtements,,"Niño 3 – 14 años/Accesorios niño/Gorros, bufandas y guantes","Bambino 3 - 14 anni/Accessori bambino/Berrettini, sciarpe, guanti"
+FOULARD,DPAM,M,Vêtements,,Niña 3 - 14 años/Accesorios niña/Pañuelos,Bambina 3 - 14 anni/Accessori bambina/Foulards
+GANT DE TOILETT,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+GANT DE TOILETT,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+GANT DE TOILETT,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+GANT DE TOILETT,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+GANT DE TOILETT,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+GANT DE TOILETT,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+GANTS,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gorros, bufandas, guantes","Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Berrettini, sciarpe, guanti"
+GANTS,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Accesorios Bebé Niño/Gorros, bufandas, guantes","Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Berrettini, sciarpe, guanti"
+GANTS,BEBE,M,Vêtements,,,
+GANTS,DPAM,F,Vêtements,,"Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+GANTS,DPAM,G,Vêtements,,"Niño 3 - 14 años/Accesorios Niño/Gorros, bufandas, guantes","Bambino 3 - 14 anni/Accessori bambino/Berrettini, sciarpe, guanti"
+GANTS,DPAM,M,Vêtements,,"Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes;;Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti;;Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+GIGOTEUSE,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Saco de dormir,L'universo del neonato/Articoli per bambini/La nanna/Gigoteuses
+GIGOTEUSE,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Saco de dormir,L'universo del neonato/Articoli per bambini/La nanna/Gigoteuses
+GIGOTEUSE,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Saco de dormir,L'universo del neonato/Articoli per bambini/La nanna/Gigoteuses
+GIGOTEUSE,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Saco de dormir,L'universo del neonato/Articoli per bambini/La nanna/Gigoteuses
+GIGOTEUSE,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Saco de dormir,L'universo del neonato/Articoli per bambini/La nanna/Gigoteuses
+GIGOTEUSE,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Sueño/Saco de dormir,L'universo del neonato/Articoli per bambini/La nanna/Gigoteuses
+GILET,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bebè bambina 3 -  23 mesi/Maglie, Maglioncini, Felpe"
+GILET,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bebè bambino 3 -  23 mesi/Maglie, Maglioncini, Felpe"
+GILET,BEBE,M,Vêtements,,,
+GILET,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta","Bambina 3 - 14 anni/Sous-pulls, Pulls, Maglioncini"
+GILET,DPAM,G,Vêtements,,"Niño 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambino 3 - 14 anni/Maglie, Maglioncini, Felpe"
+GILET,DPAM,M,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta;;Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta","Bambina 3 - 14 anni/Sous-pulls, Pulls, Maglioncini;;Bambina 3 - 14 anni/Sous-pulls, Pulls, Maglioncini"
+HABILLAGE PLUIE,BEBE,F,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+HABILLAGE PLUIE,BEBE,G,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+HABILLAGE PLUIE,BEBE,M,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+HABILLAGE PLUIE,DPAM,F,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+HABILLAGE PLUIE,DPAM,G,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+HABILLAGE PLUIE,DPAM,M,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+HOCHET,BEBE,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+HOCHET,BEBE,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+HOCHET,BEBE,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+HOCHET,DPAM,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+HOCHET,DPAM,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+HOCHET,DPAM,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+HOUSSE A LANGER,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/colchón cambiador,L'universo del neonato/Articoli per bambini/Il bagnetto/Matelas fasciatoio
+HOUSSE A LANGER,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/colchón cambiador,L'universo del neonato/Articoli per bambini/Il bagnetto/Matelas fasciatoio
+HOUSSE A LANGER,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/colchón cambiador,L'universo del neonato/Articoli per bambini/Il bagnetto/Matelas fasciatoio
+HOUSSE A LANGER,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/colchón cambiador,L'universo del neonato/Articoli per bambini/Il bagnetto/Matelas fasciatoio
+HOUSSE A LANGER,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/colchón cambiador,L'universo del neonato/Articoli per bambini/Il bagnetto/Matelas fasciatoio
+HOUSSE A LANGER,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/colchón cambiador,L'universo del neonato/Articoli per bambini/Il bagnetto/Matelas fasciatoio
+IMPERMEABLE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambina 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+IMPERMEABLE,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambino 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+IMPERMEABLE,BEBE,M,Vêtements,,,
+IMPERMEABLE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bambina 3 - 14 anni/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+IMPERMEABLE,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bambino 3 - 14 anni/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+IMPERMEABLE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos, Cazadoras/Impermeables, parkas, chaquetas;;Niña 3 - 14 años/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bambina 3 - 14 anni/Cappottini, giacchette/Impermeabili, giubbotti, giacche;;Bambina 3 - 14 anni/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+JEAN'S,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Pantalones, petos, leggings","Bebè bambina 3 -  23 mesi/Pantaloni, salopette, calzoncini"
+JEAN'S,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Pantalones,Bebè bambino 3 -  23 mesi/Pantaloni
+JEAN'S,BEBE,M,Vêtements,,,
+JEAN'S,DPAM,F,Vêtements,,Niña 3 - 14 años/Vaqueros,Bambina 3 - 14 anni/Jeanni
+JEAN'S,DPAM,G,Vêtements,,Niño 3 - 14 años/Vaqueros,Bambino 3 - 14 anni/Jeanni
+JEAN'S,DPAM,M,Vêtements,,Niña 3 - 14 años/Vaqueros;;Niña 3 - 14 años/Vaqueros,Bambina 3 - 14 anni/Jeanni;;Bambina 3 - 14 anni/Jeanni
+JEUX,BEBE,F,Jouets,,,
+JEUX,BEBE,G,Jouets,,,
+JEUX,BEBE,M,Jouets,,,
+JEUX,DPAM,F,Jouets,,,
+JEUX,DPAM,G,Jouets,,,
+JEUX,DPAM,M,Jouets,,,
+JOGGING,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Conjuntos, Chandal","Bebè bambina 3 -  23 mesi/Completini, pagliaccetti, tutine"
+JOGGING,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Conjuntos, Chandal","Bebè bambino 3 -  23 mesi/Completini, pagliaccetti, tutine"
+JOGGING,BEBE,M,Vêtements,,,
+JOGGING,DPAM,F,Vêtements,,"Niña 3 - 14 años/Conjuntos, Chandal","Bambina 3 - 14 anni/Completini, pagliaccetti, tutine"
+JOGGING,DPAM,G,Vêtements,,"Niño 3 - 14 años/Conjuntos, Chandal","Bambino 3 - 14 anni/Completini, tutine"
+JOGGING,DPAM,M,Vêtements,,"Niña 3 - 14 años/Conjuntos, Chandal;;Niña 3 - 14 años/Conjuntos, Chandal","Bambina 3 - 14 anni/Completini, pagliaccetti, tutine;;Bambina 3 - 14 anni/Completini, pagliaccetti, tutine"
+JOUET DIVERS,BEBE,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+JOUET DIVERS,BEBE,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+JOUET DIVERS,BEBE,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+JOUET DIVERS,DPAM,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+JOUET DIVERS,DPAM,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+JOUET DIVERS,DPAM,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+JUPE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Faldas, Pantalones cortos, Bloomers","Bebè bambina 3 -  23 mesi/Gonne, pantaloncini, culottes"
+JUPE,BEBE,G,Vêtements,,,
+JUPE,BEBE,M,Vêtements,,,
+JUPE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Faldas, Pantalones cortos","Bambina 3 - 14 anni/Gonne, pantaloncini, pantaloni"
+JUPE,DPAM,G,Vêtements,,,
+JUPE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Faldas, Pantalones cortos","Bambina 3 - 14 anni/Gonne, pantaloncini, pantaloni"
+LANGE,BEBE,F,Textile,,"El Universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+LANGE,BEBE,G,Textile,,"El Universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+LANGE,BEBE,M,Textile,,"El Universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+LANGE,DPAM,F,Textile,,"El Universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+LANGE,DPAM,G,Textile,,"El Universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+LANGE,DPAM,M,Textile,,"El Universo del recién nacido/La Puericultura/La Comida/Baberos, gasitas","L'universo del neonato/Articoli per bambini/La pappa/Bavaglini, fasce"
+LIT D'APPOINT,BEBE,F,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+LIT D'APPOINT,BEBE,G,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+LIT D'APPOINT,BEBE,M,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+LIT D'APPOINT,DPAM,F,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+LIT D'APPOINT,DPAM,G,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+LIT D'APPOINT,DPAM,M,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+LIVRE,BEBE,F,Livres,,,
+LIVRE,BEBE,G,Livres,,,
+LIVRE,BEBE,M,Livres,,,
+LIVRE,DPAM,F,Livres,,,
+LIVRE,DPAM,G,Livres,,,
+LIVRE,DPAM,M,Livres,,,
+LOT DE CHAUSSET,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/calcetines, leotardos/calcetines","Bebè bambina 3 -  23 mesi/Calze, collants/Calze"
+LOT DE CHAUSSET,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Calcetines,Bebè bambino 3 -  23 mesi/Calze
+LOT DE CHAUSSET,BEBE,M,Vêtements,,,
+LOT DE CHAUSSET,DPAM,F,Vêtements,,"Niña 3 - 14 años/Calcetines, leotardos/Calcetines","Bambina 3 - 14 anni/Calze, collants/Calze"
+LOT DE CHAUSSET,DPAM,G,Vêtements,,Niño 3 - 14 años/Calcetines,Bambino 3 - 14 anni/Calze
+LOT DE CHAUSSET,DPAM,M,Vêtements,,"Niña 3 - 14 años/Calcetines, leotardos/Calcetines;;Niña 3 - 14 años/Calcetines, leotardos/Calcetines","Bambina 3 - 14 anni/Calze, collants/Calze;;Bambina 3 - 14 anni/Calze, collants/Calze"
+LOT DE CULOTTES,BEBE,F,Vêtements,,"Niña 3 - 14 años/Ropa interior/Bragas, shorties","Bambina 3 - 14 anni/Intimo/Culottes, shorties"
+LOT DE CULOTTES,BEBE,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Boxers, slips","Bambino 3 - 14 anni/Intimo/Boxers, slips"
+LOT DE CULOTTES,BEBE,M,Vêtements,,,
+LOT DE CULOTTES,DPAM,F,Vêtements,,"Niña 3 - 14 años/Ropa interior/Bragas, shorties","Bambina 3 - 14 anni/Intimo/Culottes, shorties"
+LOT DE CULOTTES,DPAM,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Boxers, slips","Bambino 3 - 14 anni/Intimo/Boxers, slips"
+LOT DE CULOTTES,DPAM,M,Vêtements,,"Niña 3 - 14 años/Ropa interior/Bragas, shorties","Bambina 3 - 14 anni/Intimo/Culottes, shorties"
+LOT DE SHORTYS,BEBE,F,Vêtements,,"Niña 3 - 14 años/Ropa interior/Bragas, shorties","Bambina 3 - 14 anni/Intimo/Culottes, shorties"
+LOT DE SHORTYS,BEBE,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Boxers, slips","Bambino 3 - 14 anni/Intimo/Boxers, slips"
+LOT DE SHORTYS,BEBE,M,Vêtements,,,
+LOT DE SHORTYS,DPAM,F,Vêtements,,"Niña 3 - 14 años/Ropa interior/Bragas, shorties","Bambina 3 - 14 anni/Intimo/Culottes, shorties"
+LOT DE SHORTYS,DPAM,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Boxers, slips","Bambino 3 - 14 anni/Intimo/Boxers, slips"
+LOT DE SHORTYS,DPAM,M,Vêtements,,"Niña 3 - 14 años/Ropa interior/Bragas, shorties","Bambina 3 - 14 anni/Intimo/Culottes, shorties"
+LOT DE SLIPS,BEBE,F,Vêtements,,Niña 3 - 14 años/Ropa interior,Bambina 3 - 14 anni/Intimo
+LOT DE SLIPS,BEBE,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Boxers, slips","Bambino 3 - 14 anni/Intimo/Boxers, slips"
+LOT DE SLIPS,BEBE,M,Vêtements,,,
+LOT DE SLIPS,DPAM,F,Vêtements,,Niña 3 - 14 años/Ropa interior,Bambina 3 - 14 anni/Intimo
+LOT DE SLIPS,DPAM,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Boxers, slips","Bambino 3 - 14 anni/Intimo/Boxers, slips"
+LOT DE SLIPS,DPAM,M,Vêtements,,,
+LOT DE TSHIRTS,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Camisetas, camisetas de tirantes","Bebè bambina 3 -  23 mesi/T-shirt, canotte"
+LOT DE TSHIRTS,BEBE,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambino 3 - 14 anni/Intimo/T-shirt, canotte"
+LOT DE TSHIRTS,BEBE,M,Vêtements,,,
+LOT DE TSHIRTS,DPAM,F,Vêtements,,"Niña 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/Intimo/T-shirt, canotte"
+LOT DE TSHIRTS,DPAM,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambino 3 - 14 anni/Intimo/T-shirt, canotte"
+LOT DE TSHIRTS,DPAM,M,Vêtements,,"Niña 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes;;Niña 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/Intimo/T-shirt, canotte;;Bambina 3 - 14 anni/Intimo/T-shirt, canotte"
+LOT DEBARDEURS,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Camisetas, camisetas de tirantes","Bebè bambina 3 -  23 mesi/T-shirt, canotte"
+LOT DEBARDEURS,BEBE,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambino 3 - 14 anni/Intimo/T-shirt, canotte"
+LOT DEBARDEURS,BEBE,M,Vêtements,,,
+LOT DEBARDEURS,DPAM,F,Vêtements,,"Niña 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/Intimo/T-shirt, canotte"
+LOT DEBARDEURS,DPAM,G,Vêtements,,"Niño 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambino 3 - 14 anni/Intimo/T-shirt, canotte"
+LOT DEBARDEURS,DPAM,M,Vêtements,,"Niña 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes;;Niña 3 - 14 años/Ropa interior/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/Intimo/T-shirt, canotte;;Bambina 3 - 14 anni/Intimo/T-shirt, canotte"
+LUNETTES DE SOL,BEBE,F,Lunettes,,Bebé Niña 3 a 23 meses/La Playa,Bebè bambina 3 -  23 mesi/In spiaggia
+LUNETTES DE SOL,BEBE,G,Lunettes,,Bebé Niño 3 a 23 meses/La Playa,Bebè bambino 3 -  23 mesi/In spiaggia
+LUNETTES DE SOL,BEBE,M,Lunettes,,Bebé Niña 3 a 23 meses/La Playa;;Bebé Niña 3 a 23 meses/La Playa,Bebè bambina 3 -  23 mesi/In spiaggia;;Bebè bambina 3 -  23 mesi/In spiaggia
+LUNETTES DE SOL,DPAM,F,Lunettes,,Niña 3 - 14 años/La Playa,Bambina 3 - 14 anni/In spiaggia
+LUNETTES DE SOL,DPAM,G,Lunettes,,Niño 3 - 14 años/La Playa,Bambino 3 - 14 anni/In spiaggia
+LUNETTES DE SOL,DPAM,M,Lunettes,,Niña 3 - 14 años/La Playa;;Niña 3 - 14 años/La Playa,Bambina 3 - 14 anni/In spiaggia;;Bambina 3 - 14 anni/In spiaggia
+LUNETTES PISCIN,BEBE,F,Lunettes,,Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol,Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole
+LUNETTES PISCIN,BEBE,G,Lunettes,,Bebé Niño 3 a 23 meses/Accesorios Bebé Niño/Gafas de sol,Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Occhiali da sole
+LUNETTES PISCIN,BEBE,M,Lunettes,,Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol;;Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gafas de sol,Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole;;Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Occhiali da sole
+LUNETTES PISCIN,DPAM,F,Lunettes,,Niña 3 - 14 años/Accesorios niña/Gafas de sol,Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole
+LUNETTES PISCIN,DPAM,G,Lunettes,,Niño 3 - 14 años/Accesorios Niño/Gafas de sol,Bambino 3 - 14 anni/Accessori bambino/Occhiali da sole
+LUNETTES PISCIN,DPAM,M,Lunettes,,Niña 3 - 14 años/Accesorios niña/Gafas de sol;;Niña 3 - 14 años/Accesorios niña/Gafas de sol,Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole;;Bambina 3 - 14 anni/Accessori bambina/Occhiali da sole
+MAILLOT DE BAIN,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/La Playa/Bañadores,Bebè bambina 3 -  23 mesi/In spiaggia/Costumi da bagno
+MAILLOT DE BAIN,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/La Playa/Bañadores,Bebè bambino 3 -  23 mesi/In spiaggia/Costumi da bagno
+MAILLOT DE BAIN,BEBE,M,Vêtements,,Bebé Niña 3 a 23 meses/La Playa/Bañadores;;Bebé Niña 3 a 23 meses/La Playa/Bañadores,Bebè bambina 3 -  23 mesi/In spiaggia/Costumi da bagno;;Bebè bambina 3 -  23 mesi/In spiaggia/Costumi da bagno
+MAILLOT DE BAIN,DPAM,F,Vêtements,,Niña 3 - 14 años/La Playa/Bañadores,Bambina 3 - 14 anni/In spiaggia/Costumi da bagno
+MAILLOT DE BAIN,DPAM,G,Vêtements,,Niño 3 - 14 años/La Playa/Bañadores,Bambino 3 - 14 anni/In spiaggia/Costumi da bagno
+MAILLOT DE BAIN,DPAM,M,Vêtements,,Niña 3 - 14 años/La Playa/Bañadores;;Niña 3 - 14 años/La Playa/Bañadores,Bambina 3 - 14 anni/In spiaggia/Costumi da bagno;;Bambina 3 - 14 anni/In spiaggia/Costumi da bagno
+MANTEAU,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Abrigos, Cazadoras/Abrigos, Polar, combinación piloto","Bebè bambina 3 -  23 mesi/Cappottini, giacchette/Cappottini, piumini, tutoni invernali"
+MANTEAU,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Abrigos, Cazadoras/Abrigos, Polar, combinación piloto","Bebè bambino 3 -  23 mesi/Cappottini, giacchette/Cappottini, piumini, tutoni invernali"
+MANTEAU,BEBE,M,Vêtements,,,
+MANTEAU,DPAM,F,Vêtements,,Niña 3 - 14 años/Abrigos y Cazadoras/Abrigos,Bambina 3 - 14 anni/Cappotti e giacche pesanti/Cappotti
+MANTEAU,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/Abrigos, chaquetas, Cazadoras","Bambino 3 - 14 anni/Cappotti e giacche pesanti/Cappotti, giacche, giubbotti"
+MANTEAU,DPAM,M,Vêtements,,Niña 3 - 14 años/Abrigos y Cazadoras/Abrigos;;Niña 3 - 14 años/Abrigos y Cazadoras/Abrigos,Bambina 3 - 14 anni/Cappotti e giacche pesanti/Cappotti;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Cappotti
+MIXEUR,BEBE,F,Electroménager,,El Universo del recién nacido/La Puericultura/La Comida/Robot de cocina,L'universo del neonato/Articoli per bambini/La pappa/Cuocipappa
+MIXEUR,BEBE,G,Electroménager,,El Universo del recién nacido/La Puericultura/La Comida/Robot de cocina,L'universo del neonato/Articoli per bambini/La pappa/Cuocipappa
+MIXEUR,BEBE,M,Electroménager,,El Universo del recién nacido/La Puericultura/La Comida/Robot de cocina,L'universo del neonato/Articoli per bambini/La pappa/Cuocipappa
+MIXEUR,DPAM,F,Electroménager,,El Universo del recién nacido/La Puericultura/La Comida/Robot de cocina,L'universo del neonato/Articoli per bambini/La pappa/Cuocipappa
+MIXEUR,DPAM,G,Electroménager,,El Universo del recién nacido/La Puericultura/La Comida/Robot de cocina,L'universo del neonato/Articoli per bambini/La pappa/Cuocipappa
+MIXEUR,DPAM,M,Electroménager,,El Universo del recién nacido/La Puericultura/La Comida/Robot de cocina,L'universo del neonato/Articoli per bambini/La pappa/Cuocipappa
+MOBILE,BEBE,F,Jouets,,"El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Abacos, móviles","L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+MOBILE,BEBE,G,Jouets,,"El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Abacos, móviles","L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+MOBILE,BEBE,M,Jouets,,"El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Abacos, móviles","L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+MOBILE,DPAM,F,Jouets,,"El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Abacos, móviles","L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+MOBILE,DPAM,G,Jouets,,"El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Abacos, móviles","L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+MOBILE,DPAM,M,Jouets,,"El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Abacos, móviles","L'universo del neonato/Articoli per bambini/Doudou e giochi/Giostrine, abachi"
+MONTAGNE_BOTTE ,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili"
+MONTAGNE_BOTTE ,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+MONTAGNE_BOTTE ,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia;;Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili;;Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+MONTAGNE_BOTTE ,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili"
+MONTAGNE_BOTTE ,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+MONTAGNE_BOTTE ,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia;;Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili;;Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+MOUFLES,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Accesorios Bebé Niña/Gorros, bufandas, guantes","Bebè bambina 3 -  23 mesi/Accessori bebè bambina/Berrettini, sciarpe, guanti"
+MOUFLES,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Accesorios Bebé Niño/Gorros, bufandas, guantes","Bebè bambino 3 -  23 mesi/Accessori bebè bambino/Berrettini, sciarpe, guanti"
+MOUFLES,BEBE,M,Vêtements,,,
+MOUFLES,DPAM,F,Vêtements,,"Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+MOUFLES,DPAM,G,Vêtements,,"Niño 3 - 14 años/Accesorios Niño/Gorros, bufandas, guantes","Bambino 3 - 14 anni/Accessori bambino/Berrettini, sciarpe, guanti"
+MOUFLES,DPAM,M,Vêtements,,"Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes;;Niña 3 - 14 años/Accesorios niña/Gorros, bufandas, guantes","Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti;;Bambina 3 - 14 anni/Accessori bambina/Berrettini, sciarpe, guanti"
+NID D'ANGE,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Paseo/Sacos para silla de paseo,"L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+NID D'ANGE,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Paseo/Sacos para silla de paseo,"L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+NID D'ANGE,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Paseo/Sacos para silla de paseo,"L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+NID D'ANGE,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Paseo/Sacos para silla de paseo,"L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+NID D'ANGE,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Paseo/Sacos para silla de paseo,"L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+NID D'ANGE,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Paseo/Sacos para silla de paseo,"L'universo del neonato/Articoli per bambini/A spasso/Sacchi nanna, nidi d'angelo"
+OMBRELLE,BEBE,F,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+OMBRELLE,BEBE,G,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+OMBRELLE,BEBE,M,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+OMBRELLE,DPAM,F,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+OMBRELLE,DPAM,G,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+OMBRELLE,DPAM,M,Accessoires Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Accesorios silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Accessori passeggino
+PANTALON,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Pantalones, petos, leggings","Bebè bambina 3 -  23 mesi/Pantaloni, salopette, calzoncini"
+PANTALON,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Pantalones,Bebè bambino 3 -  23 mesi/Pantaloni
+PANTALON,BEBE,M,Vêtements,,,
+PANTALON,DPAM,F,Vêtements,,Niña 3 - 14 años/Pantalones,"Bambina 3 - 14 anni/Pantaloni, pantacourt"
+PANTALON,DPAM,G,Vêtements,,Niño 3 - 14 años/Pantalones,Bambino 3 - 14 anni/Pantaloni
+PANTALON,DPAM,M,Vêtements,,Niña 3 - 14 años/Pantalones;;Niña 3 - 14 años/Pantalones,"Bambina 3 - 14 anni/Pantaloni, pantacourt;;Bambina 3 - 14 anni/Pantaloni, pantacourt"
+PANTALON DE JOG,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Conjuntos, Chandal","Bebè bambina 3 -  23 mesi/Completini, pagliaccetti, tutine"
+PANTALON DE JOG,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Conjuntos, Chandal","Bebè bambino 3 -  23 mesi/Completini, pagliaccetti, tutine"
+PANTALON DE JOG,BEBE,M,Vêtements,,,
+PANTALON DE JOG,DPAM,F,Vêtements,,"Niña 3 - 14 años/Conjuntos, Chandal","Bambina 3 - 14 anni/Completini, pagliaccetti, tutine"
+PANTALON DE JOG,DPAM,G,Vêtements,,"Niño 3 - 14 años/Conjuntos, Chandal","Bambino 3 - 14 anni/Completini, tutine"
+PANTALON DE JOG,DPAM,M,Vêtements,,"Niña 3 - 14 años/Conjuntos, Chandal;;Niña 3 - 14 años/Conjuntos, Chandal","Bambina 3 - 14 anni/Completini, pagliaccetti, tutine;;Bambina 3 - 14 anni/Completini, pagliaccetti, tutine"
+PANTALON DE SKI,BEBE,F,Vêtements,,,
+PANTALON DE SKI,BEBE,G,Vêtements,,,
+PANTALON DE SKI,BEBE,M,Vêtements,,,
+PANTALON DE SKI,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+PANTALON DE SKI,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambino 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+PANTALON DE SKI,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski;;Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+PANTOUFLE_BABIE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_BABIE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BABIE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BABIE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_BABIE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BABIE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BALLE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_BALLE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BALLE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BALLE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_BALLE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BALLE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BOTTI,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_BOTTI,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BOTTI,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BOTTI,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_BOTTI,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_BOTTI,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_CHAUS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_CHAUS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_CHAUS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_CHAUS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_CHAUS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_CHAUS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_LAYET,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_LAYET,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_LAYET,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_LAYET,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_LAYET,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_LAYET,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_MULE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_MULE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_MULE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_MULE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_MULE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_MULE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SALOM,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_SALOM,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SALOM,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SALOM,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_SALOM,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SALOM,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SANS ,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_SANS ,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SANS ,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SANS ,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole
+PANTOUFLE_SANS ,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambino/Pantofole
+PANTOUFLE_SANS ,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas infantiles;;Calzado Infantil/Niño/Zapatillas infantiles,Scarpe bambini/Bambina/Pantofole;;Scarpe bambini/Bambino/Pantofole
+PARAPLUIE,BEBE,F,Default,,,
+PARAPLUIE,BEBE,G,Default,,,
+PARAPLUIE,BEBE,M,Default,,,
+PARAPLUIE,DPAM,F,Default,,Niña 3 - 14 años/Accesorios niña/Varios,Bambina 3 - 14 anni/Accessori bambina/Altro
+PARAPLUIE,DPAM,G,Default,,Niño 3 - 14 años/Accesorios Niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+PARAPLUIE,DPAM,M,Default,,Niña 3 - 14 años/Accesorios niña/Varios;;Niña 3 - 14 años/Accesorios niña/Varios,"Vestiti de chambre, Accappatoi"
+PARC,BEBE,F,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+PARC,BEBE,G,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+PARC,BEBE,M,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+PARC,DPAM,F,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+PARC,DPAM,G,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+PARC,DPAM,M,Mobilier,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+PARKA,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambina 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+PARKA,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambino 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+PARKA,BEBE,M,Vêtements,,,
+PARKA,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti"
+PARKA,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas","Bambino 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti"
+PARKA,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas;;Niña 3 - 14 años/Abrigos y Cazadoras/Impermeables, parkas","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Impermeabili, giubbotti"
+PARKA DE SKI,BEBE,F,Vêtements,,,
+PARKA DE SKI,BEBE,G,Vêtements,,,
+PARKA DE SKI,BEBE,M,Vêtements,,,
+PARKA DE SKI,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+PARKA DE SKI,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambino 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+PARKA DE SKI,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski;;Niña 3 - 14 años/Abrigos y Cazadoras/Polar, ski",Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Piumini
+PEIGNOIR,BEBE,F,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/El Baño/Bata de baño,L'universo del neonato/Abbigliamento per neonato/Il bagnetto/Accappatoi
+PEIGNOIR,BEBE,G,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/El Baño/Bata de baño,L'universo del neonato/Abbigliamento per neonato/Il bagnetto/Accappatoi
+PEIGNOIR,BEBE,M,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/El Baño/Bata de baño,L'universo del neonato/Abbigliamento per neonato/Il bagnetto/Accappatoi
+PEIGNOIR,DPAM,F,Vêtements,,"El Universo del recién nacido/Ropa Recién nacido/El Baño/Bata de baño;;Niña 3 - 14 años/Pijamas/Albornoz, Bata de baño","L'universo del neonato/Abbigliamento per neonato/Il bagnetto/Accappatoi;;Bambina 3 - 14 anni/Pigiama/Vestagliette, accappatoi"
+PEIGNOIR,DPAM,G,Vêtements,,"El Universo del recién nacido/Ropa Recién nacido/El Baño/Bata de baño;;Niño 3 - 14 años/Pijamas/Albornoz, Bata de baño","L'universo del neonato/Abbigliamento per neonato/Il bagnetto/Accappatoi;;Bambino 3 - 14 anni/Pigiama/Vestagliette, accappatoi"
+PEIGNOIR,DPAM,M,Vêtements,,"El Universo del recién nacido/Ropa Recién nacido/El Baño/Bata de baño;;Niña 3 - 14 años/Pijamas/Albornoz, Bata de baño;;Niña 3 - 14 años/Pijamas/Albornoz, Bata de baño","L'universo del neonato/Abbigliamento per neonato/Il bagnetto/Accappatoi;;Bambina 3 - 14 anni/Pigiama/Vestagliette, accappatoi;;Bambina 3 - 14 anni/Pigiama/Vestagliette, accappatoi"
+PELUCHE,BEBE,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+PELUCHE,BEBE,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+PELUCHE,BEBE,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+PELUCHE,DPAM,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+PELUCHE,DPAM,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+PELUCHE,DPAM,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Muñecos y peluches,L'universo del neonato/Articoli per bambini/Doudou e giochi/Doudou e peluche
+PLUIE_BOTTE,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili"
+PLUIE_BOTTE,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+PLUIE_BOTTE,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia;;Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili;;Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+PLUIE_BOTTE,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili"
+PLUIE_BOTTE,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+PLUIE_BOTTE,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas-Ski, Botas para lluvia;;Calzado Infantil/Niño/Botas-Ski, Botas para lluvia","Scarpe bambini/Bambina/Dopo-sci, stivali impermeabili;;Scarpe bambini/Bambino/Dopo-sci, stivali impermeabili"
+POLO,BEBE,F,Vêtements,,,
+POLO,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Camisetas, camisetas de tirantes, polos","Bebè bambino 3 -  23 mesi/T-shirt, canotte, polo"
+POLO,BEBE,M,Vêtements,,,
+POLO,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/T-shirt, canotte"
+POLO,DPAM,G,Vêtements,,"Niño 3 - 14 años/Camisetas, camisetas de tirantes, polos","Bambino 3 - 14 anni/T-shirt, canotte, polo"
+POLO,DPAM,M,Vêtements,,"Niño 3 - 14 años/Camisetas, camisetas de tirantes, polos","Bambino 3 - 14 anni/T-shirt, canotte, polo"
+PORTE BEBE,BEBE,F,Portage,,El Universo del recién nacido/La Puericultura/El Paseo/Portabebés,L'universo del neonato/Articoli per bambini/A spasso/Marsupi
+PORTE BEBE,BEBE,G,Portage,,El Universo del recién nacido/La Puericultura/El Paseo/Portabebés,L'universo del neonato/Articoli per bambini/A spasso/Marsupi
+PORTE BEBE,BEBE,M,Portage,,El Universo del recién nacido/La Puericultura/El Paseo/Portabebés,L'universo del neonato/Articoli per bambini/A spasso/Marsupi
+PORTE BEBE,DPAM,F,Portage,,El Universo del recién nacido/La Puericultura/El Paseo/Portabebés,L'universo del neonato/Articoli per bambini/A spasso/Marsupi
+PORTE BEBE,DPAM,G,Portage,,El Universo del recién nacido/La Puericultura/El Paseo/Portabebés,L'universo del neonato/Articoli per bambini/A spasso/Marsupi
+PORTE BEBE,DPAM,M,Portage,,El Universo del recién nacido/La Puericultura/El Paseo/Portabebés,L'universo del neonato/Articoli per bambini/A spasso/Marsupi
+PORTE-COUCHES,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+PORTE-COUCHES,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+PORTE-COUCHES,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+PORTE-COUCHES,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+PORTE-COUCHES,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+PORTE-COUCHES,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+POUSSETTE,BEBE,F,Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Passeggini
+POUSSETTE,BEBE,G,Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Passeggini
+POUSSETTE,BEBE,M,Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Passeggini
+POUSSETTE,DPAM,F,Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Passeggini
+POUSSETTE,DPAM,G,Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Passeggini
+POUSSETTE,DPAM,M,Poussettes,,El Universo del recién nacido/La Puericultura/El Paseo/Silla de paseo,L'universo del neonato/Articoli per bambini/A spasso/Passeggini
+PROTEGE CARNET,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Protège-carny de santé,L'universo del neonato/Articoli per bambini/Il bagnetto/Proteggi libretto sanitario
+PROTEGE CARNET,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Protector de cartilla,L'universo del neonato/Articoli per bambini/Il bagnetto/Proteggi libretto sanitario
+PROTEGE CARNET,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Protector de cartilla,L'universo del neonato/Articoli per bambini/Il bagnetto/Proteggi libretto sanitario
+PROTEGE CARNET,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Protector de cartilla,L'universo del neonato/Articoli per bambini/Il bagnetto/Proteggi libretto sanitario
+PROTEGE CARNET,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Protector de cartilla,L'universo del neonato/Articoli per bambini/Il bagnetto/Proteggi libretto sanitario
+PROTEGE CARNET,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Protector de cartilla,L'universo del neonato/Articoli per bambini/Il bagnetto/Proteggi libretto sanitario
+PULL,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bebè bambina 3 -  23 mesi/Maglie, Maglioncini, Felpe"
+PULL,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bebè bambino 3 -  23 mesi/Maglie, Maglioncini, Felpe"
+PULL,BEBE,M,Vêtements,,,
+PULL,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe"
+PULL,DPAM,G,Vêtements,,"Niño 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambino 3 - 14 anni/Maglie, Maglioncini, Sweats"
+PULL,DPAM,M,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas;;Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe;;Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe"
+PYJAMA,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/Pijamas/Pijamas,"Bebè bambina 3 -  23 mesi/Pigiama, tutine/Pigiama"
+PYJAMA,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Pijamas/Pijamas,"Bebè bambino 3 -  23 mesi/Pigiama, tutine/Pigiama"
+PYJAMA,BEBE,M,Vêtements,,,
+PYJAMA,DPAM,F,Vêtements,,Niña 3 - 14 años/Pijamas/Pijamas,Bambina 3 - 14 anni/Pigiama/Pigiama
+PYJAMA,DPAM,G,Vêtements,,Niño 3 - 14 años/Pijamas/Pijamas,Bambino 3 - 14 anni/Pigiama/Pigiama
+PYJAMA,DPAM,M,Vêtements,,Niña 3 - 14 años/Pijamas/Pijamas ;;Niña 3 - 14 años/Pijamas/Pijamas,Bambina 3 - 14 anni/Pigiama/Pigiama ;;Bambina 3 - 14 anni/Pigiama/Pigiama
+ROBE,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/Vestidos,Bebè bambina 3 -  23 mesi/Vestiti
+ROBE,BEBE,G,Vêtements,,,
+ROBE,BEBE,M,Vêtements,,,
+ROBE,DPAM,F,Vêtements,,Niña 3 - 14 años/Vestidos,Bambina 3 - 14 anni/Vestiti
+ROBE,DPAM,G,Vêtements,,,
+ROBE,DPAM,M,Vêtements,,Niña 3 - 14 años/Vestidos,Bambina 3 - 14 anni/Vestiti
+ROBE DE CHAMBRE,BEBE,F,Vêtements,,,
+ROBE DE CHAMBRE,BEBE,G,Vêtements,,,
+ROBE DE CHAMBRE,BEBE,M,Vêtements,,,
+ROBE DE CHAMBRE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Pijamas/Albornoz, Bata de baño","Bambina 3 - 14 anni/Pigiama/Vestagliette, accappatoi"
+ROBE DE CHAMBRE,DPAM,G,Vêtements,,"Niño 3 - 14 años/Pijamas/Albornoz, Bata de baño","Bambino 3 - 14 anni/Pigiama/Vestagliette, accappatoi"
+ROBE DE CHAMBRE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Pijamas/Albornoz, Bata de baño;;Niña 3 - 14 años/Pijamas/Albornoz, Bata de baño","Bambina 3 - 14 anni/Pigiama/Vestagliette, accappatoi;;Bambina 3 - 14 anni/Pigiama/Vestagliette, accappatoi"
+ROBE DE PLAGE,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/Vestidos,Bebè bambina 3 -  23 mesi/Vestiti
+ROBE DE PLAGE,BEBE,G,Vêtements,,,
+ROBE DE PLAGE,BEBE,M,Vêtements,,,
+ROBE DE PLAGE,DPAM,F,Vêtements,,Niña 3 - 14 años/Vestidos,Bambina 3 - 14 anni/Vestiti
+ROBE DE PLAGE,DPAM,G,Vêtements,,Niño 3 - 14 años/La Playa/Bañadores,Bambino 3 - 14 anni/In spiaggia/Costumi da bagno
+ROBE DE PLAGE,DPAM,M,Vêtements,,Niña 3 - 14 años/Vestidos,Bambina 3 - 14 anni/Vestiti
+ROBE+BLOOMER,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/Vestidos,Bebè bambina 3 -  23 mesi/Vestiti
+ROBE+BLOOMER,BEBE,G,Vêtements,,,
+ROBE+BLOOMER,BEBE,M,Vêtements,,,
+ROBE+BLOOMER,DPAM,F,Vêtements,,Niña 3 - 14 años/Vestidos,Bambina 3 - 14 anni/Vestiti
+ROBE+BLOOMER,DPAM,G,Vêtements,,,
+ROBE+BLOOMER,DPAM,M,Vêtements,,Niña 3 - 14 años/Vestidos,Bambina 3 - 14 anni/Vestiti
+SAC,BEBE,F,Bagagerie,,,
+SAC,BEBE,G,Bagagerie,,,
+SAC,BEBE,M,Bagagerie,,,
+SAC,DPAM,F,Bagagerie,,Niña 3 - 14 años/Accesorios niña/Bolsos,Bambina 3 - 14 anni/Accessori bambina/Borse
+SAC,DPAM,G,Bagagerie,,Niño 3 - 14 años/Accesorios Niño/Bolsos,Bambino 3 - 14 anni/Accessori bambino/Borse
+SAC,DPAM,M,Bagagerie,,Niña 3 - 14 años/Accesorios niña/Bolsos;;Niña 3 - 14 años/Accesorios niña/Bolsos,Bambina 3 - 14 anni/Accessori bambina/Borse;;Bambina 3 - 14 anni/Accessori bambina/Borse
+SAC A DOS,BEBE,F,Bagagerie,,,
+SAC A DOS,BEBE,G,Bagagerie,,,
+SAC A DOS,BEBE,M,Bagagerie,,,
+SAC A DOS,DPAM,F,Bagagerie,,Niña 3 - 14 años/Accesorios niña/Bolsos,Bambina 3 - 14 anni/Accessori bambina/Borse
+SAC A DOS,DPAM,G,Bagagerie,,Niño 3 - 14 años/Accesorios Niño/Bolsos,Bambino 3 - 14 anni/Accessori bambino/Borse
+SAC A DOS,DPAM,M,Bagagerie,,Niña 3 - 14 años/Accesorios niña/Bolsos;;Niña 3 - 14 años/Accesorios niña/Bolsos,Bambina 3 - 14 anni/Accessori bambina/Borse;;Bambina 3 - 14 anni/Accessori bambina/Borse
+SAC A LANGER,BEBE,F,Bagagerie,,El Universo del recién nacido/La Puericultura/El Paseo/Bolso cambiador,L'universo del neonato/Articoli per bambini/A spasso/Borse fasciatoio
+SAC A LANGER,BEBE,G,Bagagerie,,El Universo del recién nacido/La Puericultura/El Paseo/Bolso cambiador,L'universo del neonato/Articoli per bambini/A spasso/Borse fasciatoio
+SAC A LANGER,BEBE,M,Bagagerie,,El Universo del recién nacido/La Puericultura/El Paseo/Bolso cambiador,L'universo del neonato/Articoli per bambini/A spasso/Borse fasciatoio
+SAC A LANGER,DPAM,F,Bagagerie,,El Universo del recién nacido/La Puericultura/El Paseo/Bolso cambiador,L'universo del neonato/Articoli per bambini/A spasso/Borse fasciatoio
+SAC A LANGER,DPAM,G,Bagagerie,,El Universo del recién nacido/La Puericultura/El Paseo/Bolso cambiador,L'universo del neonato/Articoli per bambini/A spasso/Borse fasciatoio
+SAC A LANGER,DPAM,M,Bagagerie,,El Universo del recién nacido/La Puericultura/El Paseo/Bolso cambiador,L'universo del neonato/Articoli per bambini/A spasso/Borse fasciatoio
+SAC DE COUCHAGE,BEBE,F,Bagagerie,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+SAC DE COUCHAGE,BEBE,G,Bagagerie,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+SAC DE COUCHAGE,BEBE,M,Bagagerie,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+SAC DE COUCHAGE,DPAM,F,Bagagerie,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+SAC DE COUCHAGE,DPAM,G,Bagagerie,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+SAC DE COUCHAGE,DPAM,M,Bagagerie,,"El Universo del recién nacido/La Puericultura/El Sueño/Cuna de viaje, parques","L'universo del neonato/Articoli per bambini/La nanna/Lettini da viaggio, box"
+SAC ISOTHERME,BEBE,F,Bagagerie,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+SAC ISOTHERME,BEBE,G,Bagagerie,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+SAC ISOTHERME,BEBE,M,Bagagerie,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+SAC ISOTHERME,DPAM,F,Bagagerie,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+SAC ISOTHERME,DPAM,G,Bagagerie,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+SAC ISOTHERME,DPAM,M,Bagagerie,,El Universo del recién nacido/La Puericultura/La Comida/Accesorios comida,L'universo del neonato/Articoli per bambini/La pappa/Accessori pappa
+SALOPETTE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Pantalones, petos, leggings","Bebè bambina 3 -  23 mesi/Pantaloni, salopette, calzoncini"
+SALOPETTE,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/petos,Bebè bambino 3 -  23 mesi/Salopettes
+SALOPETTE,BEBE,M,Vêtements,,,
+SALOPETTE,DPAM,F,Vêtements,,,
+SALOPETTE,DPAM,G,Vêtements,,Bebé Niño 3 a 23 meses/petos,Bebè bambino 3 -  23 mesi/Salopettes
+SALOPETTE,DPAM,M,Vêtements,,,
+SERRE-TETE,BEBE,F,Default,,,
+SERRE-TETE,BEBE,G,Default,,,
+SERRE-TETE,BEBE,M,Default,,,
+SERRE-TETE,DPAM,F,Default,,Niña 3 - 14 años/Accesorios niña/Accesorios pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+SERRE-TETE,DPAM,G,Default,,Niño 3 – 14 años/Accesorios niño/Varios,Bambino 3 - 14 anni/Accessori bambino/Altro
+SERRE-TETE,DPAM,M,Default,,Niña 3 - 14 años/Accesorios niña/Accesorios pelo,Bambina 3 - 14 anni/Accessori bambina/Accessori per capelli
+SERVIETTE DE TO,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+SERVIETTE DE TO,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+SERVIETTE DE TO,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+SERVIETTE DE TO,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+SERVIETTE DE TO,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+SERVIETTE DE TO,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Ropa de baño,L'universo del neonato/Articoli per bambini/Il bagnetto/Biancheria per il bagno
+SHORT,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Faldas, Pantalones cortos, Bloomers","Bebè bambina 3 -  23 mesi/Gonne, pantaloncini, culottes"
+SHORT,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Bermudas, Pantalones cortos","Bebè bambino 3 -  23 mesi/Bermudas, pantaloncini"
+SHORT,BEBE,M,Vêtements,,,
+SHORT,DPAM,F,Vêtements,,"Niña 3 - 14 años/Faldas, Pantalones cortos, Corsaires","Bambina 3 - 14 anni/Gonne, pantaloncini, pantaloni"
+SHORT,DPAM,G,Vêtements,,"Niño 3 - 14 años/Bermudas, Pantalones cortos","Bambino 3 - 14 anni/Bermudas, pantaloncini"
+SHORT,DPAM,M,Vêtements,,"Niña 3 - 14 años/Faldas, Pantalones cortos, Corsaires;;Niña 3 - 14 años/Faldas, Pantalones cortos, Corsaires","Bambina 3 - 14 anni/Gonne, pantaloncini, pantaloni;;Bambina 3 - 14 anni/Gonne, pantaloncini, pantaloni"
+SIEGE AUTO,BEBE,F,Sièges auto,,El Universo del recién nacido/La Puericultura/El Paseo/Sillas de coche,L'universo del neonato/Articoli per bambini/A spasso/Seggiolini auto
+SIEGE AUTO,BEBE,G,Sièges auto,,El Universo del recién nacido/La Puericultura/El Paseo/Sillas de coche,L'universo del neonato/Articoli per bambini/A spasso/Seggiolini auto
+SIEGE AUTO,BEBE,M,Sièges auto,,El Universo del recién nacido/La Puericultura/El Paseo/Sillas de coche,L'universo del neonato/Articoli per bambini/A spasso/Seggiolini auto
+SIEGE AUTO,DPAM,F,Sièges auto,,El Universo del recién nacido/La Puericultura/El Paseo/Sillas de coche,L'universo del neonato/Articoli per bambini/A spasso/Seggiolini auto
+SIEGE AUTO,DPAM,G,Sièges auto,,El Universo del recién nacido/La Puericultura/El Paseo/Sillas de coche,L'universo del neonato/Articoli per bambini/A spasso/Seggiolini auto
+SIEGE AUTO,DPAM,M,Sièges auto,,El Universo del recién nacido/La Puericultura/El Paseo/Sillas de coche,L'universo del neonato/Articoli per bambini/A spasso/Seggiolini auto
+SLIP DE BAIN,BEBE,F,Vêtements,,,
+SLIP DE BAIN,BEBE,G,Vêtements,,,
+SLIP DE BAIN,BEBE,M,Vêtements,,,
+SLIP DE BAIN,DPAM,F,Vêtements,,Niña 3 - 14 años/La Playa/Bañadores,Bambina 3 - 14 anni/In spiaggia/Costumi da bagno
+SLIP DE BAIN,DPAM,G,Vêtements,,Niño 3 - 14 años/La Playa/Bañadores,Bambino 3 - 14 anni/In spiaggia/Costumi da bagno
+SLIP DE BAIN,DPAM,M,Vêtements,,Niña 3 - 14 años/La Playa/Bañadores,Bambina 3 - 14 anni/In spiaggia/Costumi da bagno
+SOUS-PULL,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bebè bambina 3 -  23 mesi/Maglie, Maglioncini, Felpe"
+SOUS-PULL,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bebè bambino 3 -  23 mesi/Maglie, Maglioncini, Felpe"
+SOUS-PULL,BEBE,M,Vêtements,,,
+SOUS-PULL,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe"
+SOUS-PULL,DPAM,G,Vêtements,,"Niño 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambino 3 - 14 anni/Maglie, Maglioncini, Felpe"
+SOUS-PULL,DPAM,M,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas;;Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe;;Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe"
+SPORT_CLASSIC,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+SPORT_CLASSIC,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_CLASSIC,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Baskys de marques sport;;Calzado Infantil/Niño/Baskys de marques sport,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_CLASSIC,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+SPORT_CLASSIC,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_CLASSIC,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca;;Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_SANDALE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+SPORT_SANDALE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_SANDALE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca;;Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_SANDALE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+SPORT_SANDALE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_SANDALE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca;;Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_TENNIS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+SPORT_TENNIS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_TENNIS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca;;Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_TENNIS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+SPORT_TENNIS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+SPORT_TENNIS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca;;Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+STERILISATEUR,BEBE,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+STERILISATEUR,BEBE,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+STERILISATEUR,BEBE,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+STERILISATEUR,DPAM,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+STERILISATEUR,DPAM,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+STERILISATEUR,DPAM,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+SUCETTES,BEBE,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+SUCETTES,BEBE,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+SUCETTES,BEBE,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+SUCETTES,DPAM,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+SUCETTES,DPAM,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+SUCETTES,DPAM,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+SUR-PYJAMA,BEBE,F,Vêtements,,Bebé Niña 3 a 23 meses/Pijamas/Pijamas,"Bebè bambina 3 -  23 mesi/Pigiama, tutine/Pigiama"
+SUR-PYJAMA,BEBE,G,Vêtements,,Bebé Niño 3 a 23 meses/Pijamas/Pijamas,"Bebè bambino 3 -  23 mesi/Pigiama, tutine/Pigiama"
+SUR-PYJAMA,BEBE,M,Vêtements,,,
+SUR-PYJAMA,DPAM,F,Vêtements,,El Universo del recién nacido/Ropa Recién nacido/Pijamas,"L'universo del neonato/Abbigliamento per neonato/Pigiama, tutine"
+SUR-PYJAMA,DPAM,G,Vêtements,,Bebé Niño 3 a 23 meses/Pijamas/Pijamas,"Bebè bambino 3 -  23 mesi/Pigiama, tutine/Pigiama"
+SUR-PYJAMA,DPAM,M,Vêtements,,,
+SWEAT,BEBE,F,Vêtements,,,
+SWEAT,BEBE,G,Vêtements,,,
+SWEAT,BEBE,M,Vêtements,,,
+SWEAT,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe"
+SWEAT,DPAM,G,Vêtements,,"Niño 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambino 3 - 14 anni/Maglie, Maglioncini, Felpe"
+SWEAT,DPAM,M,Vêtements,,"Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas;;Niña 3 - 14 años/Camisetas, Jerséiss, Chaqueta, Sudaderas","Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe;;Bambina 3 - 14 anni/Maglie, Maglioncini, Felpe"
+TABLIER,BEBE,F,Vêtements,,,
+TABLIER,BEBE,G,Vêtements,,,
+TABLIER,BEBE,M,Vêtements,,,
+TABLIER,DPAM,F,Vêtements,,Niña 3 - 14 años/Accesorios niña/Bata para escuela,Bambina 3 - 14 anni/Accessori bambina/Grembiulini
+TABLIER,DPAM,G,Vêtements,,Niño 3 - 14 años/Accesorios Niño/Bata para escuela,Bambino 3 - 14 anni/Accessori bambino/Grembiulini
+TABLIER,DPAM,M,Vêtements,,Niña 3 - 14 años/Accesorios niña/Bata para escuela;;Niña 3 - 14 años/Accesorios niña/Bata para escuela,Bambina 3 - 14 anni/Accessori bambina/Grembiulini;;Bambina 3 - 14 anni/Accessori bambina/Grembiulini
+TAPIS D'EVEIL,BEBE,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+TAPIS D'EVEIL,BEBE,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+TAPIS D'EVEIL,BEBE,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+TAPIS D'EVEIL,DPAM,F,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+TAPIS D'EVEIL,DPAM,G,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+TAPIS D'EVEIL,DPAM,M,Jouets,,El Universo del recién nacido/La Puericultura/Muñecos y Juguetes/Juguetes musicales y primera edad,L'universo del neonato/Articoli per bambini/Doudou e giochi/Prime attività e giochi musicali
+TEE-SHIRT,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Camisetas, camisetas de tirantes","Bebè bambina 3 -  23 mesi/T-shirt, canotte"
+TEE-SHIRT,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Camisetas, camisetas de tirantes, polos","Bebè bambino 3 -  23 mesi/T-shirt, canotte, polo"
+TEE-SHIRT,BEBE,M,Vêtements,,,
+TEE-SHIRT,DPAM,F,Vêtements,,"Niña 3 - 14 años/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/T-shirt, canotte"
+TEE-SHIRT,DPAM,G,Vêtements,,"Niño 3 - 14 años/Camisetas, camisetas de tirantes, polos","Bambino 3 - 14 anni/T-shirt, canotte, polo"
+TEE-SHIRT,DPAM,M,Vêtements,,"Niña 3 - 14 años/Camisetas, camisetas de tirantes;;Niña 3 - 14 años/Camisetas, camisetas de tirantes","Bambina 3 - 14 anni/T-shirt, canotte;;Bambina 3 - 14 anni/T-shirt, canotte"
+TETINE,BEBE,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+TETINE,BEBE,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+TETINE,BEBE,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+TETINE,DPAM,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+TETINE,DPAM,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+TETINE,DPAM,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Biberones,L'universo del neonato/Articoli per bambini/La pappa/Biberon
+THERMOMETRE,BEBE,F,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+THERMOMETRE,BEBE,G,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+THERMOMETRE,BEBE,M,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+THERMOMETRE,DPAM,F,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+THERMOMETRE,DPAM,G,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+THERMOMETRE,DPAM,M,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Accesorios,L'universo del neonato/Articoli per bambini/Il bagnetto/Accessori
+TIRE LAIT,BEBE,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Lactancia,L'universo del neonato/Articoli per bambini/La pappa/Allattamento
+TIRE LAIT,BEBE,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Lactancia,L'universo del neonato/Articoli per bambini/La pappa/Allattamento
+TIRE LAIT,BEBE,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Lactancia,L'universo del neonato/Articoli per bambini/La pappa/Allattamento
+TIRE LAIT,DPAM,F,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Lactancia,L'universo del neonato/Articoli per bambini/La pappa/Allattamento
+TIRE LAIT,DPAM,G,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Lactancia,L'universo del neonato/Articoli per bambini/La pappa/Allattamento
+TIRE LAIT,DPAM,M,Biberonnerie,,El Universo del recién nacido/La Puericultura/La Comida/Lactancia,L'universo del neonato/Articoli per bambini/La pappa/Allattamento
+TOILE_BABIES,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_BABIES,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_BABIES,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_BABIES,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_BABIES,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_BABIES,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_BALLERINE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_BALLERINE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_BALLERINE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_BALLERINE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_BALLERINE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_BALLERINE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_BASKET,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_BASKET,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_BASKET,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_BASKET,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_BASKET,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_BASKET,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_ESPADRILL,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_ESPADRILL,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_ESPADRILL,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_ESPADRILL,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_ESPADRILL,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_ESPADRILL,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_SALOME,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_SALOME,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_SALOME,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_SALOME,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_SALOME,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_SALOME,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_TENNIS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_TENNIS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_TENNIS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TOILE_TENNIS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona,Scarpe bambini/Bambina/Di tela
+TOILE_TENNIS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambino/Di tela
+TOILE_TENNIS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de lona;;Calzado Infantil/Niño/Zapatillas de lona,Scarpe bambini/Bambina/Di tela;;Scarpe bambini/Bambino/Di tela
+TRANSAT,BEBE,F,Berceaux couffins et nacelles,,El Universo del recién nacido/La Puericultura/El Sueño/Hamacas,L'universo del neonato/Articoli per bambini/La nanna/Tranniats
+TRANSAT,BEBE,G,Berceaux couffins et nacelles,,El Universo del recién nacido/La Puericultura/El Sueño/Hamacas,L'universo del neonato/Articoli per bambini/La nanna/Sdraiette
+TRANSAT,BEBE,M,Berceaux couffins et nacelles,,El Universo del recién nacido/La Puericultura/El Sueño/Hamacas,L'universo del neonato/Articoli per bambini/La nanna/Sdraiette
+TRANSAT,DPAM,F,Berceaux couffins et nacelles,,El Universo del recién nacido/La Puericultura/El Sueño/Hamacas,L'universo del neonato/Articoli per bambini/La nanna/Sdraiette
+TRANSAT,DPAM,G,Berceaux couffins et nacelles,,El Universo del recién nacido/La Puericultura/El Sueño/Hamacas,L'universo del neonato/Articoli per bambini/La nanna/Sdraiette
+TRANSAT,DPAM,M,Berceaux couffins et nacelles,,El Universo del recién nacido/La Puericultura/El Sueño/Hamacas,L'universo del neonato/Articoli per bambini/La nanna/Sdraiette
+TRANSAT DE BAIN,BEBE,F,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Bañeras y Hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+TRANSAT DE BAIN,BEBE,G,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Bañeras y Hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+TRANSAT DE BAIN,BEBE,M,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Bañeras y Hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+TRANSAT DE BAIN,DPAM,F,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Bañeras y Hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+TRANSAT DE BAIN,DPAM,G,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Bañeras y Hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+TRANSAT DE BAIN,DPAM,M,Hygiène et bain,,El Universo del recién nacido/La Puericultura/El Baño/Bañeras y Hamacas,L'universo del neonato/Articoli per bambini/Il bagnetto/Bagnetti e accessori
+TROUSSE,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSE,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSE,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSE,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSE,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSE,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSEAU,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSEAU,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSEAU,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSEAU,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSEAU,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+TROUSSEAU,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+VANITY,BEBE,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+VANITY,BEBE,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+VANITY,BEBE,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+VANITY,DPAM,F,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+VANITY,DPAM,G,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+VANITY,DPAM,M,Textile,,El Universo del recién nacido/La Puericultura/El Baño/Neceser y estuches,L'universo del neonato/Articoli per bambini/Il bagnetto/Beauty cases
+VEILLE BB,BEBE,F,Electroménager,,El Universo del recién nacido/La Puericultura/El Sueño/Intercomunicadores,L'universo del neonato/Articoli per bambini/La nanna/Baby Phone
+VEILLE BB,BEBE,G,Electroménager,,El Universo del recién nacido/La Puericultura/El Sueño/Intercomunicadores,L'universo del neonato/Articoli per bambini/La nanna/Baby Phone
+VEILLE BB,BEBE,M,Electroménager,,El Universo del recién nacido/La Puericultura/El Sueño/Intercomunicadores,L'universo del neonato/Articoli per bambini/La nanna/Baby Phone
+VEILLE BB,DPAM,F,Electroménager,,El Universo del recién nacido/La Puericultura/El Sueño/Intercomunicadores,L'universo del neonato/Articoli per bambini/La nanna/Baby Phone
+VEILLE BB,DPAM,G,Electroménager,,El Universo del recién nacido/La Puericultura/El Sueño/Intercomunicadores,L'universo del neonato/Articoli per bambini/La nanna/Baby Phone
+VEILLE BB,DPAM,M,Electroménager,,El Universo del recién nacido/La Puericultura/El Sueño/Intercomunicadores,L'universo del neonato/Articoli per bambini/La nanna/Baby Phone
+VEILLEUSE,BEBE,F,Electroménager,,"El Universo del recién nacido/La Puericultura/El Sueño/Luz de noche, móviles","L'universo del neonato/Articoli per bambini/La nanna/Lucine, giostrine"
+VEILLEUSE,BEBE,G,Electroménager,,"El Universo del recién nacido/La Puericultura/El Sueño/Luz de noche, móviles","L'universo del neonato/Articoli per bambini/La nanna/Lucine, giostrine"
+VEILLEUSE,BEBE,M,Electroménager,,"El Universo del recién nacido/La Puericultura/El Sueño/Luz de noche, móviles","L'universo del neonato/Articoli per bambini/La nanna/Lucine, giostrine"
+VEILLEUSE,DPAM,F,Electroménager,,"El Universo del recién nacido/La Puericultura/El Sueño/Luz de noche, móviles","L'universo del neonato/Articoli per bambini/La nanna/Lucine, giostrine"
+VEILLEUSE,DPAM,G,Electroménager,,"El Universo del recién nacido/La Puericultura/El Sueño/Luz de noche, móviles","L'universo del neonato/Articoli per bambini/La nanna/Lucine, giostrine"
+VEILLEUSE,DPAM,M,Electroménager,,"El Universo del recién nacido/La Puericultura/El Sueño/Luz de noche, móviles","L'universo del neonato/Articoli per bambini/La nanna/Lucine, giostrine"
+VESTE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambina 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+VESTE,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambino 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+VESTE,BEBE,M,Vêtements,,,
+VESTE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+VESTE,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras","Bambino 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+VESTE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras;;Niña 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+VESTE AUTRICHIE,BEBE,F,Vêtements,,"Bebé Niña 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambina 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+VESTE AUTRICHIE,BEBE,G,Vêtements,,"Bebé Niño 3 a 23 meses/Abrigos, Cazadoras/Impermeables, parkas, chaquetas","Bebè bambino 3 -  23 mesi/Cappottini, giacchette/Impermeabili, giubbotti, giacche"
+VESTE AUTRICHIE,BEBE,M,Vêtements,,,
+VESTE AUTRICHIE,DPAM,F,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+VESTE AUTRICHIE,DPAM,G,Vêtements,,"Niño 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras","Bambino 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+VESTE AUTRICHIE,DPAM,M,Vêtements,,"Niña 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras;;Niña 3 - 14 años/Abrigos y Cazadoras/chaquetas, Cazadoras","Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti;;Bambina 3 - 14 anni/Cappotti e giacche pesanti/Giacche, giubbotti"
+VILLE_BABIES,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Bailarinas,Scarpe bambini/Bambina/Modello Baby
+VILLE_BABIES,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Bailarinas,Scarpe bambini/Bambino/Modello Baby
+VILLE_BABIES,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Bailarina;;Calzado Infantil/Niño/Bailarina,Scarpe bambini/Bambina/Modello Baby;;Scarpe bambini/Bambino/Modello Baby
+VILLE_BABIES,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Bailarina,Scarpe bambini/Bambina/Modello Baby
+VILLE_BABIES,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Bailarinas,Scarpe bambini/Bambino/Modello Baby
+VILLE_BABIES,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Bailarina;;Calzado Infantil/Niño/Bailarina,Scarpe bambini/Bambina/Modello Baby;;Scarpe bambini/Bambino/Modello Baby
+VILLE_BALLERINE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Bailarinas,Scarpe bambini/Bambina/Ballerine
+VILLE_BALLERINE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Bailarinas,Scarpe bambini/Bambino/Ballerine
+VILLE_BALLERINE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Bailarinas;;Calzado Infantil/Niño/Bailarinas,Scarpe bambini/Bambina/Ballerine;;Scarpe bambini/Bambino/Ballerine
+VILLE_BALLERINE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Bailarinas,Scarpe bambini/Bambina/Ballerine
+VILLE_BALLERINE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Bailarinas,Scarpe bambini/Bambino/Ballerine
+VILLE_BALLERINE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Bailarinas;;Calzado Infantil/Niño/Bailarinas,Scarpe bambini/Bambina/Ballerine;;Scarpe bambini/Bambino/Ballerine
+VILLE_BASKET,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+VILLE_BASKET,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+VILLE_BASKET,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca;;Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+VILLE_BASKET,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca
+VILLE_BASKET,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+VILLE_BASKET,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatillas de deporte Marca;;Calzado Infantil/Niño/Zapatillas de deporte Marca,Scarpe bambini/Bambina/Scarpe da ginnastica di marca;;Scarpe bambini/Bambino/Scarpe da ginnastica di marca
+VILLE_BOOTS,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti"
+VILLE_BOOTS,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOOTS,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas, Botines;;Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti;;Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOOTS,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti"
+VILLE_BOOTS,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOOTS,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas, Botines;;Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti;;Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOTTE,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti"
+VILLE_BOTTE,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOTTE,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas, Botines;;Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti;;Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOTTE,CHAUSSURES,F,Chaussures,,"Calzado Infantil/Niña/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti"
+VILLE_BOTTE,CHAUSSURES,G,Chaussures,,"Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOTTE,CHAUSSURES,M,Chaussures,,"Calzado Infantil/Niña/Botas, Botines;;Calzado Infantil/Niño/Botas, Botines","Scarpe bambini/Bambina/Stivali, stivaletti;;Scarpe bambini/Bambino/Stivali, stivaletti"
+VILLE_BOTTILLON,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatos,Scarpe bambini/Bambina/Bebè
+VILLE_BOTTILLON,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambino/Bebè
+VILLE_BOTTILLON,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatos;;Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambina/Bebè;;Scarpe bambini/Bambino/Bebè
+VILLE_BOTTILLON,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatos,Scarpe bambini/Bambina/Bebè
+VILLE_BOTTILLON,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambino/Bebè
+VILLE_BOTTILLON,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatos;;Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambina/Bebè;;Scarpe bambini/Bambino/Bebè
+VILLE_DERBY,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapato con cordones,Scarpe bambini/Bambina/Con lacci
+VILLE_DERBY,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapato con cordones,Scarpe bambini/Bambino/Bebè
+VILLE_DERBY,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapato con cordones;;Calzado Infantil/Niño/Zapato con cordones,Scarpe bambini/Bambina/Con lacci;;Scarpe bambini/Bambino/Con lacci
+VILLE_DERBY,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapato con cordones,Scarpe bambini/Bambina/Con lacci
+VILLE_DERBY,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapato con cordones,Scarpe bambini/Bambino/Con lacci
+VILLE_DERBY,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapato con cordones;;Calzado Infantil/Niño/Zapato con cordones,Scarpe bambini/Bambina/Con lacci;;Scarpe bambini/Bambino/Con lacci
+VILLE_LAYETTE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatos,Scarpe bambini/Bambina/Bebè
+VILLE_LAYETTE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambino/Bebè
+VILLE_LAYETTE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatos;;Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambina/Bebè;;Scarpe bambini/Bambino/Bebè
+VILLE_LAYETTE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatos,Scarpe bambini/Bambina/Bebè
+VILLE_LAYETTE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambino/Bebè
+VILLE_LAYETTE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatos;;Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambina/Bebè;;Scarpe bambini/Bambino/Bebè
+VILLE_MOCASSIN,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Mocasines,Scarpe bambini/Bambina/Mocassini
+VILLE_MOCASSIN,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Mocasines,Scarpe bambini/Bambino/Mocassini
+VILLE_MOCASSIN,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Mocasines;;Calzado Infantil/Niño/Mocasines,Scarpe bambini/Bambina/Mocassini;;Scarpe bambini/Bambino/Mocassini
+VILLE_MOCASSIN,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Mocasines,Scarpe bambini/Bambina/Mocassini
+VILLE_MOCASSIN,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Mocasines,Scarpe bambini/Bambino/Mocassini
+VILLE_MOCASSIN,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Mocasines;;Calzado Infantil/Niño/Mocasines,Scarpe bambini/Bambina/Mocassini;;Scarpe bambini/Bambino/Mocassini
+VILLE_NU PIEDS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+VILLE_NU PIEDS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+VILLE_NU PIEDS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali
+VILLE_NU PIEDS,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+VILLE_NU PIEDS,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+VILLE_NU PIEDS,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali
+VILLE_PARC,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatos,Scarpe bambini/Bambina/Bebè
+VILLE_PARC,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambino/Bebè
+VILLE_PARC,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatos;;Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambina/Bebè;;Scarpe bambini/Bambino/Bebè
+VILLE_PARC,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapatos,Scarpe bambini/Bambina/Bebè
+VILLE_PARC,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambino/Bebè
+VILLE_PARC,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapatos;;Calzado Infantil/Niño/Zapatos,Scarpe bambini/Bambina/Bebè;;Scarpe bambini/Bambino/Bebè
+VILLE_SALOME,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapato abierto,Scarpe bambini/Bambina/Modello Salomé
+VILLE_SALOME,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapato abierto,Scarpe bambini/Bambino/Modello Salomé
+VILLE_SALOME,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapato abierto;;Calzado Infantil/Niño/Zapato abierto,Scarpe bambini/Bambina/Modello Salomé;;Scarpe bambini/Bambino/Modello Salomé
+VILLE_SALOME,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Zapato abierto,Scarpe bambini/Bambina/Modello Salomé
+VILLE_SALOME,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Zapato abierto,Scarpe bambini/Bambino/Modello Salomé
+VILLE_SALOME,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Zapato abierto;;Calzado Infantil/Niño/Zapato abierto,Scarpe bambini/Bambina/Modello Salomé;;Scarpe bambini/Bambino/Modello Salomé
+VILLE_SANDALE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+VILLE_SANDALE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+VILLE_SANDALE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali
+VILLE_SANDALE,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+VILLE_SANDALE,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+VILLE_SANDALE,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali
+VILLE_SANDALETT,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+VILLE_SANDALETT,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+VILLE_SANDALETT,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali
+VILLE_SANDALETT,CHAUSSURES,F,Chaussures,,Calzado Infantil/Niña/Sandalias,Scarpe bambini/Bambina/Sandali
+VILLE_SANDALETT,CHAUSSURES,G,Chaussures,,Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambino/Sandali
+VILLE_SANDALETT,CHAUSSURES,M,Chaussures,,Calzado Infantil/Niña/Sandalias;;Calzado Infantil/Niño/Sandalias,Scarpe bambini/Bambina/Sandali;;Scarpe bambini/Bambino/Sandali

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+	<in>
+<!-- 		<fields>
+			<field>
+				<from>skuu</from>
+				<to>sku</to>
+			</field>
+			<field>
+				<from>formatPrice</from>
+				<to>price_ht</to>
+			</field>
+			<field>
+				<from>store</from>
+				<to>store</to>
+				<calls>
+					<call name="getAssociatedValue">
+						<param>file_colors.csv</param>
+					</call>
+				</calls>
+			</field>
+		</fields> -->
+		</in>
+	
+</mapping>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+    <out>
+        <fields>
+
+            <field>
+                <from>cdm_card_number</from>
+                <to>B_CARTEFID</to>
+            </field>
+
+            <field>
+                <from>country_id</from>
+                <to>B_PAYS</to>
+                <calls>
+                    <call name="getAssociatedValue">
+                        <file>transco_countries_id_iso.csv</file>
+                        <path></path>
+                    </call>
+                </calls>
+            </field>
+
+            <field>
+                <from>gender</from>
+                <to>B_GENDER</to>
+                <calls>
+                    <call name="getAssociatedValue">
+                        <file>transco_gender_mage2neolane.csv</file>
+                        <path></path>
+                    </call>
+                </calls>
+            </field>
+
+            <field>
+                <from>firstname</from>
+                <to>B_FIRSTNAME</to>
+            </field>
+
+            <field>
+                <from>lastname</from>
+                <to>B_LASTNAME</to>
+            </field>
+
+            <field>
+                <from>dob</from>
+                <to>B_BIRTHDATE</to>
+                <calls>
+                    <call name="replace">
+                        <search>0000-00-00</search>
+                    </call>
+                    <call name="dateYMD2DMY"></call>
+                </calls>
+            </field>
+
+            <field>
+                <from>telephone</from>
+                <to>B_PHONE_1</to>
+            </field>
+
+            <field>
+                <from>cellphone</from>
+                <to>B_CELLPHONE_1</to>
+            </field>
+
+            <field>
+                <from>email</from>
+                <to>B_EMAIL</to>
+            </field>
+
+            <field>
+                <from>address1</from>
+                <to>B_ADRESSE1</to>
+            </field>
+
+            <field>
+                <from>address2</from>
+                <to>B_ADRESSE2</to>
+            </field>
+
+            <field>
+                <from>address3</from>
+                <to>B_ADRESSE3</to>
+            </field>
+
+            <field>
+                <from>postcode</from>
+                <to>B_CODE_POSTAL</to>
+            </field>
+
+            <field>
+                <from>city</from>
+                <to>B_VILLE</to>
+            </field>
+
+        </fields>
+    </out>
+</mapping>

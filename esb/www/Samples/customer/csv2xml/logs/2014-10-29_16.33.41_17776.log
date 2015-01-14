@@ -1,0 +1,16 @@
+10/29/14 16:33:41,483 [17776] INFO EaiHandler - Run in env dev-win : begin at Wed, 29 Oct 2014 16:33:41 +0100
+10/29/14 16:33:41,614 [17776] INFO EaiConnectorFile - [in] Opening successfully C:\wamp3\www\esb\var\Samples\customer\csv2xml\exemple-1-clients.2.csv
+10/29/14 16:33:41,620 [17776] INFO EaiConnectorFile - [out] Opening successfully C:\wamp3\www\esb\var\Samples\customer\csv2xml\exemple-1-clients.xml
+10/29/14 16:33:41,629 [17776] INFO EaiFormatterCsv - [in] determining headline : id | firstname | lastname | gender | email , ligne 0
+10/29/14 16:33:41,733 [17776] INFO EaiHandler - Read 2 eaiDatas
+10/29/14 16:33:41,783 [17776] INFO EaiHandler - Write 2 eaiDatas, attempts: 1 ,success: 1 (ALL)
+10/29/14 16:33:41,785 [17776] INFO EaiHandler - Read 0 eaiDatas
+10/29/14 16:33:41,820 [17776] INFO EaiConnectorFile - [out] report rawDatas writed out : 3
+10/29/14 16:33:41,820 [17776] INFO EaiConnectorFile - [out] report rawDatas errors out : 0
+10/29/14 16:33:41,820 [17776] INFO EaiConnectorFile - [out] report rawDatas warning out : 0
+10/29/14 16:33:41,821 [17776] INFO EaiFormatterXml - [out] report elements formatted out : 3
+10/29/14 16:33:41,822 [17776] INFO EaiConnectorFile - [in] report rawDatas fetched in : 4
+10/29/14 16:33:41,823 [17776] INFO EaiConnectorFile - [in] report rawDatas errors in : 0
+10/29/14 16:33:41,823 [17776] INFO EaiConnectorFile - [in] report rawDatas warning in : 0
+10/29/14 16:33:41,824 [17776] INFO EaiFormatterCsv - [in] report elements formatted in : 2
+10/29/14 16:33:41,824 [17776] INFO EaiHandler - Run in env dev-win : finish PROPERLY at Wed, 29 Oct 2014 16:33:41 +0100. Congratulate yourself and look at the report above.

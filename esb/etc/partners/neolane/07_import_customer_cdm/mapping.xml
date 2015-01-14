@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+    <in>
+        <fields>
+
+            <field>
+                <from>N_CARTEFID</from>
+                <to>cdm_card_number</to>
+            </field>
+
+            <field>
+                <from>N_PAYS</from>
+                <to>country_id</to>
+                <calls>
+                    <call name="getAssociatedValue">
+                        <file>transco_countries_iso_id.csv</file>
+                        <path></path>
+                    </call>
+                </calls>
+            </field>
+
+            <field>
+                <from>N_GENDER</from>
+                <to>gender</to>
+                <calls>
+                    <call name="getAssociatedValue">
+                        <file>transco_gender_neolane2mage.csv</file>
+                        <path></path>
+                    </call>
+                </calls>
+            </field>
+
+            <field>
+                <from>N_FIRSTNAME</from>
+                <to>firstname</to>
+            </field>
+
+            <field>
+                <from>N_LASTNAME</from>
+                <to>lastname</to>
+            </field>
+
+            <field>
+                <from>N_BIRTHDATE</from>
+                <to>dob</to>
+            </field>
+
+            <field>
+                <from>N_PHONE1</from>
+                <to>telephone</to>
+            </field>
+
+            <field>
+                <from>N_CELLPHONE1</from>
+                <to>cellphone</to>
+            </field>
+
+            <field>
+                <from>N_EMAIL</from>
+                <to>email</to>
+            </field>
+
+            <field>
+                <from>N_ADRESSE1</from>
+                <to>address1</to>
+            </field>
+
+            <field>
+                <from>N_ADRESSE2</from>
+                <to>address2</to>
+            </field>
+
+            <field>
+                <from>N_ADRESSE3</from>
+                <to>address3</to>
+            </field>
+
+            <field>
+                <from>N_CODE_POSTAL</from>
+                <to>postcode</to>
+            </field>
+
+            <field>
+                <from>N_VILLE</from>
+                <to>city</to>
+            </field>
+
+            <field>
+                <from>STORE_ID</from>
+                <to>store_id</to>
+                <constant>1</constant>
+            </field>
+
+            <field>
+                <from>N_CREE_DATE</from>
+                <to>created_at</to>
+                <calls>
+                    <call name="dateDMY2YMD"></call>
+                </calls>
+            </field>
+
+            <field>
+                <from></from>
+                <to>updated_at</to>
+                <constant>{php::date(Y-m-d)}</constant>
+            </field>
+
+        </fields>
+    </in>
+</mapping>

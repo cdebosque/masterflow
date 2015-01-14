@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+  <in>
+    <fields>
+      <field>
+        <from>lang</from>
+        <to>website_ids</to>
+      </field>
+      <field>
+        <from>ocp_product_sku</from>
+        <to>ocp_product_sku</to>
+      </field>
+      <field>
+        <from>name</from>
+        <to>name</to>
+      </field>
+      <field>
+        <from>description</from>
+        <to>description</to>
+        <calls>
+          <call name="cleanHtml">
+            <value>jaymard</value>
+          </call>
+        </calls>          
+      </field>
+    </fields>
+  </in>
+</mapping>

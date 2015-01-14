@@ -1,0 +1,15 @@
+attribute_id,attribute_code,store_code,value,label,oclio_fr,oclio_it,oclio_es,oclio_en
+85,color,admin,15,Black,Noir,Nero,Negro,Black
+85,color,admin,16,Red,Rouge,Rosso,Rojo,Red
+85,color,admin,17,Brown,Marron,Marrone,Marrón,Brown
+85,color,admin,18,Purple,Violet,Viola,Violeta,Purple
+85,color,admin,19,Green,Vert,Verde,Verde,Green
+85,color,admin,20,Pink,Rose,Rosa,Rosa,Pink
+85,color,admin,21,White,Blanc,Bianco,Blanco,White
+85,color,admin,,Grey,Gris,Grigio,Gris,Grey
+85,color,admin,,Yellow,Jaune,Giallo,Amarillo,Yellow
+85,color,admin,,Blue,Bleu,Azzurro,Azul,Blue
+85,color,admin,,Magento,Magento,Fucsia,Fucsia,Magento
+,,,,Beige,Beige,Beige,Beige,Beige
+,,,,Orange,Orange,Arancione,Naranja,Orange
+,,,,Multicolored,Multicolore,Multicolore,Multicolor,Multicolored

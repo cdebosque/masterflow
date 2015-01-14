@@ -1,0 +1,2619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+<element>
+  <attribute_code>ocp_age</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Age</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_author</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>1</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Author</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_brand</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>14</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>1</used_in_product_listing>
+  <frontend_label>Brand</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>1</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_breast_measurement</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Breast measurement</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_capacity</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Capacity</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_carton_height</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Carton Height</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_carton_length</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Carton Length</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_carton_width</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Carton width</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_collar_type</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Collar Type</frontend_label>
+  <scope>store</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_collection</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>25</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Collection</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_color_code</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>Array</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Color code</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_compatibility</attribute_code>
+  <frontend_input>textarea</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Compatibility</frontend_label>
+  <scope>store</scope>
+  <additional_fields>
+    <is_wysiwyg_enabled>0</is_wysiwyg_enabled>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_cost</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Cost</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_cup</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>64</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Cup</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_customs_code</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Customs code</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_cut_type</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>69</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Cut type</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_decor</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Decoration</frontend_label>
+  <scope>store</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_detection</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Detection</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_dishwasher</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>1</used_in_product_listing>
+  <frontend_label>Dishwasher</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_ean</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>1</is_unique>
+  <is_required>1</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>EAN</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-digits</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_eco_tax</attribute_code>
+  <frontend_input>weee</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to>simple</apply_to>
+  <apply_to>configurable</apply_to>
+  <apply_to>virtual</apply_to>
+  <apply_to>bundle</apply_to>
+  <apply_to>downloadable</apply_to>
+  <apply_to>giftcard</apply_to>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Eco tax</frontend_label>
+  <scope>website</scope>
+  <additional_fields/>
+</element>
+<element>
+  <attribute_code>ocp_energetics_performance</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>ocp_energetics_performance</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_environment</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Environment</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_evolving</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Evolving</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_external_matter</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>External matter</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_external_sole_matter</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>External sole matter</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_fastening_type</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Fastening type</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_finishing</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Finishing</frontend_label>
+  <scope>store</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_fixation_base</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>37</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Fixation base</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_fixing_system</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>47</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Fixing System</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>1</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_flexible</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>1</used_in_product_listing>
+  <frontend_label>Flexible</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_flow</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Flow</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_footrest</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Footrest</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_format</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Format</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_function</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>56</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Function</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_functionnal</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Eligibilité fonctionnelle</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_gender</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>34</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Gender</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_glass_type</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Glass type</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_handlebars</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Guidon</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_harness</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Harness</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_hat_size</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Hat size</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_headrest</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Headrest</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_heel_height</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Heel height</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_height_closed</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Height closed</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_height_open</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Height open</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_hood</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Hood</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_impermeability</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Impermeability</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_included_accessories</attribute_code>
+  <frontend_input>textarea</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Included Accessories</frontend_label>
+  <scope>store</scope>
+  <additional_fields>
+    <is_wysiwyg_enabled>0</is_wysiwyg_enabled>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_instruction</attribute_code>
+  <frontend_input>textarea</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Instruction</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_wysiwyg_enabled>1</is_wysiwyg_enabled>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_internal_sole_matter</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Internal sole matter</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_internal_sole_type</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>ocp_internal_sole_type</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_kind</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Kind</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_label</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Label</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_language</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>ocp_language</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_lateral_reinforcement</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Lateral reinforcement</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_length_closed</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Length closed</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_length_open</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Length Open</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_lining_matter</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Lining matter</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_machine_wash</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>ocp_machine_wash</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_margin</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Margin</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_margin_rate</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Margin rate</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_axis1</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>axe 1</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_axis2</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>axe 2</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_axis3</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>axe 3</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_axis4</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>axe 4</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_bestseller</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Produit phare</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_boolean1</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing booléen 1</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_boolean2</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing booléen 2</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_list1</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing liste 1</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_list2</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing liste 2</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_numeric1</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing numérique 1</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_numeric2</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing numérique 2</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_text1</attribute_code>
+  <frontend_input>textarea</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing texte 1</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_wysiwyg_enabled>0</is_wysiwyg_enabled>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_marketing_text2</attribute_code>
+  <frontend_input>textarea</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Marketing texte 2</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_wysiwyg_enabled>0</is_wysiwyg_enabled>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_matter</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Matter</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_microwave</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>1</used_in_product_listing>
+  <frontend_label>Microwave</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_model</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Model</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_oclio_pack_confiance</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>PC</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_pattern</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Patern</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_pcb_supplier</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>PCB Supplier</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_perfum</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Perfum</frontend_label>
+  <scope>store</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_play_arch</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>55</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Play arch</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_pocket_numbers</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Pocket numbers</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_portage_type</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>ocp_portage_type</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_position_number</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>41</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Number of position</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_price_percent</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Pourcentage du prix global </frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_price_percent_apply</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Appliquer un pourcentage du prix global ?</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_price_store_rate</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>1</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Store price rate</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>0</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_price_store_rate_use</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>1</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Use price rate</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_protected_belt</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Protected belt</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_publication_date</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Publication date</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_publisher</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Publisher</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_rain_protection</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Rain protection</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_range_level</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Range level</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_range_products</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Range</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_rich_media_360</attribute_code>
+  <frontend_input>textarea</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Visuel 360°</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_wysiwyg_enabled>1</is_wysiwyg_enabled>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_road_position</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <default_value>43</default_value>
+  <is_unique>0</is_unique>
+  <is_required>1</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Road position</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_rocking_speed</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Rocking Speed</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_screenprinting</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Screenprinting</frontend_label>
+  <scope>store</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_season</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Season</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_seat_tilting</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>45</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Seat tilting</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_shield</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>40</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Shield</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>1</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_shoes_size</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Shoes size</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_siting_type</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Type d'assise</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_size</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value></default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>1</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Size</frontend_label>
+  <scope>global</scope>
+  <additional_fields>
+    <is_filterable>1</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>1</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_size_code</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value></default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Size code</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_sku_supplier</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>1</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>SKU Supplier</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_sleeve_type</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>ocp_sleeve_type</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_stackable</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Stackable</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_supply</attribute_code>
+  <frontend_input>select</frontend_input>
+  <default_value>51</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Supply</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_toy_type</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Toy type</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_trucker_all</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>1</default_value>
+  <is_unique>0</is_unique>
+  <is_required>1</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Authorize all trucker</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_use</attribute_code>
+  <frontend_input>multiselect</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>1</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Use</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_uv_filter</attribute_code>
+  <frontend_input>boolean</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>UV Filter</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_uv_level</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>UV level</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_warranty_comments</attribute_code>
+  <frontend_input>textarea</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Warranty comments</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <is_wysiwyg_enabled>0</is_wysiwyg_enabled>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_warranty_duration</attribute_code>
+  <frontend_input>text</frontend_input>
+  <default_value>0</default_value>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Warranty duration</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-digits</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_weight_max</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Maximum weight</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_weight_min</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>1</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Minimum Weight</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_weight_net</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>1</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Drained weight</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_wheel_mesure</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>1</is_visible_in_advanced_search>
+  <is_comparable>1</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Wheel mesure</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_width_closed</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Width closed</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class></frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+<element>
+  <attribute_code>ocp_width_open</attribute_code>
+  <frontend_input>text</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>0</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Width open</frontend_label>
+  <scope>website</scope>
+  <additional_fields>
+    <frontend_class>validate-number</frontend_class>
+    <is_html_allowed_on_front>1</is_html_allowed_on_front>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+</elements>

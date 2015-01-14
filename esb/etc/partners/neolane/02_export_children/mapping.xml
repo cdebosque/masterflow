@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+    <out>
+        <fields>
+            <field>
+                <from>customer_entity_id</from>
+                <to>B_CUSTOMER_ID</to>
+            </field>
+            <field>
+                <from>subscriber_id</from>
+                <to>B_CUSTOMER_INTERNET_ID</to>
+            </field>
+            <field>
+                <from>child_gender</from>
+                <to>B_GENDER</to>
+                <calls>
+                    <call name="getAssociatedValue">
+                        <file>transco_childgender_mage2neolane.csv</file>
+                        <path></path>
+                    </call>
+                </calls>
+            </field>
+            <field>
+                <from>child_firstname</from>
+                <to>B_FIRSTNAME</to>
+            </field>
+            <field>
+                <from>child_dob</from>
+                <to>B_BIRTHDATE</to>
+                <calls>
+                    <call name="replace">
+                        <search>0000-00-00</search>
+                    </call>
+                    <call name="dateYMD2DMY"></call>
+                </calls>
+            </field>
+            <field>
+                <from>src</from>
+                <to>B_CREE_PAR</to><!-- internet ou newsletter -->
+            </field>
+            <field>
+                <from>created_at</from>
+                <to>B_CREE_DATE</to>
+                <calls>
+                    <call name="replace">
+                        <search>0000-00-00 00:00:00</search>
+                    </call>
+                    <call name="dateYMD2DMY"></call>
+                </calls>
+            </field>
+
+        </fields>
+    </out>
+</mapping>

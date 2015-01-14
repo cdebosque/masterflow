@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="">
+	<fetching>10</fetching>
+	<logging/>
+	<observers>
+		<observer>Observer</observer>
+	</observers>
+	<in>
+    <mapping active="0"/>
+		<connection type="file">
+				<file>customers_10.csv</file>
+		</connection>
+		<format type="csv"/>
+	</in>
+	<out>
+		<connection type="mage">
+		  <path>{jaymard_ecpm/mage/path}</path>
+			<apiclass>Mage_Customer_Model_Customer_Api</apiclass>
+      <apimethod>create</apimethod>
+		</connection>
+		<format type="array"/>
+	</out>
+</interface>

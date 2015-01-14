@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+<element>
+  <attribute_code>ocp_composition</attribute_code>
+  <frontend_input>select</frontend_input>
+  <is_unique>0</is_unique>
+  <is_required>0</is_required>
+  <apply_to/>
+  <is_configurable>0</is_configurable>
+  <is_searchable>0</is_searchable>
+  <is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+  <is_comparable>0</is_comparable>
+  <is_used_for_promo_rules>0</is_used_for_promo_rules>
+  <is_visible_on_front>1</is_visible_on_front>
+  <used_in_product_listing>0</used_in_product_listing>
+  <frontend_label>Composition</frontend_label>
+  <scope>global</scope>
+  <additional_fields>
+    <is_filterable>0</is_filterable>
+    <is_filterable_in_search>0</is_filterable_in_search>
+    <position>0</position>
+    <used_for_sort_by>0</used_for_sort_by>
+  </additional_fields>
+</element>
+</elements>

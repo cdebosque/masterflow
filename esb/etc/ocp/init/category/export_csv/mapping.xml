@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+  <out>
+    <fields>
+      <field>
+        <from>category_id</from>
+        <to>category_id</to>
+      </field>
+      <field>
+        <from>store_id</from>
+        <to>store_id</to>
+      </field>
+      <field>
+        <from>full_path_name</from>
+        <to>full_path_name</to>
+      </field>                         
+    </fields>
+  </out>  
+</mapping>  
