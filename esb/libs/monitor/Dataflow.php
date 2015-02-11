@@ -118,21 +118,7 @@ class Dataflow
 	 */
 	public function showList()
 	{
-		echo '<h2>Liste des interfaces</h2> ' . PHP_EOL;
-
-		echo '<table>' . PHP_EOL;
-		echo ' <tr>' . PHP_EOL;
-		echo '  <th>ID</th>' . PHP_EOL;
-		echo '  <th class="name">Libellé</th>' . PHP_EOL;
-		echo '  <th>État</th>' . PHP_EOL;
-		echo '  <th>Type</th>' . PHP_EOL;
-		echo '  <th>Entrée</th>' . PHP_EOL;
-		echo '  <th>Sortie</th>' . PHP_EOL;
-		echo '  <th>Dernier lancement</th>' . PHP_EOL;
-		echo '  <th></th>' . PHP_EOL;
-		echo '  <th>Vue</th>' . PHP_EOL;
-		echo '  <th>Hist</th>' . PHP_EOL;
-		echo ' </tr>' . PHP_EOL;
+		
 
 		$list = $this->getList();
 		foreach ($list as $info) {
@@ -164,32 +150,18 @@ class Dataflow
 				'logfile'             => $lastLog['logfile'],
 			);
 		}
-
+		
 		$sort = 'date_start';
 		$order = SORT_DESC;
+		$listDatasSorted = array();
 		if(!empty($listDatas)){
 			$listDatasSorted = Dataflow::array_sort($listDatas, $sort, $order);
 			//krsort($listSorted);
 	
-			foreach ($listDatasSorted as $datas) {
-				echo ' <tr>' . PHP_EOL;
-				echo '  <td>' . $datas['id'] . '</td>' . PHP_EOL;
-				echo '  <td class="name">' . $datas['name'] . '</td>' . PHP_EOL;
-				echo '  <td' . ($datas['enable'] == 1 ? ' class="lvl1">activée' : ' class="lvl4">désactivée') . '</td>' . PHP_EOL;
-				echo '  <td>' . $datas['type'] . '</td>' . PHP_EOL;
-				echo '  <td>' . $datas['in_connection_type'] . '</td>' . PHP_EOL;
-				echo '  <td>' . $datas['out_connection_type'] . '</td>' . PHP_EOL;
-				echo '  <td>' . Dataflow::mysql2Datetime($datas['date_start'])
-				  //. (!empty($datas['status']) ? '&nbsp;<img class="icon" src="images/status/' . $datas['status'] . '.png" alt="' . $datas['status'] . '" />' : '')
-				  //. (!empty($datas['logfile']) ? '&nbsp;<a href="' . $datas['logfile'].'"><img class="icon" src="images/favicons/launch.png" alt="Afficher le fichier de logs pour ce lancement" /></a>' : '')
-				  . '</td>' . PHP_EOL;
-				echo '  <td>' . (!empty($datas['status']) ? '<img class="icon" src="images/status/' . $datas['status'] . '.png" alt="' . $datas['status'] . '" />' : '') . '</td>' . PHP_EOL;
-				echo '  <td><a href="?action=info&amp;id='.$datas['id'].'"><img class="icon" src="images/favicons/info.png" alt="Afficher la fiche de l\'interface" /></a></td>' . PHP_EOL;
-				echo '  <td><a href="?action=history&amp;id='.$datas['id'].'"><img class="icon" src="images/favicons/history.png" alt="Afficher l\'historique de l\'interface" /></a></td>' . PHP_EOL;
-				echo ' </tr>' . PHP_EOL;
-			}
+			
 		}
-		echo '</table>' . PHP_EOL;
+
+		return $listDatasSorted;
 	}
 
 
