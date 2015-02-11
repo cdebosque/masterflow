@@ -52,4 +52,27 @@ class LogMapper
 		return $row;
 	}
 	
+	/**
+	 * Retourne le dernier log de cette interface.
+	 *
+	 * @param string $states
+	 * @return int
+	 */
+	public function countGlobal($states)
+	{
+		//var_dump($states);
+		$select = $this->table->getSql()->select();
+		$where = "";
+		if(!empty($states)) 
+			foreach($states as $state => $value)
+				$where .= (empty($where))? $value . ">0" : " AND " .$value . ">0" ;
+		else 
+			$where = "warning = 0 AND error = 0 AND fatal = 0";
+		//var_dump($where);
+		$select->where($where)->order('id_dataflow_log DESC');
+			
+		$rowset = $this->table->selectWith($select)->count();
+		//$result = $resultSet->toArray();
+		return $rowset;
+	}
 }
