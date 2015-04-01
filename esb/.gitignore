@@ -1,0 +1,13 @@
+/var/
+etc/core/base/env/
+/old/
+# Fichiers Zend studio
+.project
+.buildpath
+.settings
+#Dossier Phpstorm
+.idea/
+#Fichiers des projets spécifiques à l'environnement
+settings.php
+# Fichiers personnels a prefixer par "gign"
+gign*.*
