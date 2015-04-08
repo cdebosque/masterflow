@@ -12,26 +12,35 @@
 			
 		</filter>
 	</filters>
+
 	<in>
-		<connection type="file">
-				<file>exemple-1-clients.csv</file>
-		</connection>
-		<format type="csv">
-    	    <headline >1</headline>
-    	    <separator>C_SEMICOL</separator>
-            <enclosure>C_QUOTE</enclosure>
-    	  </format>
-    	  
-    	  <mapping active="0"/>
-	</in>
-	<out>
 		<connection type="db">
-            <mode>w+</mode>
-            <file>exemple-1-clients.xml</file>
+            <driver>mysqli</driver>
+            <database>esb</database>
+            <username>root</username>
+            <password></password>
+            <hostname>localhost</hostname>
+			<port>3306</port>
+            <tablename>mf_customers</tablename>
+            <where></where>
+            
 		</connection>
 		<format type="db">
-			<xmlNodeRoot>customer</xmlNodeRoot>
+			
         </format>
         
+	</in>
+	
+	<out>
+		<connection type="file">
+            <mode>w+</mode>
+			<file>exemple-11-clients.csv</file>
+		</connection>
+		<format type="csv">
+            <headline>1</headline>
+    	    <separator>C_SEMICOL</separator>
+            <enclosure>C_QUOTE</enclosure>
+    	</format>
+        <mapping active="0"/>
 	</out>
 </interface>

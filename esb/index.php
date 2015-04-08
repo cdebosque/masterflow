@@ -1,2 +1,2 @@
 <?php
-header("Location: www/", TRUE, 301);
+header("Location: admin/index.php", TRUE, 301);

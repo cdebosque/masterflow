@@ -16,26 +16,29 @@ use Zend\Db\Sql\Predicate\Expression;
 class EaiDbGateway extends EaiObject
 {
   /** @var Zend\Db\Adapter\Adapter */
-  protected $adapter;
+  public $adapter;
 	
   /**
    * Initialise la connexion à la base de données.
    */
-  public function __construct()
+  public function __construct($config = array())
   {
-    $config = array(
-      'driver' => 'mysqli',
-      'database' => DB_BASE,
-      'username' => DB_USER,
-      'password' => DB_PASS,
-    );
-    if (defined('DB_HOST')) {
-      $config['hostname'] = DB_HOST;
-    }
-    if (defined('DB_PORT')) {
-      $config['port'] = DB_PORT;
-    }
-    
+  	if(empty($config))
+  	{	
+	    $config = array(
+	      'driver' => 'mysqli',
+	      'database' => DB_BASE,
+	      'username' => DB_USER,
+	      'password' => DB_PASS,
+	    );
+	    if (defined('DB_HOST')) {
+	      $config['hostname'] = DB_HOST;
+	    }
+	    if (defined('DB_PORT')) {
+	      $config['port'] = DB_PORT;
+	    }
+  	}
+  	  
     $adapter = new Adapter($config);
     $this->adapter = $adapter;
   }

@@ -72,6 +72,7 @@ class EaiFormatterCsv extends EaiFormatter
 
 	protected function format($rawData)
 	{
+		echo "<h2>" . $rawData . "</h2>";
 		$r = str_getcsv($rawData, $this->getProp('separator'), $this->getProp('enclosure'));
 		return $r;
 	}

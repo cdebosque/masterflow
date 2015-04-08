@@ -267,8 +267,9 @@ class EaiConnectorFile extends EaiConnector
 	public function _eaiWriteRawDatas()
 	{
 		$this->methodStart();
-
+		
 		$rawData = $this->getRawData();
+		
 		$written = (bool)fwrite($this->pointer, implode('', $this->getRawDatas()) );
 
 		$this->methodFinish($written);
