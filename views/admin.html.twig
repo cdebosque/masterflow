@@ -1,0 +1,32 @@
+{% extends "layout.html.twig" %}
+{% set adminMenu = true %}
+
+{% block title %}Administration{% endblock %}
+
+{% block content %}
+    <h2 class="text-center">{{ block('title') }}</h2>
+
+    {% for flashMessage in app.session.flashbag.get('success') %}
+        <div class="alert alert-success">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
+    
+    <div class="row">
+        <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+            <ul class="nav nav-tabs nav-justified">
+                <li class="active"><a href="#roles" data-toggle="tab">Roles</a></li>
+                <li><a href="#users" data-toggle="tab">Utilisateurs</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="tab-content">
+        
+        <div class="tab-pane fade in active adminTable" id="roles">
+            Roles des utilisateurs
+        </div>
+        <div class="tab-pane fade adminTable" id="users">
+            Utlisateurs
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends "layout.html.twig" %}
+{% set adminMenu = false %}
+
+{% block title %}Administration{% endblock %}
+
+{% block content %}
+    <h2 class="text-center">{{ block('title') }}</h2>
+
+    {% for flashMessage in app.session.flashbag.get('success') %}
+        <div class="alert alert-success">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
+
+    {% for error in app.session.flashbag.get('error') %}
+        <div class="alert alert-danger">
+            {{ error }}
+        </div>
+    {% endfor %}
+    
+    <div class="panel panel-default">
+        <div class="panel-heading">Ajout d'un nouveau type d'utilisateur</div>
+        <div class="panel-body">
+            {% if roleForm %}
+                {{ form(roleForm, {method: 'POST'}) }}
+
+                <a href="{{ path('list-roles') }}">
+                   Cancel
+                </a>
+            {% else %}
+                <a href="{{ path('user-login') }} ">Connectez-vous</a> pour gérer les type utilisateurs.
+            {% endif %}
+        </div>
+    </div>
+
+
+
+{% endblock %}

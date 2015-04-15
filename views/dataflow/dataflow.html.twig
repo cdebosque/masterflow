@@ -1,0 +1,14 @@
+{% extends "layout.html.twig" %}
+{% set adminMenu = true %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+ 	{% for dataflow in dataflows %}
+    <dataflow>
+        <h2><a class="dataflowTitle" href="{{ path('edit-dataflow', {id: dataflow.id}) }}">{{ dataflow.name }}</a></h2>
+    </dataflow>
+    {% endfor %}
+    
+{% endblock %}

@@ -1,9 +1,3 @@
-@CHARSET "ISO-8859-1";
-
-body { 
-    padding-top: 40px; 
-}
-
 .footer {
     border-top: 1px solid #ccc;
     padding-top: 10px;
@@ -12,4 +6,26 @@ body {
 
 .dataflowTitle:hover, .dataflowTitle:focus {
     text-decoration: none;
+}
+
+.adminTable {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#errorPanel {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+/***************************************************************************************/
+/*************************************** Utilisateurs **********************************/
+/***************************************************************************************/
+h1.page-header{
+    display : block;
+    margin: 25px 0 0 50px;
+}
+
+.userDropdown{
+    color : black;
 }

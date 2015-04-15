@@ -1,0 +1,38 @@
+{% extends "layout.html.twig" %}
+{% set adminMenu = false %}
+
+{% block title %}Administration{% endblock %}
+
+{% block content %}
+
+    {% for flashMessage in app.session.flashbag.get('success') %}
+        <div class="alert alert-success">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
+
+    {% for error in app.session.flashbag.get('error') %}
+        <div class="alert alert-danger">
+            {{ error }}
+        </div>
+    {% endfor %}
+    
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Autorisation des types d'utilisateur pour la route &laquo; 
+            <strong>{{routePath}} {% if routeName|length > 0 %}( routeName ){% endif %}</strong> &raquo;
+        </div>
+        <div class="panel-body">
+            {% if routePermissionsForm %}
+                {{ form(routePermissionsForm, {method: 'POST'}) }}
+
+                <a href="{{ path('roles-route') }}">
+                   Cancel
+                </a>
+            {% else %}
+                <a href="{{ path('user-login') }} ">Connectez-vous</a> pour gérer les types d'utilisateur.
+            {% endif %}
+        </div>
+    </div>
+
+{% endblock %}

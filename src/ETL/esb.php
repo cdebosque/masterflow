@@ -5,13 +5,13 @@
  *
  * @version 0.2 alpha
  */
-
+namespace Masterflow\ETL;
 /* set environment and application paths : */
 require_once "settings.php";
 
 /* Autoloader pour les librairies Zend */
-require_once Esb::LIBS . 'ext' . DIRECTORY_SEPARATOR . 'Zend' . DIRECTORY_SEPARATOR . 'Loader' . DIRECTORY_SEPARATOR . 'StandardAutoloader.php';
-use Zend\Loader\StandardAutoloader;
+//require_once Esb::LIBS . 'ext' . DIRECTORY_SEPARATOR . 'Zend' . DIRECTORY_SEPARATOR . 'Loader' . DIRECTORY_SEPARATOR . 'StandardAutoloader.php';
+//use Zend\Loader\StandardAutoloader;
 
 /* Register ESB autoloader : */
 Esb::autoload();
@@ -206,8 +206,8 @@ abstract class Esb
 		$loaded = static::loadLib($name, true);
 
 		// Chargement de l'autoloader Zend.
-		$zendLoader = new StandardAutoloader(array('autoregister_zf' => true));
-		$zendLoader->register();
+		//$zendLoader = new StandardAutoloader(array('autoregister_zf' => true));
+		//$zendLoader->register();
 	}
 
 	/**

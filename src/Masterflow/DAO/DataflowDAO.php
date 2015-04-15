@@ -35,6 +35,13 @@ class DataflowDAO extends DAO
 		$dataflow = new Dataflow();
 		$dataflow->setId($row['id_dataflow']);
 		$dataflow->setName($row['name']);
+		$dataflow->setEnable($row['enable']);
+		$dataflow->setType($row['type']);
+		$dataflow->setInConnectionType($row['in_connection_type']);
+		$dataflow->setOutConnectionType($row['out_connection_type']);
+		$dataflow->setInterface($row['interface']);
+		$dataflow->setMapping($row['mapping']);
+		$dataflow->setObserver($row['observer']);
 		return $dataflow;
 	}
 	

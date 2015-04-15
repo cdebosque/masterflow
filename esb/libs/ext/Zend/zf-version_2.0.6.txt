@@ -1,1 +1,0 @@
-La version de Zend Framework utilisée dans ce projet est la 2.0.6.

@@ -1,0 +1,45 @@
+{% extends 'layout.html.twig' %}
+
+{% block title %}Liste des utilisateurs{% endblock %}
+{% block pageHeaderTitleHtml %}Liste des utilisateurs{% endblock %}
+
+{% block content %}
+
+    {% for flashMessage in app.session.flashbag.get('alert') %}
+        <div class="alert alert-success text-center">
+          <div class="alert"><strong>{{ flashMessage  }}</strong></div>
+        </div>
+    {% endfor %}
+
+    {% if paginator.totalItems == 1 %}
+        <strong>1</strong> utilisateur trouvé.
+    {% else %}
+        <strong>{{ paginator.totalItems }}</strong> utilisateurs trouvés.
+    {% endif %}
+
+    <table class="table table-stripped">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nom</th>
+                <th>Email</th>
+                <th>Modifier</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for user in users %}
+                <tr>
+                    <td><img src="{{ user.imageUrl }}" width="40" height="40" border=0></td>
+                    <td>{{ user.displayName }}</td>
+                    <td>{{ user.email }}</td>
+                    <td><a href="{{ path('user.edit', {'id': user.id}) }}"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span></a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br />
+    <div class="row text-center">
+        <a href="{{path('user.add')}}" class="btn btn-primary">Ajouter un utilisateur</a>
+    </div>
+    <br />
+{% endblock %}

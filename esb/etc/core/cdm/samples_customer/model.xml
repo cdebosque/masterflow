@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<model name=samples_customer>
-	<id/>
-	<firstname/>
-	<lastname/>
-	<gender/>
-	<email/>	
-</model>

@@ -1,1 +1,0 @@
-ALTER TABLE `dataflow_log` ADD `in_source_file` VARCHAR( 255 ) NOT NULL COMMENT 'Fichier source'

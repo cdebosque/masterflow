@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mapping model="customer">
-	<object>customer</object>
-	<in>
-		<fields>
-		</fields>
-		</in>
-</mapping>

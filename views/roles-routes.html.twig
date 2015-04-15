@@ -1,0 +1,43 @@
+{% extends "layout.html.twig" %}
+{% set adminMenu = true %}
+
+{% block title %}Administration{% endblock %}
+
+{% block content %}
+
+    {% for flashMessage in app.session.flashbag.get('success') %}
+        <div class="alert alert-success">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
+    
+    <div class="panel panel-default">
+        <div class="panel-heading">Association des droits sur les routes</div>
+        <div class="panel-body">
+            <table class="table">
+                <caption>Permets de définir quel type d'utilisateur peut accéder à quel page.</caption>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Route</th>
+                        <th>Nom</th>
+                        <th>Type d'utilisateur autorisés</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for id, roleroute in rolesroutes %}
+                    <tr>
+                        <th scope="row">{{ id }}</th>
+                        <td>{{ roleroute.path }}</td>
+                        <td>{{ roleroute.nom }}</td>
+                        <td>{{ roleroute.roles }}</td>
+                        <td><a href="{{path('edit-roleroute', { 'id': id })}}"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span></a></td>
+                    </tr>
+                    {% endfor%}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+{% endblock %}

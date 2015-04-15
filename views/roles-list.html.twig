@@ -1,0 +1,47 @@
+{% extends "layout.html.twig" %}
+{% set adminMenu = false %}
+
+{% block title %}Gestion des types utilisateur{% endblock %}
+
+{% block content %}
+
+    {% for flashMessage in app.session.flashbag.get('success') %}
+        <div class="alert alert-success">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
+    
+    <div class="panel panel-default">
+        <div class="panel-heading">Listes des types d'utilisateurs <a href="{{path('add-role')}}" class="btn btn-primary"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a></div>
+        <div class="panel-body">
+            <table class="table">
+                <caption>Permet de donner un role précis à un utilisateur de l'ETL.</caption>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Nom</th>
+                        <th>Description</th>
+                        <th>Actif</th>
+                        <th>Dernière mise à jour</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for id, role in roles %}
+                    <tr>
+                        <td>{{ id }}</td>
+                        <td>{{ role.nom }}</td>
+                        <td>{{ role.description }}</td>
+                        <td>{{ role.actif? 'Oui' : 'Non' }}</td>
+                        <td>{{ role.last_update|date("m/d/Y h:i:s") }}</td>
+                        <td><a href="{{path('edit-role', { 'id': id })}}"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span></a></td>
+                    </tr>
+                    {% endfor%}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+
+{% endblock %}
