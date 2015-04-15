@@ -1,0 +1,13 @@
+{% extends "layout/layout.phtml" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+ 	{% for dataflow in dataflows %}
+    <dataflow>
+        <h2><a class="dataflowTitle" href="/dataflow/{{ dataflow.id }}">{{ dataflow.name }}</a></h2>
+    </dataflow>
+    {% endfor %}
+    
+{% endblock %}
