@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<interface type="import" model="">-->
+<interface type="import">
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+  <in fetching="1">
+    <connection type="soap">
+      <mapping active="0"/>
+      <debug>0</debug>
+      <url>{dpam/crosslog/api_prod/url_root}/CustomerOrderExport.asmx?wsdl</url>
+      <useLogin>0</useLogin>
+      <header>
+        <namespace>ns1</namespace>
+        <name>AuthHeader</name>
+        <params>
+          <Username>{dpam/crosslog/api_prod/user}</Username>
+          <Password>{dpam/crosslog/api_prod/password}</Password>
+        </params>
+      </header>
+      <call>__soapCall</call>
+      <callparams>
+          <action>GetCustomerOrdersChanged</action>
+      </callparams>
+      <behavior>3</behavior>
+		</connection>
+		<format type="array"/>
+  </in>
+  <out fetching="1">
+    <connection type="mage">
+      <mapping active="0"/>
+      <path>{dpam/mage/path}</path>
+      <apiclass>Ecpm_Crosslog_Model_Sales_Order_Api</apiclass>
+      <apimethod>updateFromCrosslog</apimethod>
+		</connection>
+		<format type="array"/>
+  </out>
+</interface>

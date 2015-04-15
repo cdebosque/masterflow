@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export" memoryLimit="8096">
+    <observers>
+        <observer>EaiObserverStandard</observer>
+    </observers>
+    <in fetching="500">
+        <connection type="mage">
+            <path>{dpam/mage/path}</path>
+            <apiclass>Dpam_Neolane_Model_Children_Api</apiclass>
+            <apimethod>items</apimethod>
+            <!-- todo filtrer is_active ? -->
+        </connection>
+    </in>
+    <out fetching="500">
+        <connection type="file">
+            <workflow>1</workflow>
+            <file>NEOLANE_ENFANTS_{php::date(YmdHis)}.csv</file>
+            <plugins>
+                <plugin type="ftp">
+                    <server>{neolane/ftp/server}</server>
+                    <user>{neolane/ftp/user}</user>
+                    <password>{neolane/ftp/password}</password>
+                    <override>{neolane/ftp/override}</override>
+                    <remoteDir>/export_children/</remoteDir>
+                </plugin>
+            </plugins>
+        </connection>
+        <format type="csv">
+            <separator>C_SEMICOL</separator>
+            <enclosure>C_QUOTE</enclosure>
+            <headline>1</headline>
+        </format>
+    </out>
+</interface>

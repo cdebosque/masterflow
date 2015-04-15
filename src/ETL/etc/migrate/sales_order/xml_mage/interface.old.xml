@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="">
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+  <in>
+    <connection type="xml">
+        <debug>0</debug>
+        <dir>{DIR_ROOT}var/feeds/in</dir>
+        <file>dpam_orders.xml</file>
+    </connection>
+    <format type="xml"/>
+  </in>
+	<out>
+		<connection type="soap">
+      <path>{jaymard_ecpm/mage/path}</path>
+      <apiclass>Mage_Sales_Model_Order_Api</apiclass>
+      <apimethod>create</apimethod>
+		</connection>
+	</out>
+</interface>

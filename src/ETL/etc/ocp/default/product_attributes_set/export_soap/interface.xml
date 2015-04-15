@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product_attributes_set">
+	<fetching>0</fetching>
+	<logging/>
+ 	<observers>
+		<observer>Observer</observer>
+	</observers>
+	<in>
+		<connection type="mage">
+				<path>{ecpm/mage/path}</path>
+                 <apiclass>Mage_Catalog_Model_Product_Attribute_Set_Api</apiclass>
+                <apimethod>items</apimethod>			
+		</connection>
+		<format type="array"/>
+	</in>
+    <out>
+        <connection type="soap">
+                <url>{ocpm/soap/api_url}</url>
+                <user>{ocpm/soap/user}</user>
+                <key>{ocpm/soap/key}</key>
+                <action>product_attribute_set.create</action>
+        </connection>
+        <format type="array"/>
+    </out>    
+    <out_oclio_recette>
+        <connection type="soap">
+                <url>{oclio_recette/soap/api_url}</url>
+                <user>{oclio_recette/soap/user}</user>
+                <key>{oclio_recette/soap/key}</key>
+                <action>product_attribute_set.create</action>
+        </connection>
+        <format type="array"/>
+    </out_oclio_recette>
+</interface>

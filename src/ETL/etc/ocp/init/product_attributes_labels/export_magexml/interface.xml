@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product_attributes_labels">
+	<fetching>0</fetching>
+	<logging/>
+ 	<observers>
+		<observer>Observer</observer>
+	</observers>
+	<in>
+		<connection type="mage">
+				<path>{ocpm/mage/path}</path>
+				<apiclass>Mage_Catalog_Model_Product_Attribute_Api</apiclass>
+				<key>{ocpm/soap/key}</key>
+				<apimethod>items</apimethod>
+				<methodparams>
+			        <setid>4</setid>
+			        <simple>3</simple>
+				</methodparams>
+		</connection>
+		<format type="array"/>
+	</in>
+    <out>
+        <connection type="file">
+                <file>product_attributes_labels.out.xml</file>
+        </connection>
+        <format type="xml"/>
+        <mapping active="0"/>
+    </out>
+</interface>

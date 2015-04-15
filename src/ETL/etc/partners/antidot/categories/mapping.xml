@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+	<out>
+    <fields>
+		<field>
+			<from>category_id</from>
+			<to  >id</to>
+		</field>
+      <field>
+        <from>name</from>
+        <to  >name</to>
+      </field>
+      <field>
+<!--         <from>full_path_name</from> -->
+        <from>url_rewrite</from>
+        <to  >url</to>
+      </field>
+      <field>
+        <from>parent_id</from>
+        <to  >idref</to>
+      </field>
+      <field>
+        <from>product_count</from>
+        <to  >productsCount</to>
+      </field>
+		</fields>
+	</out>
+</mapping>

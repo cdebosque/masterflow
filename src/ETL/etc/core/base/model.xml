@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="base">
+<!-- 	<id -->
+<!-- 		type="string|int|uint|email|datetime" -->
+<!-- 		length="50" -->
+<!-- 		required="1" -->
+<!-- 		pk="1" -->
+<!-- 		autoincrement="1" -->
+<!-- 		> -->
+<!-- 			<default null="1">null</default> -->
+<!-- 		</id> -->
+</model>

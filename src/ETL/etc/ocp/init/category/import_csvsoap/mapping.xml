@@ -1,0 +1,23 @@
+<mapping>
+  <in>
+    <fields>
+            <field>
+                <from>category_id</from>
+                <to>category_id</to>
+            </field>
+            <field>
+                <from>website_id</from>
+                <to>website_id</to>
+            </field>
+            <field>
+                <from>full_path_name</from>
+                <to>full_path_name</to>
+            </field>
+            <field>
+                <from>ES</from>
+                <to>store_id=>es_ES</to>
+            </field>
+    </fields>
+  </in>
+</mapping>
+    

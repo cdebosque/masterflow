@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import">
+    <observers>
+        <observer>Observer</observer>
+    </observers>
+    <in fetching="1">
+        <connection type="file">
+            <!--<dir>{DIR_ROOT}var/feeds/colombus/ob/prod</dir>-->
+            <dir>{DIR_ROOT}var/feeds/colombus/colombus_out_log/</dir>
+            <file>DPAM_OPENBAR_201301090601cut.TXT</file>
+        </connection>
+        <format type="csv">
+            <separator>C_TAB</separator>
+            <headline >0</headline>
+        </format>
+        <mapping active="1"/>
+    </in>
+    <out mode="line">
+        <connection type="mage">
+            <path>/var/www/dev_ecpm</path>
+            <apiclass>MDN_AdvancedStock_Model_CatalogInventory_Stock_Item_Api</apiclass>
+            <apimethod>update</apimethod>
+        </connection>
+        <!--
+        <connection type="soap">
+            <url >{dpam_prod/soap/api_url}</url>
+            <user>{dpam_prod/soap/user}</user>
+            <key >{dpam_prod/soap/key}</key>
+            <callparams>
+                <session>{session}</session>
+                <action>erp_stock.update</action>
+            </callparams>
+        </connection>
+        -->
+        <format type="array"/>
+    </out>
+</interface>

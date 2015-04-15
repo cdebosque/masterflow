@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+  <in>
+    <fields>
+      <field>
+        <from>AvailableStockQuantity</from>
+        <to>qty</to>
+      </field>
+      <field>
+        <from>Reference</from>
+        <to>sku</to>
+      </field>
+      <field>
+        <from>InsulatedStockQuantity</from>
+        <to>InsulatedStockQuantity</to>
+      </field>
+      <field>
+        <from>ReservedStockQuantity</from>
+        <to>ReservedStockQuantity</to>
+      </field>
+      <field>
+        <from>StockQuantity</from>
+        <to>StockQuantity</to>
+      </field>
+    </fields>
+	</in>	
+</mapping>

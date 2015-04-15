@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product_attributes_set">
+	<fetching>0</fetching>
+	<!-- <logging/> -->
+    <observers>
+        <observer>Observer</observer>
+    </observers>
+	<in>
+        <connection type="xml">
+                <file>product_attributes_set.xml</file>
+        </connection>
+        <format type="xml"/>
+        <mapping active="0"/>    
+	</in>
+    <out>
+<!--         <connection type="soap">
+                <url>{ocpm_switch/soap/api_url}</url>
+                <user>{ocpm_switch/soap/user}</user>
+                <key>{ocpm_switch/soap/key}</key>
+                <call>call</call>
+                <callparams>
+                    <session>{session}</session>
+                    <action>product_attribute_set.create</action>
+                </callparams>
+        </connection> -->
+        <connection type="mage">
+                <path>{ocpm/mage/path}</path>
+                <apiclass>Mage_Catalog_Model_Product_Attribute_Set_Api</apiclass>
+                <apimethod>create</apimethod>
+        </connection>
+        <format type="array"/>
+    </out>
+</interface>

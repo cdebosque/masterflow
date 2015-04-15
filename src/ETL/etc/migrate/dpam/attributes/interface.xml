@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product">
+	<logging/>
+ 	<observers>
+		<observer>Observer</observer>
+	</observers>
+    <in fetching="50">
+        <connection type="file">
+                <file>listing_petits_prix_070213.csv</file>
+        </connection>
+        <format type="csv"/>
+        <mapping active="0"/>
+    </in>
+	<out fetching="0">
+        <connection type="mage">
+          <path>{dpam_preprod/mage/path}</path>
+          <apiclass>Dpam_Colombus_Model_Product_Api</apiclass>
+          <apimethod>updateProductAttributes</apimethod>
+        </connection>
+            
+		<!-- connection type="soap">
+                <user>{dpam_preprod/soap/user}</user>
+                <key>{dpam_preprod/soap/key}</key>
+                <call>call</call>
+                <callparams>
+                    <session>{session}</session>
+                    <action>colombus_product.updateProductAttributes</action>
+                </callparams>
+		</connection -->
+		<format type="array"/>
+	</out>
+</interface>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+	<object>CatalogProduct</object>
+	<in>
+		<fields>
+			<field>
+				<from>sku</from>
+				<to>sku</to>
+        <calls>
+					<call name="getAssociatedValue">
+						<param>file_sku.csv</param>
+					</call>
+				</calls>
+			</field>
+     </fields>
+	</in>
+</mapping>

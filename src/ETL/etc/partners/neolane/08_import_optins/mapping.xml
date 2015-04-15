@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+    <in><!-- disabled -->
+        <fields>
+            <field>
+                <from>N_CARTEFID</from>
+                <to>cdm_card_number</to>
+            </field>
+
+            <field>
+                <from>N_INTERNET_ID</from>
+                <to>customer_id</to>
+            </field>
+
+            <field>
+                <from>N_NEWSLETTERID</from>
+                <to>uid</to>
+            </field>
+
+            <field>
+                <from>N_DPAMPAPER</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_DPAMEMAIL</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_DPAMSMS</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_PARTNERPAPER</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_PARTNEREMAIL</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_PARTNERSMS</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_INTERNET_NEWSLETTER</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_INTERNET_PARTNER</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_NEWSLETTER_NEWSLETTER</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_NEWSLETTER_PARTNER</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>N_NEWSLETTER_SMS</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>Optin_service_ListeNaissance</from>
+                <to></to>
+            </field>
+
+            <field>
+                <from>Optin_service_4</from>
+                <to></to>
+            </field>
+
+        </fields>
+    </in>
+</mapping>

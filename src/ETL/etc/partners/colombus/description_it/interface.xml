@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product">
+    <observers>
+        <observer>Observer</observer>
+    </observers>	
+	<in fetching="5">
+		<connection type="file">
+				<file>desc_it.csv</file>
+		</connection>
+		<format type="csv"/>
+	</in>
+    <out fetching="0">
+        <connection type="soap">
+                <url>{dpam_preprod/soap/api_url}</url> -->
+                <user>{ocpm_api/soap/user}</user>
+                <key>{ocpm_api/soap/key}</key>
+                <call>call</call>
+                <callparams>
+                    <session>{session}</session>
+                    <action>colombus_product.updateProductLocales</action>
+                </callparams>
+        </connection>
+    <format type="array"/>
+    </out>
+</interface>

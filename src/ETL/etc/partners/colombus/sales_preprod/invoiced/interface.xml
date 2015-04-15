@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export">
+    <observers>
+        <observer>../ObserverSales</observer>
+        <observer>ObserverSalesInvoiced</observer>
+    </observers>
+    <in fetching="1">
+        <connection type="mage">
+            <path>{ecpm/mage/path}</path>
+            <apiclass>Dpam_Colombus_Model_Order_Api</apiclass>
+            <apimethod>getInvoices</apimethod>
+        </connection>
+        <!--
+        <connection type="soap">
+            <url >{dpam_prod/soap/api_url}</url>
+            <user>{dpam_prod/soap/user}</user>
+            <key >{dpam_recette/soap/key}</key>
+            <debug>1</debug>
+            <callparams>
+                <session>{session}</session>
+                <action>colombus_order.listInvoices</action>
+            </callparams>
+        </connection>
+        -->
+    </in>
+    <out fetching="0">
+        <connection type="file">
+            <dir>{DIR_ROOT}var/feeds/colombus/tv</dir>
+            <file>tvint{php::date(ymdHis)}b.paq</file>
+            <!--<plugins>-->
+                <!--<plugin type="ftp">-->
+                    <!--<server>95.143.69.197</server>-->
+                    <!--<user>colombus_out_com</user>-->
+                    <!--<password>dyg58PF6</password>-->
+                    <!--<remoteDir></remoteDir>-->
+                    <!--<remoteFile>tvint{php::date(ymdHis)}b.paq</remoteFile>-->
+                    <!--<override>1</override>-->
+                <!--</plugin>-->
+            <!--</plugins>-->
+        </connection>
+        <format type="csv">
+            <separator>C_TAB</separator>
+            <headline >0</headline>
+        </format>
+        <mapping active="0"/>
+    </out>
+</interface>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export" model="store">
+<!--     <observers>
+        <observer>Observer</observer>
+    </observers>	 -->
+    <in>
+       <connection type="mage">
+                <path>{dpam/mage/path}</path>
+                 <apiclass>Mage_Core_Model_Store_Api</apiclass>
+                <apimethod>items</apimethod>
+                <plugins>
+                    <plugin type="sftp">
+                        <server>{dpam/antidot/server}</server>
+                        <localFile>test.csv</localFile>
+                        <remoteFile>test.csv</remoteFile>
+                        <user>{dpam/antidot/user}</user>
+                        <password>{dpam/antidot/password}</password>
+                        <remoteDir>{dpam/antidot/remoteDir}</remoteDir>
+                        <pubkeyfile>{dpam/antidot/pubkeyfile}</pubkeyfile>
+                        <privkeyfile>{dpam/antidot/privkeyfile}</privkeyfile>
+                        <override>1</override>
+                    </plugin>
+                </plugins>
+        </connection>
+        <format type="array"/>
+        <mapping active="0"/>
+    </in>
+    <out>
+        <connection type="file">
+            <file>test.csv</file>
+            <!-- <dir>{DIR_WORKBASE}{IDENTIFIER}/{php::counter(EXP,6)}</dir> -->
+            <!-- <file>test_ocp.csv</file> -->
+        
+<!--             <workflow>1</workflow> -->
+<!--            <mode>w+</mode> -->
+            <plugins>
+<!--                 <plugin type="unzip">
+                  <archiveFile>{php::date(Ymd)}_full_DPAM_catalog.zip</archiveFile>
+                </plugin> -->
+                
+                <plugin type="sftp">
+                    <server>{dpam/antidot/server}</server>
+                    <localFile>test.csv</localFile>
+                    <remoteFile>test.csv</remoteFile>
+                    <user>{dpam/antidot/user}</user>
+                    <password>{dpam/antidot/password}</password>
+                    <remoteDir>{dpam/antidot/remoteDir}</remoteDir>
+                    <pubkeyfile>{dpam/antidot/pubkeyfile}</pubkeyfile>
+                    <privkeyfile>{dpam/antidot/privkeyfile}</privkeyfile>
+                    <override>1</override>
+                </plugin>
+                
+<!--                <plugin type="ftp">
+                    <server>95.143.69.197</server>
+                    <user>colombus_out_com</user>
+                    <password>dyg58PF6</password>
+                    <remoteDir></remoteDir>
+                    <remoteFile>test_ocp.csv</remoteFile>
+                    <override>1</override>                    
+                </plugin> -->
+            </plugins>     
+        </connection>
+        <format type="csv"></format>
+    </out>    
+</interface>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export" model="samples_customer">
+	<fetching>10</fetching>
+	<logging/>
+	<observers>
+		<observer>Observer</observer>
+	</observers>
+	<in>
+		<connection type="xml">       
+          	<dir>{DIR_ROOT}var\Samples\customer\xml2csv</dir>
+            <file>exemple-1-clients.xml</file>
+		</connection>
+		<format type="xml">
+			<xmlNodeRoot>customer</xmlNodeRoot>
+        </format>
+   	  <mapping active="0"/>
+        
+	</in>
+	<out>
+		<connection type="db">
+            <driver>mysqli</driver>
+            <database>esb</database>
+            <username>root</username>
+            <password></password>
+            <hostname>localhost</hostname>
+			<port>3306</port>
+            <tablename>mf_customers</tablename>
+            <where></where>
+            <id>email</id>
+            
+		</connection>
+		<format type="db">
+			
+        </format>
+        <mapping active="0"/>
+	</out>
+</interface>

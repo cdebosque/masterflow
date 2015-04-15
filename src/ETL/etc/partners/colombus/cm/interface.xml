@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product_attributes_options">
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+    <in>
+        <connection type="file">
+                <filePattern>cm.*\.paq$</filePattern>
+                <workflow>1</workflow>
+        </connection>
+        <format type="csv">
+              <separator>C_TAB</separator>
+              <headline >0</headline>
+        </format>
+    </in>
+  <out>
+        <connection type="mage">
+          <path>{dpam/mage/path}</path>
+          <apiclass>Mage_Catalog_Model_Product_Attribute_Api</apiclass>
+          <apimethod>addOption</apimethod>
+        </connection>
+    <format type="array"/>
+  </out>
+</interface>

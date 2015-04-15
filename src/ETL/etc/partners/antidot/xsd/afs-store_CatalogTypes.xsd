@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://ref.antidot.net/store/afs#" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:afs="http://ref.antidot.net/afs#" targetNamespace="http://ref.antidot.net/store/afs#"
+    version="2.7" elementFormDefault="qualified">
+    <xs:import schemaLocation="afs_BasicTypes.xsd" namespace="http://ref.antidot.net/afs#"/>
+    <xs:annotation>
+        <xs:documentation xml:lang="en">Definitions common to catalog and articles. Designed for
+            AFS@Store.</xs:documentation>
+    </xs:annotation>
+
+    <xs:complexType name="longDescriptionType">
+        <xs:simpleContent>
+            <xs:restriction base="descriptionType">
+                <xs:maxLength value="20000">
+                    <xs:annotation>
+                        <xs:documentation xml:lang="en">Warning: Google Shopping max length is
+                            10000</xs:documentation>
+                        <xs:documentation xml:lang="fr">Attention : la taille max est de 10000
+                            caractères sur Google Shopping</xs:documentation>
+                    </xs:annotation>
+                </xs:maxLength>
+            </xs:restriction>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:complexType name="descriptionType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="type" type="afs:stringId" use="optional"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <!-- Work in progress
+    <xs:simpleType name="priorityType">
+        <xs:restriction base="xs:unsignedByte">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+        </xs:restriction>
+    </xs:simpleType>
+-->
+
+    <xs:complexType name="brandType">
+        <xs:complexContent>
+            <xs:extension base="afs:stringIdElementType">
+                <xs:attributeGroup ref="richAcp"/>
+                <!--   
+                        <xs:attribute name="priority" type="priorityType" use="optional">
+        <xs:annotation>
+            <xs:documentation xml:lang="en">Used as a sort order to boost product ranking for a specific brand or category (using brand_priority or category_priority)</xs:documentation>
+            <xs:documentation xml:lang="fr">Utilisé pour booster les produits d'une marque ou d'une catégorie, en utilisant le critère de tri brand_priority/category_priority</xs:documentation>
+        </xs:annotation>
+    </xs:attribute>
+                -->
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="categoryType">
+        <xs:sequence>
+            <xs:annotation>
+                <xs:documentation xml:lang="en">Only one category child is
+                    allowed</xs:documentation>
+                <xs:documentation xml:lang="fr">Une catégorie ne peut en contenir qu'une seule. Si
+                    votre produit appartient à plusieurs rayons d'une même catégorie, alors, il
+                    faudra définir les rayons séparément</xs:documentation>
+            </xs:annotation>
+            <xs:element name="category" type="categoryType" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="afs:stringId" use="optional">
+            <xs:annotation>
+                <xs:documentation xml:lang="en">Best practice is to put an id when your category
+                    already have one</xs:documentation>
+                <xs:documentation xml:lang="fr">Il est recommandé de mettre un identifiant de
+                    catégorie lorsqu'il existe</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="label" type="afs:facetValueType" use="required"/>
+        <xs:attributeGroup ref="richAcp"/>
+        <!--   <xs:attribute ref="priority"use="optional"/>-->
+    </xs:complexType>
+    
+    <xs:attributeGroup name="richAcp">
+        <xs:attribute name="url" type="xs:anyURI">
+            <xs:annotation>
+                <xs:documentation xml:lang="en">May be used for display purposes or autocompletion
+                    generation</xs:documentation>
+                <xs:documentation xml:lang="fr">Peut être utilisée pour l'affichage ou pour
+                    l'autocomplétion</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="img" type="xs:anyURI">
+            <xs:annotation>
+                <xs:documentation xml:lang="en">Icon will be a metadata in search facet and
+                    autocompletion</xs:documentation>
+                <xs:documentation xml:lang="fr">La vignette remontera dans la facette et dans
+                    l'autocomplétion</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:complexType name="categoriesType">
+        <xs:annotation>
+            <xs:documentation xml:lang="en">Support for mono or multivalued, as well as list or tree
+                facets</xs:documentation>
+            <xs:documentation xml:lang="fr">Support des facettes mono ou multivaluées, à plat ou
+                arborescentes</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="category" type="categoryType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Here it won't conflict with category's website definition -->
+    <xs:element name="websites">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="website" type="afs:stringRequiredIdElementType"
+                    maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

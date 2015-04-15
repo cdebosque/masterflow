@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="">
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+  <in fetching="1">
+    <mapping active="1"/>
+    <connection type="xml">
+        <debug>0</debug>
+        <file>dpam_wishlist.xml</file>
+    </connection>
+    <format type="xml"/>
+  </in>
+	<out>
+		<connection type="debug">
+      <path>{jaymard_ecpm/mage/path}</path>
+      <apiclass>Mage_Sales_Model_Order_Api</apiclass>
+      <apimethod>create</apimethod>
+		</connection>
+		<format type="array"/>
+	</out>
+</interface>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="">
+	<fetching>10</fetching>
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+  <in>
+    <mapping active="1"/>
+    <connection type="xml">
+        <debug>1</debug>
+        <dir>{DIR_ROOT}var/feeds/in</dir>
+        <file>dpam_orders_missing780000.xml</file>
+    </connection>
+    <format type="xml"/>
+  </in>
+	<out>
+		<connection type="mage">
+      <path>{dpam/mage/path}</path>
+      <apiclass>Mage_Sales_Model_Order_Api</apiclass>
+      <apimethod>create</apimethod>
+		</connection>
+		<format type="array"/>
+	</out>
+</interface>

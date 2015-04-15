@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://ref.antidot.net/afs#" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://ref.antidot.net/afs#" version="2.7" elementFormDefault="qualified">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace"
+    schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+  <xs:annotation>
+    <xs:documentation xml:lang="en">Common types for use in AFS</xs:documentation>
+    <xs:documentation xml:lang="fr">Types communs pour les schémas AFS</xs:documentation>
+  </xs:annotation>
+  <!-- ** Booleans ** -->
+  <xs:simpleType name="booleanByte">
+    <xs:restriction base="xs:unsignedByte">
+      <xs:enumeration value="0"/>
+      <xs:enumeration value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ** Dates, time ** -->
+  <xs:simpleType name="simpleDateTime">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2}">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">yyyy-mm-dd hh:mm:ss</xs:documentation>
+          <xs:documentation xml:lang="fr">aaaa-mm-jj hh:mm:ss</xs:documentation>
+        </xs:annotation>
+      </xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="dateTime">
+    <xs:union memberTypes="simpleDateTime xs:dateTime"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="simpleDate">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d{4}-\d{2}-\d{2}">
+        <xs:annotation>
+          <xs:documentation xml:lang="en">yyyy-mm-dd</xs:documentation>
+          <xs:documentation xml:lang="fr">aaaa-mm-jj</xs:documentation>
+        </xs:annotation>
+      </xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="dateOrTime">
+    <xs:union memberTypes="simpleDate simpleDateTime xs:dateTime"/>
+  </xs:simpleType>
+
+  <!-- ** Decimal ** -->
+  <xs:simpleType name="percentType">
+    <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="100"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="longitude">
+    <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="-180"/>
+      <xs:maxInclusive value="180"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="latitude">
+    <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="-90"/>
+      <xs:maxInclusive value="90"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ** Codes ** -->
+  <xs:simpleType name="countryCode">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="[A-Z]{2,3}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="postalCode">
+    <xs:restriction base="xs:token">
+      <xs:maxLength value="10"/>
+      <xs:pattern value="([0-9A-Za-z](\s|\-){0,1})+"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="currencyCode">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="[A-Z]{3}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ** Strings ** -->
+  <xs:simpleType name="optionalShortStringType">
+    <xs:restriction base="xs:string">
+      <xs:annotation>
+        <xs:documentation xml:lang="en">A reasonable string</xs:documentation>
+        <xs:documentation xml:lang="fr">Chaîne courte</xs:documentation>
+      </xs:annotation>
+      <xs:maxLength value="40"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="shortStringType">
+    <xs:restriction base="optionalShortStringType">
+      <xs:minLength value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ** Geographic ** --> 
+  <xs:complexType name="administrativeLevel">
+    <xs:simpleContent>
+      <xs:extension base="shortStringType">
+        <xs:attribute name="id" use="optional">
+          <xs:simpleType>
+            <xs:union memberTypes="countryCode xs:positiveInteger"/>
+          </xs:simpleType>
+        </xs:attribute>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:simpleType name="cityType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="2"/>
+      <xs:maxLength value="50"/>
+      <xs:pattern value="([\w|\s](\s|'|\-|/|\.){0,1})+"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="addressType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="3"/>
+      <xs:maxLength value="85"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ** Identity ** -->
+  <xs:simpleType name="emailType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[\w\-\.]+@([\w\-]+\.)+[\w]+"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="faxPhoneType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="3"/>
+      <xs:maxLength value="20"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ** AFS specifics ** -->
+  <xs:attributeGroup name="mandatoryDocumentAttributes">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Defines attributes which are mandatory for any
+        document</xs:documentation>
+      <xs:documentation xml:lang="fr">Attributs a minima pour tout document</xs:documentation>
+    </xs:annotation>
+    <xs:attribute name="id" type="splitId" use="required"/>
+    <xs:attribute ref="xml:lang" use="required"/>
+    <xs:attribute name="action" use="optional">
+      <xs:annotation>
+        <xs:documentation xml:lang="en">In incremental mode, determines action on current document</xs:documentation>
+        <xs:documentation xml:lang="fr">En mode incrémental, précise l'action à faire sur le document courant</xs:documentation>
+      </xs:annotation>
+      <xs:simpleType>
+      <xs:restriction base="xs:token">
+        <xs:enumeration value="add"/>
+        <xs:enumeration value="update"/>
+        <xs:enumeration value="delete"/>
+      </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+
+  <xs:complexType name="anyDocument">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Minimal definition of a document</xs:documentation>
+      <xs:documentation xml:lang="fr">Définition minimale d'un document</xs:documentation>
+    </xs:annotation>
+    <xs:complexContent>
+      <xs:extension base="xs:anyType">
+        <xs:attributeGroup ref="mandatoryDocumentAttributes"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <xs:simpleType name="stringId">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Used to define alphanumeric value with or without spaces. Can
+        be used for id attributes.</xs:documentation>
+      <xs:documentation xml:lang="fr">Un type qui définit une chaîne alphanumérique à utiliser en
+        id</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1"/>
+      <xs:maxLength value="40"/>
+      <xs:pattern value="([0-9A-Za-z](\s|\-|_|/){0,1})+"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="splitId">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Used to name an xml file with afs_xml_split Paf
+        filter</xs:documentation>
+      <xs:documentation xml:lang="fr">Utilisé par le filtre Paf afs_xml_split pour nommer les
+        fichiers xml</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:token">
+      <xs:minLength value="1"/>
+      <xs:maxLength value="40"/>
+      <xs:pattern value="([0-9A-Za-z](\-|_){0,1})+"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="facetNameType">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Defines the name of a search parameter used for a
+        facet</xs:documentation>
+      <xs:documentation xml:lang="fr">Définit le nom du paramètre de recherche pour une
+        facette</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="shortStringType">
+      <xs:pattern value="[a-zA-Z][a-zA-Z0-9_:]*"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="facetValueType">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Controls facets values</xs:documentation>
+      <xs:documentation xml:lang="fr">Contrôle les valeurs de facette</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1"/>
+      <xs:maxLength value="80"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="facetLabelType">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Controls facets label</xs:documentation>
+      <xs:documentation xml:lang="fr">Contrôle la valeur d'un libellé de facette</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1"/>
+      <xs:maxLength value="70"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="stringIdElementType">
+    <xs:annotation>
+      <xs:documentation xml:lang="en">Common string element, that may require an
+        id</xs:documentation>
+      <xs:documentation xml:lang="fr">Type d'usage courant, qui permet de définir un élément string
+        avec éventuellement un attribut id.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleContent>
+      <xs:extension base="shortStringType">
+        <xs:attribute name="id" type="stringId" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:complexType name="stringRequiredIdElementType">
+    <xs:simpleContent>
+      <xs:restriction base="stringIdElementType">
+        <xs:attribute name="id" type="stringId" use="required"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+
+</xs:schema>

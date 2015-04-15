@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cdm:schema xmlns:cdm="http://www.w3.org/2001/XMLSchema">
+  <cdm:element name="sales_order">
+		<cdm:complexType>
+      <cdm:sequence>
+        <cdm:element name="increment_id" type="cdm:string" />
+        <cdm:element name="parent_id" type="cdm:string" />
+        <cdm:element name="store_id" type="cdm:string" />
+        <cdm:element name="created_at" type="cdm:string" />
+        <cdm:element name="updated_at" type="cdm:string" />
+        <cdm:element name="is_active" type="cdm:string" />
+        <cdm:element name="customer_id" type="cdm:string" />
+        <cdm:element name="tax_amount" type="cdm:string" />
+        <cdm:element name="shipping_amount" type="cdm:string" />
+        <cdm:element name="shipping_refunded" type="cdm:string" />
+        <cdm:element name="discount_amount" type="cdm:string" />
+        <cdm:element name="subtotal" type="cdm:string" />
+        <cdm:element name="subtotal_refunded" type="cdm:string" />
+        <cdm:element name="grand_total" type="cdm:string" />
+        <cdm:element name="total_paid" type="cdm:string" />
+        <cdm:element name="total_refunded" type="cdm:string" />
+        <cdm:element name="total_qty_ordered" type="cdm:string" />
+        <cdm:element name="total_canceled" type="cdm:string" />
+        <cdm:element name="total_invoiced" type="cdm:string" />
+        <cdm:element name="total_online_refunded" type="cdm:string" />
+        <cdm:element name="total_offline_refunded" type="cdm:string" />
+        <cdm:element name="base_tax_amount" type="cdm:string" />
+        <cdm:element name="base_shipping_amount" type="cdm:string" />
+        <cdm:element name="base_discount_amount" type="cdm:string" />
+        <cdm:element name="base_subtotal" type="cdm:string" />
+        <cdm:element name="base_grand_total" type="cdm:string" />
+        <cdm:element name="base_total_paid" type="cdm:string" />
+        <cdm:element name="base_total_refunded" type="cdm:string" />
+        <cdm:element name="base_total_qty_ordered" type="cdm:string" />
+        <cdm:element name="base_total_canceled" type="cdm:string" />
+        <cdm:element name="base_total_invoiced" type="cdm:string" />
+        <cdm:element name="base_total_online_refunded" type="cdm:string" />
+        <cdm:element name="base_total_offline_refunded" type="cdm:string" />
+        <cdm:element name="billing_address_id" type="cdm:string" />
+        <cdm:element name="billing_firstname" type="cdm:string" />
+        <cdm:element name="billing_lastname" type="cdm:string" />
+        <cdm:element name="shipping_address_id" type="cdm:string" />
+        <cdm:element name="shipping_firstname" type="cdm:string" />
+        <cdm:element name="shipping_lastname" type="cdm:string" />
+        <cdm:element name="billing_name" type="cdm:string" />
+        <cdm:element name="shipping_name" type="cdm:string" />
+        <cdm:element name="store_to_base_rate" type="cdm:string" />
+        <cdm:element name="store_to_order_rate" type="cdm:string" />
+        <cdm:element name="base_to_global_rate" type="cdm:string" />
+        <cdm:element name="base_to_order_rate" type="cdm:string" />
+        <cdm:element name="weight" type="cdm:string" />
+        <cdm:element name="store_name" type="cdm:string" />
+        <cdm:element name="remote_ip" type="cdm:string" />
+        <cdm:element name="status" type="cdm:string" />
+        <cdm:element name="state" type="cdm:string" />
+        <cdm:element name="comment" type="cdm:string" />
+        <cdm:element name="applied_rule_ids" type="cdm:string" />
+        <cdm:element name="global_currency_code" type="cdm:string" />
+        <cdm:element name="base_currency_code" type="cdm:string" />
+        <cdm:element name="store_currency_code" type="cdm:string" />
+        <cdm:element name="order_currency_code" type="cdm:string" />
+        <cdm:element name="shipping_method" type="cdm:string" />
+        <cdm:element name="shipping_description" type="cdm:string" />
+        <cdm:element name="customer_email" type="cdm:string" />
+        <cdm:element name="customer_firstname" type="cdm:string" />
+        <cdm:element name="customer_lastname" type="cdm:string" />
+        <cdm:element name="quote_id" type="cdm:string" />
+        <cdm:element name="is_virtual" type="cdm:string" />
+        <cdm:element name="customer_group_id" type="cdm:string" />
+        <cdm:element name="customer_note_notify" type="cdm:string" />
+        <cdm:element name="customer_is_guest" type="cdm:string" />
+        <cdm:element name="email_sent" type="cdm:string" />
+        <cdm:element name="order_id" type="cdm:string" />
+        <cdm:element name="gift_message_id" type="cdm:string" />
+        <cdm:element name="gift_message" type="cdm:string" />
+        <cdm:element name="shipping_address" type="cdm:string" />
+        <cdm:element name="billing_address" type="cdm:string" />
+        <cdm:element name="items">
+          <cdm:complexType>
+            <cdm:sequence>
+              <cdm:element name="item_id" type="cdm:string" />
+              <cdm:element name="order_id" type="cdm:string" />
+              <cdm:element name="quote_item_id" type="cdm:string" />
+              <cdm:element name="created_at" type="cdm:string" />
+              <cdm:element name="updated_at" type="cdm:string" />
+              <cdm:element name="product_id" type="cdm:string" />
+              <cdm:element name="product_type" type="cdm:string" />
+              <cdm:element name="product_options" type="cdm:string" />
+              <cdm:element name="weight" type="cdm:string" />
+              <cdm:element name="is_virtual" type="cdm:string" />
+              <cdm:element name="sku" type="cdm:string" />
+              <cdm:element name="name" type="cdm:string" />
+              <cdm:element name="applied_rule_ids" type="cdm:string" />
+              <cdm:element name="free_shipping" type="cdm:string" />
+              <cdm:element name="is_qty_decimal" type="cdm:string" />
+              <cdm:element name="no_discount" type="cdm:string" />
+              <cdm:element name="qty_canceled" type="cdm:string" />
+              <cdm:element name="qty_reserved" type="cdm:string" ifModule="Embedded ERP"/>
+              <cdm:element name="qty_invoiced" type="cdm:string" />
+              <cdm:element name="qty_ordered" type="cdm:string" />
+              <cdm:element name="qty_refunded" type="cdm:string" />
+              <cdm:element name="qty_shipped" type="cdm:string" />
+              <cdm:element name="cost" type="cdm:string" />
+              <cdm:element name="price" type="cdm:string" />
+              <cdm:element name="base_price" type="cdm:string" />
+              <cdm:element name="original_price" type="cdm:string" />
+              <cdm:element name="base_original_price" type="cdm:string" />
+              <cdm:element name="tax_percent" type="cdm:string" />
+              <cdm:element name="tax_amount" type="cdm:string" />
+              <cdm:element name="base_tax_amount" type="cdm:string" />
+              <cdm:element name="tax_invoiced" type="cdm:string" />
+              <cdm:element name="base_tax_invoiced" type="cdm:string" />
+              <cdm:element name="discount_percent" type="cdm:string" />
+              <cdm:element name="discount_amount" type="cdm:string" />
+              <cdm:element name="base_discount_amount" type="cdm:string" />
+              <cdm:element name="discount_invoiced" type="cdm:string" />
+              <cdm:element name="base_discount_invoiced" type="cdm:string" />
+              <cdm:element name="amount_refunded" type="cdm:string" />
+              <cdm:element name="base_amount_refunded" type="cdm:string" />
+              <cdm:element name="row_total" type="cdm:string" />
+              <cdm:element name="base_row_total" type="cdm:string" />
+              <cdm:element name="row_invoiced" type="cdm:string" />
+              <cdm:element name="base_row_invoiced" type="cdm:string" />
+              <cdm:element name="row_weight" type="cdm:string" />
+              <cdm:element name="gift_message_id" type="cdm:string" />
+              <cdm:element name="gift_message" type="cdm:string" />
+              <cdm:element name="gift_message_available" type="cdm:string" />
+              <cdm:element name="base_tax_before_discount" type="cdm:string" />
+              <cdm:element name="tax_before_discount" type="cdm:string" />
+              <cdm:element name="weee_tax_applied" type="cdm:string" />
+              <cdm:element name="weee_tax_applied_amount" type="cdm:string" />
+              <cdm:element name="weee_tax_applied_row_amount" type="cdm:string" />
+              <cdm:element name="base_weee_tax_applied_amount" type="cdm:string" />
+              <cdm:element name="base_weee_tax_applied_row_amount" type="cdm:string" />
+              <cdm:element name="weee_tax_disposition" type="cdm:string" />
+              <cdm:element name="weee_tax_row_disposition" type="cdm:string" />
+              <cdm:element name="base_weee_tax_disposition" type="cdm:string" />
+              <cdm:element name="base_weee_tax_row_disposition" type="cdm:string" />
+            </cdm:sequence>
+          </cdm:complexType>
+        </cdm:element>
+        <cdm:element name="payment" type="cdm:string" />
+        <cdm:element name="status_history" type="cdm:string" />
+      </cdm:sequence>
+    </cdm:complexType>
+	</cdm:element>
+</cdm:schema>
