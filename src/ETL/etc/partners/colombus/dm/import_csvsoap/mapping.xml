@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+	<in>
+		<fields>
+            <!-- NumeroDimension -->
+            <field>
+                <from>0</from>
+                <to>classification</to>
+            </field>
+            <!-- CodeOccurenceDimension -->
+            <field>
+                <from>1</from>
+                <to>store_id=>default</to>
+            </field>            
+            <!-- LibelleOccurenceDimension -->
+            <field>
+                <from>2</from>
+                <to>store_id=>fr_FR</to>
+            </field>	
+            <!-- ChampVide -->		
+            <field>
+                <from>3</from>
+                <to>empty</to>
+            </field>   
+            <field>
+                <from>attribute_code</from>
+                <to>attribute_code</to>
+            </field>             
+		</fields>
+	</in>
+</mapping>

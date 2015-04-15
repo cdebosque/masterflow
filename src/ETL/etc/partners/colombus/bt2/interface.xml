@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export" model="">
+    <observers>
+        <observer>Observer</observer>
+    </observers>
+    <in>
+        <connection type="mage">
+            <path>{dpam_recette/mage/path}</path>
+            <apiclass>MDN_Purchase_Model_Order_Api</apiclass>
+            <apimethod>items</apimethod>
+            <methodparams>
+                <filters>
+                </filters>
+            </methodparams>
+        </connection>
+        <!--<connection type="soap">
+            <url>{ecpm_switch/soap/api_url}</url>
+            <user>{dpam_recette/soap/user}</user>
+            <key>{dpam_recette/soap/key}</key>
+            <call>call</call>
+            <callparams>
+                <session>{session}</session>
+                <action>mdn_purchase.list</action>
+            </callparams>
+            <debug>1</debug>
+        </connection>-->
+    </in>
+    <out>
+        <connection type="file">
+            <!--<workflow>1</workflow>-->
+            <file>bt2{php::date(ymdHis)}.paq</file>
+            <plugins>
+                <plugin type="ftp">
+                    <server>{colombus/ftp/server}</server>
+                    <user>{colombus/ftp/export/user}</user>
+                    <password>{colombus/ftp/export/password}</password>
+                    <remoteDir>{colombus/ftp/export/remoteDir}</remoteDir>
+                    <remoteFile>bt2{php::date(ymdHis)}.paq</remoteFile>
+                    <override>1</override>
+                </plugin>
+            </plugins>
+        </connection>
+        <format type="csv">
+            <separator>C_TAB</separator>
+            <headline>0</headline>
+        </format>
+    </out>
+
+</interface>

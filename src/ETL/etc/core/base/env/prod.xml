@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esb>
+    <neolane>
+        <sftp>
+            <server>dpam-s.neolane.net</server>
+            <user>dpam</user>
+            <password>EcAkFun8</password>
+        </sftp>
+    </neolane>
+    <!-- TODO : only <ecpm> et <ocpm> (un ESB différent pour oclio et dpam) -->
+    <dpam>
+        <soap>
+            <api_url>http://www.dpam.com/shell/wsdl_v1.xml</api_url>
+            <api2_url>http://www.dpam.com/index.php/api/v2_soap/?wsdl</api2_url>
+            <user>soap_admin_user</user>
+            <key >soap_admin_user</key>
+        </soap>
+        <mage><path></path></mage>
+    </dpam>
+</esb>

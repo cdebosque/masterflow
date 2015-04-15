@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product_attributes_labels">
+	<fetching>0</fetching>
+	<logging/>
+ 	<observers>
+		<observer>Observer</observer>
+	</observers>
+	<in>
+		<connection type="soap">
+				<url>{ocpm/soap/api_url}</url>
+				<user>{ocpm/soap/user}</user>
+				<key>{ocpm/soap/key}</key>
+				<call>call</call>
+				<callparams>
+				    <session>{session}</session>
+				    <action>product_attribute.list</action>
+				    <params>
+				        <setid>4</setid>
+				        <simple>3</simple>
+				    </params>
+				</callparams>
+		</connection>
+		<format type="array"/>
+	</in>
+    <out>
+        <connection type="soap">
+                <url>{ecpm/soap/api_url}</url>
+                <user>{ecpm/soap/user}</user>
+                <key>{ecpm/soap/key}</key>
+                <action>product_attribute.update</action>
+        </connection>
+        <format type="array"/>
+    </out>
+</interface>

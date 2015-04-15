@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="shops">
+	<fetching>1</fetching>
+    <observers>
+        <observer>Observer</observer>
+    </observers>    
+	<in>
+		<connection type="file">
+				<file>boutique.csv</file>
+		</connection>
+		<format type="csv">
+    </format>
+	</in>
+	<out>
+		<connection type="soap">
+                <behavior>3</behavior>
+                <url>{dpam_preprod/soap/api_url}</url>
+                <user>{dpam_preprod/soap/user}</user>
+                <key>{dpam_preprod/soap/key}</key>
+                <callparams>
+                    <session>{session}</session>
+                    <call>shops.add</call>
+                </callparams>                
+		</connection>
+		<format type="array"/>
+	</out>
+</interface>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esb>
+    <oclio_ocpm>
+        <soap>
+            <api_url >http://oclio-preprod1.oclio.com/index.php/api/?wsdl</api_url>
+            <api2_url>http://oclio-preprod1.oclio.com/api/v2_soap/?wsdl=1</api2_url>
+            <user>soap_admin_user</user>
+            <key >soap_admin_user</key>
+        </soap>
+        <mage><path></path></mage>
+    </oclio_ocpm>
+    <oclio_ecpm>
+        <soap>
+            <api_url >http://dpam-preprod1.oclio.com/index.php/api/?wsdl</api_url>
+            <api2_url>http://dpam-preprod1.oclio.com/api/v2_soap/?wsdl=1</api2_url>
+            <user>soap_admin_user</user>
+            <key >soap_admin_user</key>
+        </soap>
+        <mage><path></path></mage>
+    </oclio_ecpm>
+
+    <dpam_ocpm>
+        <soap>
+            <api_url >http://dpam-preprod1.oclio.com/index.php/api/?wsdl</api_url>
+            <api2_url>http://dpam-preprod1.oclio.com/api/v2_soap/?wsdl=1</api2_url>
+            <user>soap_admin_user</user>
+            <key >soap_admin_user</key>
+        </soap>
+        <mage><path></path></mage>
+    </dpam_ocpm>
+    <dpam_ecpm>
+        <soap>
+            <api_url >http://dpam-preprod1.oclio.com/index.php/api/?wsdl</api_url>
+            <api2_url>http://dpam-preprod1.oclio.com/api/v2_soap/?wsdl=1</api2_url>
+            <user>soap_admin_user</user>
+            <key >soap_admin_user</key>
+        </soap>
+        <mage><path></path></mage>
+    </dpam_ecpm>
+</esb>

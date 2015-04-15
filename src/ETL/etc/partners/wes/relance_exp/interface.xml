@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import">
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+  <in fetching="1">
+    <connection type="mage">
+      <debug>0</debug>
+      <path>{dpam/mage/path}</path>
+      <apiclass>OCP_WES_Model_Sales_Order_Api</apiclass>
+      <apimethod>items</apimethod>
+      
+      <methodparams>
+          <flow>EXP</flow>
+          <filters>
+            <status>overload_by_observer</status>
+            <entity_id>{wes/lastCrosslogOrderId}</entity_id>
+          </filters>
+      </methodparams>
+		</connection>
+		<format type="array"/>
+    <mapping active="0"/>
+  </in>
+  <out fetching="0">
+        <connection type="file">
+            <file>EXP{php::counterIncrement(EXP,6)}.PAQ</file>
+            <dir>{DIR_WORKBASE}{IDENTIFIER}/{php::counter(EXP,6)}</dir>
+            <plugins>
+                <plugin type="ftp">
+                    <server>{wes/ftp/server}</server>
+                    <user>{wes/ftp/export/user}</user>
+                    <password>{wes/ftp/export/password}</password>
+                    <remoteDir>{wes/ftp/export/remoteDir}/EXP</remoteDir>
+                    <filePattern>*</filePattern>
+                    <override>1</override>
+                    <checksum>EXP{php::counter(EXP,6)}.FIN</checksum>
+                </plugin>
+            </plugins>
+        </connection>
+        <format type="csv">
+            <separator>C_TAB</separator>
+            <headline >0</headline>
+        </format>
+        <mapping active="0"/>
+    </out>
+</interface>

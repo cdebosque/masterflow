@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import">
+  <observers>
+    <observer>Observer</observer>
+  </observers>
+  <in fetching="1">
+
+    <connection type="file">
+      <workflow>1</workflow>
+      <filePattern>^FL.*\.PAQ$</filePattern>
+      <file>FL{php::date(Ymd-His)}.PAQ</file>
+      <plugins>
+        <plugin type="ftp">
+            <server>{wes/ftp/server}</server>
+            <user>{wes/ftp/import/user}</user>
+            <password>{wes/ftp/import/password}</password>
+            <remoteDir>{wes/ftp/import/remoteDir}/FL</remoteDir>
+            <deleteAuto>1</deleteAuto>
+            <checksum>1</checksum>
+            <cumulative>1</cumulative>
+        </plugin>
+      </plugins>
+		</connection>
+		<format type="csv">
+        <separator>C_TAB</separator>
+        <headline >0</headline>
+    </format>
+    <mapping active="1"/>
+  </in>
+  <out fetching="1">
+    <connection type="mage">
+      <mapping active="0"/>
+      <debug>1</debug>
+      <path>{dpam/mage/path}</path>
+      <apiclass>OCP_WES_Model_Sales_Order_Api</apiclass>
+      <apimethod>update</apimethod>
+      <methodparams>
+        <flow>FL</flow>
+      </methodparams>
+		</connection>
+		<format type="array"/>
+  </out>
+</interface>

@@ -1,0 +1,789 @@
+code_colombus;code_mapped
+0/3;Naissance,3 mois,1 mois
+000M;Naissance
+00M;Naissance
+0M;Naissance
+1/13;Autres
+1/14;14 ans,12 ans
+1/18;18 mois,12 mois
+1/2;23 mois,2 ans,18 mois,12 mois
+1/23;23 mois,18 mois
+1/24;23 mois,18 mois
+1/3;3 mois,1 mois
+10/1;12 ans,10 ans
+1011;10 ans
+10A;10 ans
+11/1;12 ans
+1113;12 ans
+12/1;14 ans,12 ans
+12/2;23 mois,12 mois
+12A;12 ans
+12M;12 mois
+13/1;14 ans
+14/1;14 ans
+14A;14 ans
+15/1;14 ans
+15/2;Pointure 20,Pointure 17,Pointure 16,Pointure 15
+1516;Pointure 16,Pointure 15
+1518;Pointure 18,Pointure 17,Pointure 16,Pointure 15
+16/1;Pointure 17,Pointure 16
+16A;14 ans
+16AN;14 ans
+17/1;Pointure 18,Pointure 17
+1718;Pointure 18,Pointure 17
+18/1;Pointure 19,Pointure 18
+18/2;23 mois,18 mois
+1819;Pointure 19,Pointure 18
+1823;Pointure 23,Pointure 22
+18A;14 ans
+18M;18 mois
+19/1;Pointure 20,Pointure 19
+19/2;Pointure 20,Pointure 19
+1920;Pointure 20,Pointure 19
+1922;Pointure 22,Pointure 21,Pointure 19
+1A;12 mois
+1M;1 mois
+2/3;3 ans,2 ans
+2/4;4 ans,3 ans,2 ans
+20/2;Pointure 21,Pointure 20
+202;Pointure 22
+21/2;Pointure 22,Pointure 21
+21/3;Pointure 23,Pointure 22,Pointure 21
+22/2;Pointure 23,Pointure 22
+23/2;Pointure 24,Pointure 23
+232;Pointure 24,Pointure 23
+2326;Pointure 24,Pointure 23
+23M;23 mois,2 ans
+24/2;Pointure 24
+2426;Pointure 24
+2429;Pointure 24
+24M;23 mois,2 ans
+25/2;Pointure 26,Pointure 25
+26/2;Pointure 27,Pointure 26
+262;Pointure 28,Pointure 27,Pointure 26
+27/2;Pointure 28,Pointure 27
+27/3;Pointure 30,Pointure 29,Pointure 28,Pointure 27
+2730;Pointure 30,Pointure 29,Pointure 28,Pointure 27
+28/2;Pointure 29,Pointure 28
+281;Pointure 38
+29/3;Pointure 30,Pointure 29
+293;Pointure 31,Pointure 30,Pointure 29
+2A;23 mois,2 ans
+3/34;Pointure 34,Pointure 33,Pointure 32,Pointure 31
+3/37;Pointure 37,Pointure 36,Pointure 35
+3/4;4 ans,3 ans
+3/6;6 mois,3 mois
+30/3;Pointure 31,Pointure 30
+3035;Pointure 35,Pointure 34,Pointure 33,Pointure 32,Pointure 31,Pointure 30
+31/3;Pointure 32,Pointure 31
+3134;Pointure 34,Pointure 33,Pointure 32,Pointure 31
+32/3;Pointure 33,Pointure 32
+323;Pointure 34,Pointure 33,Pointure 32
+33/3;Pointure 34,Pointure 33
+34/3;Pointure 35,Pointure 34
+35/3;Pointure 36,Pointure 35
+35/4;Pointure 38,Pointure 37,Pointure 36,Pointure 35
+3537;Pointure 37,Pointure 36,Pointure 35
+3538;Pointure 38,Pointure 37,Pointure 36,Pointure 35
+36/3;Pointure 37,Pointure 36
+38/3;Pointure 38
+38/4;Pointure 38
+3A;3 ans
+3M;3 mois
+4/5;5 ans,4 ans
+4/6;6 ans,5 ans,4 ans
+40/4;Autres
+46;Autres
+4A;4 ans
+5/6;6 ans,5 ans
+5/7;6 ans,5 ans
+50CM;Autres
+55CM;Autres
+5A;5 ans
+6/12;6 mois,12 mois
+6/8;8 ans,6 ans
+6/9;6 mois
+60CM;Autres
+65CM;Autres
+6A;6 ans
+6M;6 mois
+7/8;8 ans
+70CM;Autres
+75B;Autres
+75CM;Autres
+8/10;8 ans,10 ans
+80B;Autres
+80CM;Autres
+85B;Autres
+85CM;Autres
+8A;8 ans
+9/10;10 ans
+9/12;12 mois
+90B;Autres
+95B;Autres
+9M;9 mois
+ABBE;Multicolore
+ABPA;Multicolore
+ABRI;Orange
+ACIE;Gris
+AEMV;Vert
+AFLA;Rose,Multicolore
+AGNO;Noir
+AKVE;Vert
+ALBA;Blanc
+AMAN;Vert
+AMBE;Vert,Multicolore
+AMBR;Vert,Multicolore
+AMET;Violet
+AMIR;Bleu
+AMLA;Violet,Vert,Multicolore
+AMPA;Violet
+ANBE;Gris
+ANIS;Vert
+ANMO;Vert
+ANRG;Rouge
+ANTH;Gris
+ANVE;Vert
+APRG;Orange,Multicolore
+ARBL;Gris
+ARDO;Gris
+ARG;Gris
+ARRG;Rouge
+ASSO;Multicolore
+AUBE;Violet
+AZNA;Bleu
+AZUR;Bleu
+BANA;Jaune
+BANC;Multicolore
+BANM;Multicolore
+BBBE;Blanc
+BBEC;Bleu
+BBEF;Beige
+BBEM;Beige
+BBGC;Beige
+BBJA;Blanc
+BBLC;Bleu
+BBLF;Bleu
+BBLM;Bleu
+BBOF;Rouge
+BBRF;Rouge
+BBRM;Rouge
+BBRO;Beige
+BCBR;Rouge,Bleu
+BCEM;Bleu
+BCIM;Bleu
+BCMA;Bleu
+BCRO;Blanc
+BCSA;Blanc
+BDGR;Blanc
+BDRO;Rose
+BEBL;Bleu
+BECH;Bleu
+BECI;Bleu
+BECL;Beige
+BECM;Bleu
+BEEC;Bleu
+BEFC;Beige
+BEGC;Beige
+BEGR;Gris,Bleu
+BEIG;Beige
+BEJA;Bleu
+BEKA;Beige
+BELI;Jaune
+BEMA;Beige
+BEMO;Beige
+BENE;Vert
+BEOR;Bleu
+BEPR;Beige
+BERG;Rouge,Bleu
+BETU;Bleu
+BEVE;Bleu
+BEVR;Vert
+BGBC;Blanc
+BGBE;Beige
+BGBL;Beige
+BGBR;Rouge,Beige
+BGCH;Beige
+BGCI;Beige
+BGEC;Beige
+BGMA;Beige
+BGMR;Beige
+BGOR;Beige
+BGRC;Gris
+BGRF;Gris
+BGRM;Gris
+BGRO;Rouge,Beige
+BGRS;Beige
+BGVI;Beige
+BIAS;Multicolore
+BIBL;Blanc
+BIBO;Rouge
+BIBR;Rouge
+BICO;Multicolore
+BIEC;Beige
+BIFU;Rose
+BIMA;Bleu
+BINO;Noir
+BITU;Beige
+BJAC;Jaune
+BJAF;Jaune
+BJAM;Jaune
+BJMA;Bleu
+BJOM;Bleu
+BKAC;Vert
+BKAM;Vert
+BKFO;Vert
+BKJA;Blanc
+BKMR;Beige
+BLAM;Blanc
+BLAN;Blanc
+BLAZ;Blanc
+BLBE;Blanc
+BLCH;Bleu
+BLCI;Blanc
+BLCM;Bleu
+BLCR;Bleu
+BLDR;Blanc
+BLEA;Bleu
+BLEC;Bleu
+BLEU;Bleu
+BLFC;Bleu
+BLFM;Blanc
+BLFR;Blanc
+BLGR;Bleu
+BLJE;Bleu
+BLJO;Blanc
+BLLA;Blanc
+BLLI;Bleu
+BLMA;Blanc
+BLMO;Bleu
+BLMV;Blanc
+BLNO;Bleu
+BLOC;Bleu
+BLOR;Blanc
+BLPA;Blanc
+BLRO;Blanc
+BLRU;Rouge,Blanc
+BLTA;Blanc
+BLTU;Blanc
+BLUC;Bleu
+BMA2;Marron
+BMAC;Rose
+BMAF;Violet
+BMAM;Rose
+BMRG;Multicolore
+BMTU;Multicolore
+BMVE;Multicolore
+BOBR;Rouge
+BOFC;Rouge
+BOJE;Rouge
+BOMA;Rouge
+BOMR;Rouge
+BOR;Rouge
+BORC;Orange
+BORD;Rouge
+BORF;Orange
+BORM;Orange
+BORS;Rouge
+BOUT;Vert
+BOVE;Multicolore
+BPTQ;Multicolore
+BRCA;Bleu
+BRD;Rouge
+BRFC;Rouge,Rose
+BRIQ;Rouge,Rose
+BRMO;Rouge,Rose
+BRNO;Rouge,Rose
+BRO2;Rose
+BROC;Rouge
+BROF;Rouge
+BROM;Rouge
+BRRG;Bleu
+BRSA;Blanc
+BRUT;Bleu
+BRVE;Rouge
+BTMA;Vert
+BTUC;Bleu
+BTUR;Bleu
+BUGR;Bleu
+BUMA;Bleu
+BVEC;Vert
+BVEF;Vert
+BVEM;Vert
+BVIF;Violet
+BVIM;Violet
+CACA;Marron
+CACT;Vert
+CAEC;Beige
+CAME;Beige
+CANA;Jaune
+CAND;Jaune
+CANO;Rouge
+CARM;Rouge
+CASS;Rose
+CEEC;Rouge,Rose
+CEGR;Multicolore
+CERI;Rouge,Rose
+CERS;Multicolore
+CHAI;Vert
+CHAM;Beige
+CHAR;Beige
+CHAT;Marron,Beige
+CHCI;Marron
+CHEC;Marron
+CHJO;Marron
+CHOC;Marron
+CHRO;Marron
+CICH;Bleu
+CIDR;Bleu
+CIEC;Bleu,Beige
+CIEL;Bleu
+CIGR;Gris,Bleu
+CIMA;Bleu
+CIMO;Bleu
+CIMR;Marron,Bleu
+CINA;Bleu,Beige
+CIRO;Rose,Bleu
+CITR;Jaune
+CITS;Bleu,Autres
+CIVE;Vert,Jaune
+CLEM;Orange
+CORA;Rose,Orange
+CPSA;Multicolore
+CRAI;Beige
+CRVE;Multicolore
+CTRO;Orange
+DEBL;Noir
+DECL;Bleu
+DEFC;Bleu
+DEGR;Gris
+DEMA;Marron
+DEMO;Bleu
+DENI;Bleu
+DFFU;Rose
+DORE;Jaune
+DOUB;Bleu
+DPRO;Rose
+DRAG;Rose
+DREC;Rose
+DRPR;Rose
+DRRO;Rose
+DVLI;Autres
+EBEN;Noir,Marron
+ECBL;Bleu,Beige
+ECFU;Violet,Rose,Beige
+ECGC;Gris,Beige
+ECGR;Gris,Beige
+ECLI;Rouge,Beige
+ECMA;Bleu,Beige
+ECMR;Marron,Beige
+ECMV;Violet,Beige
+ECNA;Beige
+ECOC;Beige
+ECOR;Orange,Beige
+ECPR;Violet,Beige
+ECRS;Rose,Beige
+ECRU;Beige
+ECSA;Beige
+ECVE;Rouge
+EMER;Vert
+ENZY;Multicolore
+EORG;Rouge,Orange,Multicolore,Beige
+EPIC;Multicolore
+FAN;Multicolore,Autres
+FICE;Beige
+FLEU;Multicolore,Autres
+FMRO;Violet,Rose
+FONT;Vert
+FORE;Vert
+FOUG;Vert
+FRAI;Rose
+FRAM;Rouge,Rose
+FRRO;Rouge,Rose
+FUFR;Rose
+FUMA;Rose
+FURO;Rose
+FUSA;Rose
+FUSH;Rose
+FUVE;Multicolore
+GALE;Gris
+GAZO;Vert
+GCEC;Gris
+GFEC;Gris
+GIEC;Beige
+GITA;Bleu
+GITU;Gris
+GOSP;Marron
+GRBL;Gris,Blanc
+GRCH;Gris
+GRIC;Gris
+GRIF;Gris
+GRIS;Gris
+GRMA;Gris
+GRMO;Gris
+GRNO;Gris
+GROR;Gris
+GRPA;Gris
+GRPE;Gris
+GRRO;Rouge,Gris
+GRSA;Gris
+GRTU;Gris
+GRVE;Gris
+HEEC;Rouge
+HERM;Rouge
+IMPR;Multicolore,Autres
+INCA;Multicolore,Autres
+INCO;Blanc,Autres
+INDI;Bleu
+INEC;Bleu
+IRIS;Multicolore
+IVOI;Beige
+JACL;Jaune
+JAFC;Jaune
+JAGR;Gris
+JAKA;Jaune
+JAMO;Jaune
+JAOR;Orange,Jaune
+JARO;Jaune
+JARR;Autres
+JAUN;Jaune
+JAVE;Jaune
+JEAN;Bleu
+JEBL;Bleu
+JEBR;Rose,Bleu
+JEMA;Bleu
+JENO;Noir
+JEPR;Violet
+JERO;Rose
+JESA;Beige
+JOKV;Vert,Multicolore
+JOR;Jaune
+JORG;Rouge,Multicolore,Jaune
+JOSA;Jaune,Beige
+JRVI;Multicolore,Jaune
+JVEL;Multicolore
+KACL;Vert
+KAFO;Vert
+KAKI;Vert
+KAMA;Vert,Orange,Multicolore
+KAMO;Vert
+KAOR;Vert,Orange,Multicolore
+KARG;Rouge
+KARS;Vert,Multicolore
+KG;Autres
+KKMA;Multicolore
+L;Autres
+LAAN;Bleu
+LAGO;Bleu
+LAVA;Violet
+LDVI;Violet
+LICH;Vert
+LILA;Violet,Rose
+LIME;Vert
+LIN;Beige
+LION;Rouge,Marron
+LIVO;Vert
+M;Autres
+MABL;Bleu,Blanc
+MACL;Violet,Rose
+MAEC;Bleu,Beige
+MAF2;Marron
+MAFU;Violet,Rose,Marron
+MAGR;Marron,Gris
+MAIS;Jaune
+MALA;Rose
+MAMO;Bleu
+MANC;Multicolore
+MAND;Orange
+MANM;Multicolore
+MARC;Marron
+MARE;Beige
+MARG;Rouge
+MARI;Bleu
+MARM;Marron
+MARO;Marron
+MAST;Beige
+MAUM;Violet,Rose
+MAUV;Violet
+MAVE;Vert
+MAVI;Violet,Bleu
+MBEC;Multicolore
+MBEF;Multicolore
+MBEM;Multicolore
+MBLC;Multicolore
+MBLF;Multicolore
+MBLM;Multicolore
+MBOF;Multicolore
+MBRF;Multicolore
+MBRM;Multicolore
+MCIM;Multicolore
+MENT;Vert
+MGRC;Multicolore
+MGRF;Multicolore
+MGRM;Multicolore
+MJAC;Multicolore
+MJAF;Multicolore
+MJAM;Multicolore
+MKAC;Multicolore
+MKAM;Multicolore
+MKFO;Multicolore
+MMA2;Marron
+MMAC;Multicolore
+MMAF;Multicolore
+MMAM;Multicolore
+MOKA;Marron
+MORC;Multicolore
+MORF;Multicolore
+MORM;Multicolore
+MOUS;Vert
+MOUT;Jaune
+MR03;Rose
+MR04;Rose
+MRO2;Rose
+MROC;Rouge,Multicolore
+MROF;Rouge,Multicolore
+MROM;Rouge,Multicolore
+MRSA;Marron
+MRVI;Violet,Rose
+MTUC;Multicolore
+MUAS;Multicolore
+MUBL;Multicolore
+MUBO;Multicolore
+MUBR;Multicolore
+MUEC;Multicolore
+MUFU;Multicolore
+MULT;Multicolore
+MUMA;Multicolore
+MUNO;Multicolore
+MURE;Violet
+MUTU;Multicolore
+MVEC;Multicolore
+MVEF;Multicolore
+MVEM;Multicolore
+MVIF;Multicolore
+MVIM;Multicolore
+MVRO;Rose
+NACR;Blanc,Beige
+NAOC;Bleu,Beige
+NAOR;Orange,Beige
+NARO;Rouge,Beige
+NATA;Beige
+NATU;Beige
+NIL;Vert
+NOBL;Noir,Blanc
+NOCT;Bleu
+NOEC;Noir,Beige
+NOEU;Autres
+NOIR;Noir
+NOUG;Beige
+NUIT;Bleu
+OBJE;Multicolore
+OCEA;Bleu
+OPRG;Multicolore
+OR;Jaune
+ORAN;Orange
+ORCL;Orange
+ORFC;Rouge,Orange
+ORFL;Orange
+ORGR;Gris
+ORMA;Orange,Multicolore,Marron
+ORMO;Orange
+OROG;Rouge
+ORRG;Rouge,Multicolore
+ORRO;Rose,Orange
+ORVR;Vert,Orange,Multicolore
+OSAN;Rouge,Orange
+OXYD;Noir
+P15;Pointure 15
+P16;Pointure 16
+P161;Pointure 16
+P17;Pointure 17
+P18;Pointure 18
+P181;Pointure 18
+P19;Pointure 19
+P191;Pointure 19
+P20;Pointure 20
+P21;Pointure 21
+P211;Pointure 21
+P22;Pointure 22
+P221;Pointure 22
+P23;Pointure 23
+P231;Pointure 23
+P24;Pointure 24
+P241;Pointure 24
+P25;Pointure 25
+P251;Pointure 25
+P26;Pointure 26
+P261;Pointure 26
+P27;Pointure 27
+P271;Pointure 27
+P28;Pointure 28
+P281;Pointure 28
+P29;Pointure 29
+P291;Pointure 29
+P30;Pointure 30
+P301;Pointure 30
+P31;Pointure 31
+P311;Pointure 31
+P32;Pointure 32
+P321;Pointure 32
+P33;Pointure 33
+P331;Pointure 33
+P34;Pointure 34
+P341;Pointure 34
+P35;Pointure 35
+P351;Pointure 35
+P36;Pointure 36
+P361;Pointure 36
+P362;Pointure 36
+P37;Pointure 37
+P371;Pointure 37
+P372;Pointure 37
+P38;Pointure 38
+P381;Pointure 38
+P382;Pointure 38
+PAIL;Jaune
+PALM;Vert
+PAON;Autres
+PAOR;Violet,Rose,Orange,Multicolore
+PAPI;Violet,Vert,Rose,Multicolore
+PARM;Violet,Rose
+PAST;Rouge,Rose
+PAVE;Vert,Rose,Multicolore
+PCBC;Autres
+PERL;Gris
+PERR;Vert
+PETR;Bleu
+PIER;Gris
+PIS;Vert
+PITA;Vert
+PITU;Vert,Multicolore,Bleu
+POMM;Vert
+POUR;Rouge
+PRCI;Violet,Bleu
+PREC;Violet,Beige
+PRPA;Violet,Rose
+PRRS;Violet,Rose
+PRSB;Violet,Beige
+PRUN;Violet
+RAY6;Bleu
+ROBA;Rose
+ROBE;Rose,Bleu
+ROC2;Rose
+ROCL;Rouge,Rose
+ROF2;Rouge,Rose
+ROFC;Rouge
+ROFL;Rose
+ROGR;Rose,Gris
+ROIN;Rouge,Rose
+ROM2;Rose
+ROMO;Rouge
+ROND;Multicolore
+ROSE;Rose
+ROSP;Rose
+ROUA;Rouge
+ROUC;Rouge
+ROUG;Rouge
+ROUI;Rouge
+ROVE;Rouge
+RSRG;Rouge,Rose
+RUBL;Rouge
+RUEC;Rouge
+RUNO;Rouge,Noir
+S;Autres
+SABL;Beige
+SABU;Bleu,Beige
+SAFR;Orange,Jaune
+SAHE;Rouge
+SANT;Autres
+SAPH;Bleu,Autres
+SAPI;Vert
+SAUM;Rose,Orange
+SOLE;Jaune
+SOPH;Bleu
+SOUR;Gris
+SPAH;Autres
+STCA;Bleu
+STON;Bleu
+STRG;Rouge
+T0;Autres
+T01;Naissance,3 mois,1 mois
+T02;6 mois,12 mois
+T03;23 mois,18 mois
+T04;4 ans,3 ans,2 ans
+T05;8 ans,6 ans
+T06;14 ans,12 ans,10 ans
+T1;Autres
+T2;Autres
+T3;Autres
+T32;Autres
+T34;Autres
+T36;Autres
+T38;Autres
+T4;Autres
+T40;Autres
+T42;Autres
+T43;Autres
+T45;Autres
+T46;Autres
+T47;Autres
+T48;Autres
+T49;Autres
+T5;Autres
+T50;Autres
+T51;Autres
+T52;Autres
+T53;Autres
+T54;Autres
+T55;Autres
+T56;Autres
+T65;Autres
+TA;Autres
+TABA;Marron
+TARL;Rouge
+TARO;Rouge
+TASA;Rouge,Marron
+TATU;Marron,Bleu
+TAUP;Marron,Beige
+TOME;Rouge,Orange
+TOUR;Jaune
+TRAN;Blanc,Autres
+TT1;8 ans,6 ans
+TT2;12 ans,10 ans
+TT3;14 ans
+TU;Autres
+TUCL;Bleu
+TUEC;Bleu,Beige
+TUIL;Rouge
+TUMA;Marron
+TURQ;Bleu
+TUVE;Bleu
+VALE;Bleu
+VANI;Blanc,Beige
+VDGR;Vert
+VEBL;Blanc
+VECI;Bleu
+VECL;Vert
+VEDO;Vert
+VEEC;Beige
+VEFC;Vert
+VEFL;Vert
+VEMA;Bleu
+VEMO;Vert
+VERD;Vert
+VERM;Rouge
+VERO;Rose
+VERT;Vert
+VIBL;Violet
+VIEC;Violet,Beige
+VIMO;Violet
+VINO;Violet,Noir
+VIOF;Violet
+VIOL;Violet
+VIRO;Violet,Rose
+VISO;Autres
+VRVI;Violet,Vert
+VXRO;Violet
+XL;Autres
+XS;Autres
+XXL;Autres

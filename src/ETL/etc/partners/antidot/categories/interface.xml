@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="export" model="category">
+  <observers>
+    <observer>Observer</observer>
+  </observers>	
+  <in>
+       <!-- connection type="mage">
+                <path>{dpam/mage/path}</path>
+                 <apiclass>Ocpm_Antidot_Model_Catalog_Category_Api</apiclass>
+                <apimethod>tree</apimethod>
+        </connection -->
+       <connection type="soap">
+         <url >{dpam/soap/api_url}</url>
+         <user>{dpam/soap/user}</user>
+         <key >{dpam/soap/key}</key>
+         <action>antidot_category.tree</action>
+       </connection>        
+   <format type="array" />
+  </in>
+  <out>
+    <connection type="file">
+        <mode>w+</mode>
+        <file>categories-DPAM-fr.xml</file>
+    </connection>
+    <format type="xml">
+      <xmlNodeRoot>categories</xmlNodeRoot>
+    </format>
+ </out>     
+</interface>

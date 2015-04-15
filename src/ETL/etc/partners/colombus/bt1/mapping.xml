@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+    <in>
+        <fields>
+            <field>
+                <from>0</from>
+                <to>cust_code_souche</to>
+            </field>
+            <field>
+                <from>1</from>
+                <to>po_order_id</to>
+            </field>
+            <field>
+                <from>2</from>
+                <to>cust_numero_ligne</to>
+            </field>
+            <field>
+                <from>8</from>
+                <to>po_date</to>
+				<size>10</size>
+            </field>
+            <field>
+                <from>9</from>
+                <to>po_currency</to>
+            </field>
+            <field>
+                <from>10</from>
+                <to>po_currency_changer_rate</to>
+            </field>
+
+            <field>
+                <from>12</from>
+                <to>po_supply_date</to>
+            </field>
+            <field>
+                <from>24</from>
+                <to>sku</to>
+            </field>
+            <field>
+                <from>25</from>
+                <to>ocp_ean</to>
+            </field>
+            <field>
+                <from>26</from>
+                <to>pop_qty</to>
+            </field>
+        </fields>
+    </in>
+</mapping>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model=""  memoryLimit="2048">
+    <observers>
+        <observer>EaiObserverStandard</observer>
+    </observers>
+    <in fetching="500">
+        <mapping active="0"/>
+        <connection type="file">
+            <!--<dir>{DIR_ROOT}var/feeds/in/neolane</dir>-->
+            <workflow>1</workflow>
+            <filePattern>^08-Optins.*.csv$</filePattern>
+            <plugins>
+                <plugin type="ftp">
+                    <server>{neolane/ftp/server}</server>
+                    <user>{neolane/ftp/user}</user>
+                    <password>{neolane/ftp/password}</password>
+                    <override>{neolane/ftp/override}</override>
+                    <remoteDir>/import_optins/</remoteDir>
+                </plugin>
+            </plugins>
+        </connection>
+        <format type="csv">
+            <!--<separator>C_COMMA</separator>-->
+            <separator>C_SEMICOL</separator>
+            <enclosure>C_QUOTE</enclosure>
+            <headline>1</headline>
+        </format>
+    </in>
+    <out fetching="500">
+        <connection type="mage">
+            <path>{dpam/mage/path}</path>
+            <apiclass>Dpam_Neolane_Model_Customer_Api</apiclass>
+            <apimethod>importOptins</apimethod>
+        </connection>
+    </out>
+</interface>

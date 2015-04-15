@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://ref.antidot.net/store/afs#" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://ref.antidot.net/store/afs#" version="2.7" elementFormDefault="qualified">
+  <xs:include schemaLocation="afs-store_CategoryElements.xsd"/>
+  <xs:annotation>
+    <xs:documentation xml:lang="en">E-commerce product brand schema. Designed for
+      AFS@Store.</xs:documentation>
+  </xs:annotation>
+
+  <xs:element name="brand" type="categoryType"/>
+</xs:schema>

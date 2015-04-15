@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="category">
+	<fetching>0</fetching>
+    <observers>
+        <observer>Observer</observer>
+    </observers>    
+	<in>
+		<connection type="soap">
+                <url>{ocpm/soap/api_url}</url>
+				<user>{ocpm/soap/user}</user>
+				<key>{ocpm/soap/key}</key>
+				<call>call</call>
+				<callparams>
+				    <session>{session}</session>
+				    <action>catalog_category.tree</action>
+				</callparams>
+		</connection>
+		<format type="array"/>
+	</in>
+    <out>
+        <connection type="file">
+                <file>category.xml</file>
+        </connection>
+        <format type="xml"/>
+        <mapping active="0"/>
+    </out>
+</interface>

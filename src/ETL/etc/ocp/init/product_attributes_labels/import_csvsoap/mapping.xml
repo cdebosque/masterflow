@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+	<in>
+		<fields>
+            <field>
+                <from>attribute_id</from>
+            </field>
+            <field>
+                <from>attribute_code</from>
+                <to>attribute_code</to>
+            </field>
+            <field>
+                <from>label</from>
+                <to>store_id=>admin</to>
+            </field>
+            <field>
+                <from>EN</from>
+                <to>store_id=>en_US</to>
+            </field>
+            <field>
+                <from>FR</from>
+                <to>store_id=>fr_FR</to>
+            </field>
+            <field>
+                <from>ES</from>
+                <to>store_id=>es_ES</to>
+            </field>
+            <field>
+                <from>IT</from>
+                <to>store_id=>it_IT</to>
+            </field>
+		</fields>
+	</in>
+</mapping>

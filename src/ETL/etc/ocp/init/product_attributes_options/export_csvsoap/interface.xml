@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface type="import" model="product_attributes_options">
+	<fetching>0</fetching>
+	<logging/>
+	<observers>
+		<observer>Observer</observer>
+	</observers>
+    	<in>
+    		<connection type="soap">
+            <url>{dpam/soap/api_url}</url>
+            <user>{dpam/soap/user}</user>
+            <key>{dpam/soap/key}</key>
+            <call>call</call>
+            <callparams>
+                <session>{session}</session>
+        				<action>product_attribute.options</action>
+                <param>
+                    <attribute_code>ocp_size_code</attribute_code>
+                </param>
+            </callparams>                    
+    		</connection>
+    		<format type="array"/>
+    	</in>
+    <out>
+        <connection type="file">
+                <file>ocp_options.csv</file>
+        </connection>
+        <format type="csv"/>
+    </out>
+</interface>

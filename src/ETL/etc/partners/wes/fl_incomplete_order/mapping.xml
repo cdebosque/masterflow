@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+  <in>
+    <fields>
+
+      <field>
+        <from>0</from>
+        <to  >numero_ls</to>
+      </field>
+
+       <field>
+        <from>1</from>
+        <to>code_barre</to>
+      </field>
+
+       <field>
+        <from>2</from>
+        <to>quantite_demandee</to>
+      </field>
+      
+      <field>
+        <from>3</from>
+        <to  >quantite_preparee</to>
+      </field>
+
+      <field>
+        <from></from>
+        <to>statut_commande</to>
+        <constant>logistic_incomplete_order</constant>
+      </field>
+      
+    </fields>
+  </in>
+
+</mapping>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+  <in>
+    <fields>
+    
+      <field>
+        <from>0</from>
+        <to  >code_barre</to>
+      </field>
+      
+       <field>
+        <from>1</from>
+        <to>stock_reel</to>
+      </field>
+      
+      <field>
+        <from>2</from>
+        <to  >date_stock</to>
+      </field>      
+      
+    </fields>
+  </in>
+
+</mapping>
