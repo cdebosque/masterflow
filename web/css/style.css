@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+
+body { 
+    padding-top: 40px; 
+}
+
+.footer {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.dataflowTitle:hover, .dataflowTitle:focus {
+    text-decoration: none;
+}
