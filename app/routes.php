@@ -27,8 +27,6 @@ $app->get('/', "Masterflow\Controller\HomeController::indexAction")->bind('dashb
 // Admin zone
 $app->get('/admin', "Masterflow\Controller\AdminController::indexAction")->bind('admin')->secure(array());
 
-
-
 // Page d'accueil de la gestion des dataflows
 $app->get('/dataflow', "Masterflow\Controller\DataflowController::indexAction")->bind('dataflow')->secure(array());
 	

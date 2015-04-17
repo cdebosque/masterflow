@@ -23,10 +23,10 @@ class LoginRedirect implements ControllerProviderInterface {
 
         // @continue
         if ($app['security']->isGranted('ROLE_ADMIN')) {
-            return $app->redirect($app['url_generator']->generate('admin'));
+            return $app->redirect($app['url_generator']->generate('dashboard'));
         }
 
-        return $app->redirect($app['url_generator']->generate('home-user'));
+        return $app->redirect($app['url_generator']->generate('dashboard'));
     }
 
 }
